@@ -1,4 +1,6 @@
 # Investment
 Useful investment resources 
 
-[李录Q&A](https://xueqiu.com/1214296713/143430883)
+1. [Ideas](./ideas.md)
+2. [Mottos](./mottos.md)
+
