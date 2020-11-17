@@ -15,9 +15,13 @@
 
 1. Know the edge of your own competency(the ability to do something successfully or efficiently). It is not a competency if you don't know the edge of it. I's rather deal with a guy with an IQ of 130 who think it's 125 than the guy with the IQ of 180 who thinks its 200.
 
+## 巴菲特
+
+1. How to grow small sums of Money? Find small securities in your area of competance, occasionally find "wrinkles in the market". When working with a small sum there is an opportunity for a high rate of return. Warren, hedgefunds and analysts do not pay attention to smaller securities, less people aware, less competition, less media coverage and seen as speculative.
 
 ## 自己的感悟
 
 1. 投资 大公司 vs 小公司
 大公司资产众多，极其复杂，很难研究透，非常考验能力圈。同时因为公司庞大，未来相对“稳定”？ 
 小公司，初创公司简单，适合个人仔细研究，寻找其中价值。如果发现亮点，会有很高的回报。
+
