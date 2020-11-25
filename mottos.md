@@ -18,6 +18,7 @@
 ## 巴菲特
 
 1. How to grow small sums of Money? Find small securities in your area of competance, occasionally find "wrinkles in the market". When working with a small sum there is an opportunity for a high rate of return. Warren, hedgefunds and analysts do not pay attention to smaller securities, less people aware, less competition, less media coverage and seen as speculative.
+2. Diversification is generally makes very little sense for anyone that knows what they're doing. Diversification is a protection against ignorance. There aren't that many wonderful businesses, diversification allow you to achieve average. It's confession that you don't really understand the business that you own. Three wonderful businesses is more than you need in this life.
 
 ## 自己的感悟
 
