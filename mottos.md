@@ -22,6 +22,10 @@
 3. Read stock chart won't help you understand the business. When looking at annual report, I like to know as much as I can about the person that's running the business and how they think about the business and what's really going on with the business. I like to understand generally what's going on in all kinds of business that in the same industrial. If I invest A and there are 8 companies in same industrial, I want reports from all of them, so that I can understand how company A is doing. Reading wall street report won't give you any idea, company annual report can enlight you more. 
 4. A great company is gonna be great for thirty years, not three years. If you take a trip for 20 years, you should be totally ok for leaving the money with no orders.You know when you back, it's gonna be a terribly strong company 
 
+## Philip Fisher
+
+1. What are this company doing that his competitors aren’t doing yet?
+
 ## 自己的感悟
 
 1. 投资 大公司 vs 小公司
