@@ -25,6 +25,9 @@
 ## Philip Fisher
 
 1. What are this company doing that his competitors aren’t doing yet?
+2. it is often easier to tell what will happen to the price of a stock than how much time will elapse before it happens. Doing what everybody else is doing at the
+moment, and therefore what you have an almost irresistible urge to do, is often the wrong thing to do at all.
+3.
 
 ## 自己的感悟
 
