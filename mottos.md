@@ -25,9 +25,15 @@
 ## Philip Fisher
 
 1. What are this company doing that his competitors aren’t doing yet?
-2. it is often easier to tell what will happen to the price of a stock than how much time will elapse before it happens. Doing what everybody else is doing at the
+2. The 15 points to look for in a Common Stock
+ - Does the company have products or services with sufficient market potential to make possible a sizable increase in sales for at least several years?
+
+
+## Peter Lynch
+
+1. It is often easier to tell what will happen to the price of a stock than how much time will elapse before it happens. Doing what everybody else is doing at the
 moment, and therefore what you have an almost irresistible urge to do, is often the wrong thing to do at all.
-3.
+2. You won't lose any money if you don't buy it. The only way to lose the money is you buy it and sell it low. 
 
 ## 自己的感悟
 
