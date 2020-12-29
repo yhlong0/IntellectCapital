@@ -38,7 +38,8 @@ moment, and therefore what you have an almost irresistible urge to do, is often 
  - You spend couple months before you buy a house, research location, neighbor, house condition, even hire professional people to check VS you buy a stock so fast without look too much of the company.
  - You usually borrow money from bank to buy house, when housing market not go well, you still pay same amount every month. VS if you use margin account buy stock and price drop, you have to put more money or broker will sell your stock cheaply. 
  - You won't or can't sell your house if housing market crash and you usually hold the house couple years before you sell it. But you might sell your stock tomorrow without difficulty. 
- - You see less price info, commentary, news and etc compare to stock. 
+ - Sell house, you need a truck to move VS Sell stock just few click.
+ - You see less price info, commentary, top 10 price increase house, news and etc compare to stock. 
  
 
 ## 自己的感悟
