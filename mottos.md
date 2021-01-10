@@ -40,6 +40,12 @@ moment, and therefore what you have an almost irresistible urge to do, is often 
  - You won't or can't sell your house if housing market crash and you usually hold the house couple years before you sell it. But you might sell your stock tomorrow without difficulty. 
  - Sell house, you need a truck to move VS Sell stock just few click.
  - You see less price info, commentary, top 10 price increase house, news and etc compare to stock. 
+4. 5 ways to imporve the earning. 
+ - cut the cost
+ - increase the price
+ - try to sale at new market
+ - try to sale more at existing market
+ - Close, remove un-profit sections/business. 
  
 
 ## 自己的感悟
