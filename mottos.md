@@ -46,7 +46,7 @@ moment, and therefore what you have an almost irresistible urge to do, is often 
  - try to sale at new market
  - try to sale more at existing market
  - Close, remove un-profit sections/business. 
- 
+5. Call/Email company you invest and ask questions. If they ignore you, just say you hold a lot of their stock by this broker. 
 
 ## 自己的感悟
 
