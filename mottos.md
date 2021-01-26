@@ -21,6 +21,8 @@
 2. Diversification is generally makes very little sense for anyone that knows what they're doing. Diversification is a protection against ignorance. There aren't that many wonderful businesses, diversification allow you to achieve average. It's confession that you don't really understand the business that you own. Three wonderful businesses is more than you need in this life.
 3. Read stock chart won't help you understand the business. When looking at annual report, I like to know as much as I can about the person that's running the business and how they think about the business and what's really going on with the business. I like to understand generally what's going on in all kinds of business that in the same industrial. If I invest A and there are 8 companies in same industrial, I want reports from all of them, so that I can understand how company A is doing. Reading wall street report won't give you any idea, company annual report can enlight you more. 
 4. A great company is gonna be great for thirty years, not three years. If you take a trip for 20 years, you should be totally ok for leaving the money with no orders.You know when you back, it's gonna be a terribly strong company 
+5.  Cinderella of the ball(Stock bubble): You there, having a wonderful time, the dance partners are getting prettier and you think just one more dance, one more good-looking guy, one more glass of champagne. You think you can get out there at midnight and of course everybody else thinks they're going to get out of there midnight too. 
+In the end it does turn to pumpkins and mice. The problem with this stock dance is there are no clocks on the wall.
 
 ## Philip Fisher
 
