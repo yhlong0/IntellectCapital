@@ -50,6 +50,12 @@ moment, and therefore what you have an almost irresistible urge to do, is often 
  - Close, remove un-profit sections/business. 
 5. Call/Email company you invest and ask questions. If they ignore you, just say you hold a lot of their stock by this broker. 
 
+## Joel Greenblatt
+
+1. Choosing individual stocks without any idea of what you're looking for is like running through a dynamite factory with a buring match.
+You may live, but you're still an idiot.
+
+
 ## 自己的感悟
 
 1. 投资 大公司 vs 小公司
