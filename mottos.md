@@ -14,6 +14,11 @@
 ## 查理 芒格
 
 1. Know the edge of your own competency(the ability to do something successfully or efficiently). It is not a competency if you don't know the edge of it. I's rather deal with a guy with an IQ of 130 who think it's 125 than the guy with the IQ of 180 who thinks its 200.
+2. What are the traits of good investors?
+ - You have to know a lot
+ - Partly it is temperament(天性), partly it is deferred gratification(延迟满足). You got to be willing to wait.
+ - It's a weird combination of patience and aggression. 
+3. In the early days when Charlie and Warren talked about their way of doing things(Value investing), which is working so well, they found some people got it, and they instantly converted to their way and did very well. And some people, no matter how carefully they explained it, and no matter how successful they were, they could never adapt to it. They either got it fast or they didn't get it at all.  
 
 ## 巴菲特
 
