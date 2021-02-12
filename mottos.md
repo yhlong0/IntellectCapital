@@ -28,6 +28,7 @@
 4. A great company is gonna be great for thirty years, not three years. If you take a trip for 20 years, you should be totally ok for leaving the money with no orders.You know when you back, it's gonna be a terribly strong company 
 5.  Cinderella of the ball(Stock bubble): You there, having a wonderful time, the dance partners are getting prettier and you think just one more dance, one more good-looking guy, one more glass of champagne. You think you can get out there at midnight and of course everybody else thinks they're going to get out of there midnight too. 
 In the end it does turn to pumpkins and mice. The problem with this stock dance is there are no clocks on the wall.
+6. If something is not very predictable, forget it. You don't have to be right on every company. You have to make few good decisions in your lifetime. 
 
 ## Philip Fisher
 
