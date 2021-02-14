@@ -29,6 +29,7 @@
 5.  Cinderella of the ball(Stock bubble): You there, having a wonderful time, the dance partners are getting prettier and you think just one more dance, one more good-looking guy, one more glass of champagne. You think you can get out there at midnight and of course everybody else thinks they're going to get out of there midnight too. 
 In the end it does turn to pumpkins and mice. The problem with this stock dance is there are no clocks on the wall.
 6. If something is not very predictable, forget it. You don't have to be right on every company. You have to make few good decisions in your lifetime. 
+7. When you read annual report and find company worth 100b and sell for 35b, any further refining analysis would be a waste of time when what you should be doing is buying the stock. PetroChina it's like if somebody walked in the door and they weigh somewhere between 300 and 350 lbs, I might not know how much they weigh but I would know they were fat and that's all I'm looking for is something is financially fat.
 
 ## Philip Fisher
 
