@@ -15,9 +15,9 @@
 
 1. Know the edge of your own competency(the ability to do something successfully or efficiently). It is not a competency if you don't know the edge of it. I's rather deal with a guy with an IQ of 130 who think it's 125 than the guy with the IQ of 180 who thinks its 200.
 2. What are the traits of good investors?
- - You have to know a lot
- - Partly it is temperament(天性), partly it is deferred gratification(延迟满足). You got to be willing to wait.
- - It's a weird combination of patience and aggression. 
+   - You have to know a lot
+   - Partly it is temperament(天性), partly it is deferred gratification(延迟满足). You got to be willing to wait.
+   - It's a weird combination of patience and aggression. 
 3. In the early days when Charlie and Warren talked about their way of doing things(Value investing), which is working so well, they found some people got it, and they instantly converted to their way and did very well. And some people, no matter how carefully they explained it, and no matter how successful they were, they could never adapt to it. They either got it fast or they didn't get it at all.  
 
 ## 巴菲特
@@ -35,7 +35,7 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 
 1. What are this company doing that his competitors aren’t doing yet?
 2. The 15 points to look for in a Common Stock
- - Does the company have products or services with sufficient market potential to make possible a sizable increase in sales for at least several years?
+   - Does the company have products or services with sufficient market potential to make possible a sizable increase in sales for at least several years?
 
 
 ## Peter Lynch
@@ -44,17 +44,17 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 moment, and therefore what you have an almost irresistible urge to do, is often the wrong thing to do at all.
 2. You won't lose any money if you don't buy it. The only way to lose the money is you buy it and sell it low. 
 3. Why you always make money when you buy a house and lose money when you buy a stock?
- - You spend couple months before you buy a house, research location, neighbor, house condition, even hire professional people to check VS you buy a stock so fast without look too much of the company.
- - You usually borrow money from bank to buy house, when housing market not go well, you still pay same amount every month. VS if you use margin account buy stock and price drop, you have to put more money or broker will sell your stock cheaply. 
- - You won't or can't sell your house if housing market crash and you usually hold the house couple years before you sell it. But you might sell your stock tomorrow without difficulty. 
- - Sell house, you need a truck to move VS Sell stock just few click.
- - You see less price info, commentary, top 10 price increase house, news and etc compare to stock. 
+   - You spend couple months before you buy a house, research location, neighbor, house condition, even hire professional people to check VS you buy a stock so fast without look too much of the company.
+   - You usually borrow money from bank to buy house, when housing market not go well, you still pay same amount every month. VS if you use margin account buy stock and price drop, you have to put more money or broker will sell your stock cheaply. 
+   - You won't or can't sell your house if housing market crash and you usually hold the house couple years before you sell it. But you might sell your stock tomorrow without difficulty. 
+   - Sell house, you need a truck to move VS Sell stock just few click.
+   - You see less price info, commentary, top 10 price increase house, news and etc compare to stock. 
 4. Five ways to imporve the earning. 
- - cut the cost
- - increase the price
- - try to sale at new market
- - try to sale more at existing market
- - Close, remove un-profit sections/business. 
+   - cut the cost
+   - increase the price
+   - try to sale at new market
+   - try to sale more at existing market
+   - Close, remove un-profit sections/business. 
 5. Call/Email company you invest and ask questions. If they ignore you, just say you hold a lot of their stock by this broker. 
 
 ## Joel Greenblatt
@@ -86,13 +86,13 @@ You may live, but you're still an idiot.
 6. Ark基金的看法：
 ARK基金是有自己的选股思路和方法的，他们不是发现破坏性创新的公司就立刻买入，是等待公司摆脱生死存亡，马上进入高速发展的阶段再买入。因为这种选股理念，他们关注的很多是小公司，而且这个思路和彼得林奇，费雪有异曲同工之处。林奇不喜欢“cutting edge”的公司，强调选自己懂的公司。ARK的分析员很多是相关专业的从业人员，有很好的工科背景。我觉得这也是他表现能很成功的原因。  很遗憾的是，很多追ark的人并没有这样的专业背景，单纯的去抄作业。这样其实并不好。另外如果持有ark的人不懂ark，那么在发生崩盘的时候，这些不懂ark的人就会赎回，导致ark反而失去抄底的机会。这也是为什么我认为长期ark可能不一定有巴菲特那么成功。巴菲特并不希望入股贝克希尔的不停的交易，而是全权托付。  ARK的成长速度会慢下来的，因为当基金体量很小的时候，它可以买入这些小盘股，当基金越做越大，很多小公司她慢慢就没有办法考虑了。选对一只十倍小盘股，对整体投资组合的提升是很不错的。可是随着资金越来越多，她就需要挑选一些大点的，而且还能高速成长的好公司。这会对她的挑选眼光提出更高考验。另外她未来也许可以学巴菲特，有足够的魄力直接将看好的公司全盘买下，从而获得源源不断的公司增长。
 7. What do I definitely not want to go to when I am young. (**Inversion Thinking**)
-  - avoid comfort in any age. If you're comfortable, you're absolutely screwed.
-  - hanging around or working with people who I don't admire
-  - doing easy things and avoiding building career moats that you can compound and iterat off
-  - neglecting or abusing your health
-  - gaining liabilities in debt
-  - toxic relationships
-  - feedback less environments
+   - avoid comfort in any age. If you're comfortable, you're absolutely screwed.
+   - hanging around or working with people who I don't admire
+   - doing easy things and avoiding building career moats that you can compound and iterat off
+   - neglecting or abusing your health
+   - gaining liabilities in debt
+   - toxic relationships
+   - feedback less environments
 
  
 
