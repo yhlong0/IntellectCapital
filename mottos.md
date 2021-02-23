@@ -93,6 +93,6 @@ ARK基金是有自己的选股思路和方法的，他们不是发现破坏性�
    - gaining liabilities in debt
    - toxic relationships
    - feedback less environments
-
+8. [知乎价值投资](https://www.zhihu.com/question/20090487)
  
 
