@@ -11,7 +11,7 @@
 1. 把资源，时间分配到最适合，最能创造价值的地方。
 2. 弱水三千，但取一瓢。在纷繁复杂，多变化的过程中，抓到你自己的这一瓢。随着能力增加，视野扩大，这个瓢可以越做越大。但是刚开只有小小的一瓢。（能力圈，投资自己懂的东西）
 
-## 查理 芒格
+## Charlie Munger
 
 1. Know the edge of your own competency(the ability to do something successfully or efficiently). It is not a competency if you don't know the edge of it. I's rather deal with a guy with an IQ of 130 who think it's 125 than the guy with the IQ of 180 who thinks its 200.
 2. What are the traits of good investors?
@@ -19,6 +19,7 @@
    - Partly it is temperament(天性), partly it is deferred gratification(延迟满足). You got to be willing to wait.
    - It's a weird combination of patience and aggression. 
 3. In the early days when Charlie and Warren talked about their way of doing things(Value investing), which is working so well, they found some people got it, and they instantly converted to their way and did very well. And some people, no matter how carefully they explained it, and no matter how successful they were, they could never adapt to it. They either got it fast or they didn't get it at all.  
+4. Generally speaking, trying to dance in and out of the companies you really love, on a long-term basis, has not been a good idea for most investors. It's pretty tough to do. You have to make two decisions right. you have to sell it right first, then you have to buy it right later on. And usually you have to pay some tax in between. If you get into a wonderful business, best thing to do is usually to stick with it.
 
 ## 巴菲特
 
