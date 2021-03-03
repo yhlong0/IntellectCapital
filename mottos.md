@@ -31,6 +31,7 @@
 In the end it does turn to pumpkins and mice. The problem with this stock dance is there are no clocks on the wall.
 6. If something is not very predictable, forget it. You don't have to be right on every company. You have to make few good decisions in your lifetime. 
 7. When you read annual report and find company worth 100b and sell for 35b, any further refining analysis would be a waste of time when what you should be doing is buying the stock. PetroChina it's like if somebody walked in the door and they weigh somewhere between 300 and 350 lbs, I might not know how much they weigh but I would know they were fat and that's all I'm looking for is something is financially fat.
+8. The real fortunes in this country have been made by people who have been right about the business they invested in, and not right about the timing of the stock market. 
 
 ## Philip Fisher
 
