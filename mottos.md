@@ -40,6 +40,8 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 7. When you read annual report and find company worth 100b and sell for 35b, any further refining analysis would be a waste of time when what you should be doing is buying the stock. PetroChina it's like if somebody walked in the door and they weigh somewhere between 300 and 350 lbs, I might not know how much they weigh but I would know they were fat and that's all I'm looking for is something is financially fat.
 8. The real fortunes in this country have been made by people who have been right about the business they invested in, and not right about the timing of the stock market. 
 9. Rule number one, don't lose money, rule number two don't forget rule number one. the most important thing in investing besides the patience is really really focus on the downside. If you truly spend plenty of time thinking about what can go wrong, what could make business suffer. The upside will take care of itself. 
+10. When you just looking at the price of something, you're not investing.
+11. The bond has a coupon like 1-3% attached to it, for stock, it is investor's job to figure out the coupon percentage, usually 7-10%. If government bond goes to 10-15%, it change the value of equity a lot and make it less attractive. People should not own stocks at all because they just get too upset with price fluctuations. The longer you hold stocks, the less risky they've become whereas the long the maturity of a bond the more risky it becomes. 
 
 ## Philip Fisher
 
