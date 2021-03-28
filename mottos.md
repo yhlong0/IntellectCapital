@@ -28,7 +28,7 @@
 4. Generally speaking, trying to dance in and out of the companies you really love, on a long-term basis, has not been a good idea for most investors. It's pretty tough to do. You have to make two decisions right. you have to sell it right first, then you have to buy it right later on. And usually you have to pay some tax in between. If you get into a wonderful business, best thing to do is usually to stick with it.
 5. Over the long term, it's hard for a stock to earn a much better return than the business which underlies it earns. If the business earns 6% on captial over 40 years and you hold it for 40 years, you're not going to make much different than a 6% return -- even if you originally buy it at a huge discount. Conversely, if a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you'll end up with a fine result.
 
-## 巴菲特
+## Warren Buffett
 
 1. How to grow small sums of Money? Find small securities in your area of competance, occasionally find "wrinkles in the market". When working with a small sum there is an opportunity for a high rate of return. Warren, hedgefunds and analysts do not pay attention to smaller securities, less people aware, less competition, less media coverage and seen as speculative.
 2. Diversification is generally makes very little sense for anyone that knows what they're doing. Diversification is a protection against ignorance. There aren't that many wonderful businesses, diversification allow you to achieve average. It's confession that you don't really understand the business that you own. Three wonderful businesses is more than you need in this life.
@@ -39,6 +39,7 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 6. If something is not very predictable, forget it. You don't have to be right on every company. You have to make few good decisions in your lifetime. 
 7. When you read annual report and find company worth 100b and sell for 35b, any further refining analysis would be a waste of time when what you should be doing is buying the stock. PetroChina it's like if somebody walked in the door and they weigh somewhere between 300 and 350 lbs, I might not know how much they weigh but I would know they were fat and that's all I'm looking for is something is financially fat.
 8. The real fortunes in this country have been made by people who have been right about the business they invested in, and not right about the timing of the stock market. 
+9. Rule number one, don't lose money, rule number two don't forget rule number one. the most important thing in investing besides the patience is really really focus on the downside. If you truly spend plenty of time thinking about what can go wrong, what could make business suffer. The upside will take care of itself. 
 
 ## Philip Fisher
 
