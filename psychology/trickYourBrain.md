@@ -16,16 +16,16 @@ obtaining better habits.
 who has positive view live 7 years longer. When you have positive view, you gonna more likely to work out, eat health vs negative view people will say what's 
 point to exercising I'm going to get sick anyway. 
 
-Deep levl behavior changing: 
+  Deep levl behavior changing: 
 
-Result( actions ( identity/belief/mindset ) ) )
+  Result( actions ( identity/belief/mindset ) ) )
 
-The belief/identity we hold, drive the behavior, actions and at the end the result. In Yale example, people has postivie belief, they take positive actions and thus 
-they get positive result. 
+The belief/identity we hold, drive the behavior, actions and at the end the result. In Yale example, people has postivie belief, they take positive actions 
+and thus they get positive result. 
 
 I want to become the person never miss the work out. -> take actions -> good result.
 
-** A shift in mindset leads to a shift in daily choices, and shift in daily choices leads to significantly better results in the long-run. 
+**A shift in mindset leads to a shift in daily choices, and shift in daily choices leads to significantly better results in the long-run.**
 
 3. Ruthless(无情) Elimination
 
