@@ -16,9 +16,9 @@ obtaining better habits.
 who has positive view live 7 years longer. When you have positive view, you gonna more likely to work out, eat health vs negative view people will say what's 
 point to exercising I'm going to get sick anyway. 
 
-  Deep levl behavior changing: 
+Deep level behavior changing: 
 
-  Result( actions ( identity/belief/mindset ) ) )
+Result( actions ( identity/belief/mindset ) ) )
 
 The belief/identity we hold, drive the behavior, actions and at the end the result. In Yale example, people has postivie belief, they take positive actions 
 and thus they get positive result. 
