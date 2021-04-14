@@ -30,6 +30,7 @@
 5. Over the long term, it's hard for a stock to earn a much better return than the business which underlies it earns. If the business earns 6% on captial over 40 years and you hold it for 40 years, you're not going to make much different than a 6% return -- even if you originally buy it at a huge discount. Conversely, if a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you'll end up with a fine result.
 6. The reason we use the phrase "wretched excess" is that there are wretched consequences. If you mix the mathematics of the chain letter or the Ponzi scheme with some legitimate development, like the development of the internet, you are mixing something which is wretched and irrational and has bad consequences, with something that has very good consequences. But, you know, if you mix raisins with turds, they're still turds. 
 7. An occasional dull stretch for new buying, this is no great tragedy in an investment lifetime. Other things may be possible in such an era, too. It isn't like we have a quiver with only one arrow. 
+8. The difference between a good business and a bad business is usually the good business just throws up one easy decision one after another whereas the bad business gives you a horrible choice where the decision is hard to make, is this really gonna work, is it worth the money? If you want a system to judge whether it is a good business or bad business, just to see which one keep throwing the management bloopers time after time.
 
 ## Warren Buffett
 
