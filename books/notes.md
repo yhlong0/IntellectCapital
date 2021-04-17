@@ -3,6 +3,7 @@
 - 穷人希望拥有一个“铁饭碗”的思想是很危险的，比如为政府学校工作。因为如果发生意外，你失去的是所有，或者整个退休计划并不能给你适当良好的生活。富人会掌管自己的财富，做投资。
 - There is a difference between being poor and being broke. Broke is temporary. Poor is eternal. Money is power.
 - 先支付给自己（投资资产），然后再支付别人（账单，税款）。如果你不支付别人，他们就会催你，你就会有压力和动力去努力。如果你不支付自己，你或许就任由其过去，自己也不会有太多抱怨。但是自己的资产比别人的更重要。
+- Does teaching mean talking or a lecture? No! That's how they teach you in school, But that is not how life teaches you. Life is the best teacher of all. Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, 'Wake up. There's something I want you to learn.'
 
 #### 对金钱的欲望与恐惧
 没钱的恐惧会促使我们努力工作，挣到钱之后，欲望会使我们不断提高消费档次。最后我们就会进入一个老鼠赛跑的陷阱，越是富有，这种恐惧就越强烈，害怕没钱失去自己的大房子，豪车，“高级生活”。
