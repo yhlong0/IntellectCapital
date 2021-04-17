@@ -4,6 +4,7 @@
 - There is a difference between being poor and being broke. Broke is temporary. Poor is eternal. Money is power.
 - 先支付给自己（投资资产），然后再支付别人（账单，税款）。如果你不支付别人，他们就会催你，你就会有压力和动力去努力。如果你不支付自己，你或许就任由其过去，自己也不会有太多抱怨。但是自己的资产比别人的更重要。
 - Does teaching mean talking or a lecture? No! That's how they teach you in school, But that is not how life teaches you. Life is the best teacher of all. Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, 'Wake up. There's something I want you to learn.'. If you learn life's lessons, you will do well, if not, life will just continue to push you around. People do two things. Some just let life push them around. Others get angry and push back. But they push back against their boss, or their job, or their husband or wife. They do not know it's life that's pushing.
+- People ask their boss for a job and a paycheck, but never teach themselves about money. So most will spend the best years of their lives working for money, not really understanding what it is they are working for. 
 
 #### 对金钱的欲望与恐惧
 没钱的恐惧会促使我们努力工作，挣到钱之后，欲望会使我们不断提高消费档次。最后我们就会进入一个老鼠赛跑的陷阱，越是富有，这种恐惧就越强烈，害怕没钱失去自己的大房子，豪车，“高级生活”。
