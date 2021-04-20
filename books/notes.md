@@ -1,5 +1,7 @@
 # Notes From Reading
 
+- It's not how much money you make. It's how much money you keep. Retirement does not mean not working, it means that, barring unforeseen cataclysmic changes, you can work or not work, and your wealth grows automatically, staying ahead of inflation. Your assets are large enough to grow by themseleves. 
+- I am concerned that too many people are too focused on money and not on their greatest wealth, their education. If people are prepared to be flexible, keep an open mind and learn, their will grow richer and richer despite tough changes. If they think money will solve problems, they will have a rough ride. Intelligence solves problems and produces money. Money without financial intelligence is money soon gone. 
 - 喝酒或者接受任何让人神经错乱的化学物质，会极大的扰乱你的生活习惯。好不容易坚持10天的锻炼，看书等好习惯，可能因为两杯酒而中断，这是非常不值得的。对于希望每天进步1%，养成好习惯，以上行为会极大的增加难度。
 - 穷人希望拥有一个“铁饭碗”的思想是很危险的，比如为政府学校工作。因为如果发生意外，你失去的是所有，或者整个退休计划并不能给你适当良好的生活。富人会掌管自己的财富，做投资。
 - There is a difference between being poor and being broke. Broke is temporary. Poor is eternal. Money is power.
