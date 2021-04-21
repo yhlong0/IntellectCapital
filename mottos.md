@@ -32,6 +32,7 @@
 7. An occasional dull stretch for new buying, this is no great tragedy in an investment lifetime. Other things may be possible in such an era, too. It isn't like we have a quiver with only one arrow. 
 8. The difference between a good business and a bad business is usually the good business just throws up one easy decision one after another whereas the bad business gives you a horrible choice where the decision is hard to make, is this really gonna work, is it worth the money? If you want a system to judge whether it is a good business or bad business, just to see which one keep throwing the management bloopers time after time.
 9. Every value investor tries to get more value than he pays for. I find it much easier to find four or five investments where I have a pretty reasonable chance of being right that they're way above average. It's much easier to find five than it is to find a hundred. 
+10. 25 Cognitive Biases that Ruin Your Life. [click here](https://www.allencheng.com/25-cognitive-biases-charlie-munger/#Bias_14_Deprival-Superreaction_Tendency)
 
 ## Warren Buffett
 
