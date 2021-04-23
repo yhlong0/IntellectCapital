@@ -56,6 +56,7 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 -  You really ought to enjoy where you are at the point. If you can make 12 or 15 percent a year and you desire to save and you like piling it up. **You know it will all come in time. Why risk losing what you have for what you don't need and don't have**.
 -  To make the money they don't have or they don't need, they risk the money that they have and they need, that is really foolish and stupid. If you risk something that is important to you for something unimportant to you, it doesn't make sense. I don't care the odd is 100 to 1 or 1000 to 1. It's like give me a gun with only one bullet and aim your head, asking how much for you to pull the trigger. 
 14. Why you willing to wait indefinitely to buy an attractive stock? We are not going to buy anything just to buy something, if things were 5 or 10 percent cheaper that wouldn't change anything materially, so we won't feel we've missed anything particularly. That doesn't mean you couldn't have a tremendous market in the short-term. Market can do anything. If the money piles up, the money piles up and when we see something that makes sense, we're willing to act very fast, very big. **You don't get paid for activity, you only get paid for being right.** We'll love it when we can swing in a big way. 
+15. Investing is not a business where you take polls, you're not right or wrong because a thousand people agree or disagree with you. You right because your facts and your reasoning are right.
 
 
 
