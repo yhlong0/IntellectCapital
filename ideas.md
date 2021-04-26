@@ -1,3 +1,5 @@
+Tire Company, no matter EVs or other cars, they need tires.
+
 [中国制造2025](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A02025#reference-[4]-16399676-wrap)
 1. 新一代信息技术产业
 2. 高档数控机床和机器人
