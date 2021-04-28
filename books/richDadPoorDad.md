@@ -10,7 +10,7 @@
 - It's not how much money you make. It's how much money you keep. Retirement does not mean not working, it means that, barring unforeseen cataclysmic changes, you can work or not work, and your wealth grows automatically, staying ahead of inflation. Your assets are large enough to grow by themseleves. 
 - I am concerned that too many people are too focused on money and not on their greatest wealth, their education. If people are prepared to be flexible, keep an open mind and learn, their will grow richer and richer despite tough changes. If they think money will solve problems, they will have a rough ride. Intelligence solves problems and produces money. Money without financial intelligence is money soon gone. 
 - Rich people acquire assets, the poor and middle class acquire liabilities that they think are assets. An asset puts money in my pocket. A liability takes money out of my pocket. Money only accentuates the cash-flow pattern running in your head. If your pattern is to spend everything you get, most likely an increase in cash will just result in increase in spending. Thus, the saying, "A fool and his money is one big party". Cash flow tells the story of how a person handles money. The difficulty comes in asking adults to unlearn, or become children again(推翻你引以为傲的思想是最难，但是却又最有意义的事情)
-- 
+- Heroes do more than simply inspire us. Heroes make things look easy. If they can do it, so can I! When it comes to investing, too many people make it sound hard. Instead, find heroes who make it look easy. 
 
 
 #### 对金钱的欲望与恐惧
