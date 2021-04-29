@@ -59,7 +59,9 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 15. Investing is not a business where you take polls, you're not right or wrong because a thousand people agree or disagree with you. You right because your facts and your reasoning are right.
 16. After 3-5 years, no one will remember what is the earning this year for first quarter or third quarter. Pay attention to the big picture. 
 
-
+## Mohnish Pabrai
+1. Five Category of Potential 10-100 baggers.
+   - Businesses which have huge tailwinds. Tailwinds means they just have all the factors moving in their favor, have very deep moats, very long runways, high return on equity, don't need any debt, and the most important condition, **an idiot can run these companies**.
 
 ## Philip Fisher
 
