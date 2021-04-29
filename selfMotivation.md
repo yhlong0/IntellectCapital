@@ -4,3 +4,4 @@
 4. I want to be free to travel the world and live in the lifestyle I love. I want to be young when I do this.
 5. I want to simply be free. I want control over my time and my life.
 6. I want money to work for me.
+7. Finding your path in life is your goal in life. 
