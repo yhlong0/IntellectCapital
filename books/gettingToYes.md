@@ -4,8 +4,7 @@
 
 
 - Soft on the people while remaining hard on the problem. 
-
-
+- Put yourself in their shoes.
 
 
 ### Focus on Interests, Not Positions
