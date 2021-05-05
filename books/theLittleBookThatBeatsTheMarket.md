@@ -21,4 +21,9 @@
 2. The business competitor could make future earning and return lower. However, author believe the formula should give you **above the average business at below average price** which have better moat and able to reinvest their profit to make moat deeper. 
 
 
+### Notes
+
+1.On Wall Street, there is no tooth fairy. Once you leave home, you can put your money under a professional’s pillow, but chances are, when you wake up, all you’ll be left with is lousy performance.
+
+
 
