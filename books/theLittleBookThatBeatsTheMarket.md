@@ -23,7 +23,7 @@
 
 ### Notes
 
-1.On Wall Street, there is no tooth fairy. Once you leave home, you can put your money under a professional’s pillow, but chances are, when you wake up, all you’ll be left with is lousy performance.
-
+1. On Wall Street, there is no tooth fairy. Once you leave home, you can put your money under a professional’s pillow, but chances are, when you wake up, all you’ll be left with is lousy performance.
+2. If you don’t know how to evaluate businesses and project normal earnings several years into the future, you have no business investing in individual stocks in the first place.
 
 
