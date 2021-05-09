@@ -22,4 +22,6 @@
 
 ### Invent Options for Mutual Gain
 
+- There are four major obstacles that inhibit the inventing of an abundance of options: 1) permature judgement. 2) searching fo the single answer. 3) the assumptions of a fixed pie. 4) thinking that "solving their problem is their problem. "
+
 ### Insist on Using Objective Criteria
