@@ -23,5 +23,6 @@
 ### Invent Options for Mutual Gain
 
 - There are four major obstacles that inhibit the inventing of an abundance of options: 1) permature judgement. 2) searching fo the single answer. 3) the assumptions of a fixed pie. 4) thinking that "solving their problem is their problem. "
+- To invent creative options: 1) separate the act of inventing options from the act of judging them. 2) broaden the options on the table rather than look for a single answer. 3) search for mutual gains. 4) invent ways of making their decisions easy. 
 
 ### Insist on Using Objective Criteria
