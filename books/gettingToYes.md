@@ -27,5 +27,6 @@
 - Invent ideas first, decide later. Invent ideas without pausing to consider whether they are good or bad, realistic or unrealistic. 
 - When brainstorm for ideas, it consists of questions, not assertions. "One options is ..., What other options have you thought of? What if we agreed to this? How about doing it this way?"
 - Look through the eyes of different experts.(get advice or more ideas from experts)
+- What costs would we bear if negotiations broke off?
 
 ### Insist on Using Objective Criteria
