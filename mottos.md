@@ -109,6 +109,10 @@ moment, and therefore what you have an almost irresistible urge to do, is often 
 1. Choosing individual stocks without any idea of what you're looking for is like running through a dynamite factory with a buring match.
 You may live, but you're still an idiot.
 
+## 段永平
+
+1. 什么是企业文化？ Mission, Vision, Core Values. Mission 是为什么成立公司，Vision是我们要去哪里，Core Values 是哪些事是对的，哪些事是不对的。一个企业的产品可以模仿，而企业文化是不可以模仿的。企业文化就是木桶的底板，如果企业文化不行，等于木桶没有底板，不能装水的。好的企业文化可以使木桶的其他短板快速补上。
+2. 打造什么样的企业文化？本分，守信用，不赖帐。不是什么钱都赚是一种本分，不是什么事都做是一种本分。
 
 ## 自己的感悟
 
