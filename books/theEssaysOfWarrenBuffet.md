@@ -8,4 +8,4 @@
 6. There are not distinct between "growth investing" and "value investing". They are integrally linked since **growth must be treated as a component of value**.
 7. Acquisitions paid for in stock: buyer sells part of itself to acquire seller. Thinking in this way, it would enable one to evaluate what the buyer is giving up to make the acquisition. 
 8. A bird in the hand is worth two in the bush. （现金流折现）
-9. 
+9. If you don't understand investment and play with margin will kill you. If you do, there is no need for margin. 
