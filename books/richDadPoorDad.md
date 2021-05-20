@@ -1,5 +1,6 @@
 # Notes From Reading
 
+- Money is simply a tool, you buy stuff because you like it, you enjoy it. It gives you comfort, a piece of mind. Money allows you to buy time, allows you have more choice in your life. You can say no to things. Don't spend money for things because you want to impress others or show off. 
 - Rich people buy time, poor people sell time.
 - 喝酒或者接受任何让人神经错乱的化学物质，会极大的扰乱你的生活习惯。好不容易坚持10天的锻炼，看书等好习惯，可能因为两杯酒而中断，这是非常不值得的。对于希望每天进步1%，养成好习惯，以上行为会极大的增加难度。
 - 穷人希望拥有一个“铁饭碗”的思想是很危险的，比如为政府学校工作。因为如果发生意外，你失去的是所有，政府或者公司的退休计划并不能一定给你良好的退休生活。富人会掌管自己的财富，做投资。
