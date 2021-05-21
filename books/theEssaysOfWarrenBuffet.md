@@ -9,3 +9,8 @@
 7. Acquisitions paid for in stock: buyer sells part of itself to acquire seller. Thinking in this way, it would enable one to evaluate what the buyer is giving up to make the acquisition. 
 8. A bird in the hand is worth two in the bush. （现金流折现）
 9. If you don't understand investment and play with margin will kill you. If you do, there is no need for margin. 
+10. We use debt sparingly(节俭) and, when we do borrow, we attempt to structure our loans on a long-term fixed-rate basis. We will reject interesting opportunities rather than over-leverage our balance sheet. 
+11. Once a company moves earnings from one period to another, operating shortfalls that occur thereafter require it to engage in further accounting maneuvers that must be even more "heroic". These can turn fudging into fraud.(More money, it has been noted, has been stolen with the point of a pen than at the point of a gun.)
+12. 巴菲特说如果公司账目看着有点不对，就像你在厨房里看到一只蟑螂，通常这时候厨房不太可能只有一只蟑螂。There is seldom just one cockroah in the kitchen. 
+13. Charlie and I not only don't know today what our businesses will earn next year---we don't even know what they will earn next quarter. We are suspicious of those CEOs who regularly claim they do know the future---and we become downright incredulous(完全不信任) if they consistently reach their declared targets. Managers that always promise to "make the numbers" will at some point be tempted to make up the numbers. 
+14. 
