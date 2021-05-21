@@ -13,4 +13,5 @@
 11. Once a company moves earnings from one period to another, operating shortfalls that occur thereafter require it to engage in further accounting maneuvers that must be even more "heroic". These can turn fudging into fraud.(More money, it has been noted, has been stolen with the point of a pen than at the point of a gun.)
 12. 巴菲特说如果公司账目看着有点不对，就像你在厨房里看到一只蟑螂，通常这时候厨房不太可能只有一只蟑螂。There is seldom just one cockroah in the kitchen. 
 13. Charlie and I not only don't know today what our businesses will earn next year---we don't even know what they will earn next quarter. We are suspicious of those CEOs who regularly claim they do know the future---and we become downright incredulous(完全不信任) if they consistently reach their declared targets. Managers that always promise to "make the numbers" will at some point be tempted to make up the numbers. 
-14. 
+14. 当年的报纸行业也是有赢家通吃的效果，如果当地有几家报纸，通常规模大一点的，浏览量多，广告商也会更倾向于找它投放广告，它的良性循环，导致其他报纸则会进入恶性循环。电视互联网颠覆了报纸行业，将来什么能颠覆互联网或者google，facebook这种公司呢？
+15. 
