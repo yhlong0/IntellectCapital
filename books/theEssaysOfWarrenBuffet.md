@@ -14,4 +14,6 @@
 12. 巴菲特说如果公司账目看着有点不对，就像你在厨房里看到一只蟑螂，通常这时候厨房不太可能只有一只蟑螂。There is seldom just one cockroah in the kitchen. 
 13. Charlie and I not only don't know today what our businesses will earn next year---we don't even know what they will earn next quarter. We are suspicious of those CEOs who regularly claim they do know the future---and we become downright incredulous(完全不信任) if they consistently reach their declared targets. Managers that always promise to "make the numbers" will at some point be tempted to make up the numbers. 
 14. 当年的报纸行业也是有赢家通吃的效果，如果当地有几家报纸，通常规模大一点的，浏览量多，广告商也会更倾向于找它投放广告，它的良性循环，导致其他报纸则会进入恶性循环。电视互联网颠覆了报纸行业，将来什么能颠覆互联网或者google，facebook这种公司呢？
-15. 
+15. We can afford to lose money---even a lot of money. But we can't afford to lose reputation---even a shred of reputation.
+16. There's plenty of money to be made in the center of the court. If it's questionable whether some action is close to the line, just assume it is outside and forget it.
+17. As they say in poker, "If you've been in the game 30 minutes and you don't know who the patsy is, you're the patsy."
