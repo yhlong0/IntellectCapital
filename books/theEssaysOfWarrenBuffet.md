@@ -17,3 +17,6 @@
 15. We can afford to lose money---even a lot of money. But we can't afford to lose reputation---even a shred of reputation.
 16. There's plenty of money to be made in the center of the court. If it's questionable whether some action is close to the line, just assume it is outside and forget it.
 17. As they say in poker, "If you've been in the game 30 minutes and you don't know who the patsy is, you're the patsy."
+18. Berkshire's only participate a few arbitrage. If you have 50 or more per year, you must spend most your time monitoring both the progress of deals and the market movements of the related stocks. This is not how Charlie nor I wish to spend our lives. What's the sense in getting rich just to stare at a ticker tape all day?
+19. We do know that the less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs. If something can't go on forever, it will end. 
+20. The know-nothing investor can actually out-perform most investment professionals by investing in an index fund. Paradoxically, when "dumb" money acknowledges its limitations, it ceases to be dumb. 
