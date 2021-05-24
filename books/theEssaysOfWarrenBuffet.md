@@ -20,3 +20,10 @@
 18. Berkshire's only participate a few arbitrage. If you have 50 or more per year, you must spend most your time monitoring both the progress of deals and the market movements of the related stocks. This is not how Charlie nor I wish to spend our lives. What's the sense in getting rich just to stare at a ticker tape all day?
 19. We do know that the less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs. If something can't go on forever, it will end. 
 20. The know-nothing investor can actually out-perform most investment professionals by investing in an index fund. Paradoxically, when "dumb" money acknowledges its limitations, it ceases to be dumb. 
+21. Occasionally the stock market offers us the chance to buy non-controlling pieces of extraordinary business at truly ridiculous prices. 
+22. "Value Investing" is redundant. What is "investing" if it is not the act of seeking value at least sufficient to justify the amount paid? Consciously paying more for a stock than its calculated value---in the hope that it can soon be sold for a still-higher price---should be labeled speculation. 
+23. If a business is complex or subject to constant change, we're not smart enough to predict future cash flows.
+24. Whose economics are likely to be unexciting over the next few years, this bothers us not an iota. We can be very patient. No matter how great the talent or effort, some things just take times. 
+25. After bought ABC, they let CEO Tom votes our stock, we intend to promote stability where it otherwise might be lacking. That kind of certainty, combined with a good manager and a good business, provides excellent soil for a rich financial harvest. 
+26. If the choice is between a questionable business at a comfortable price or a comfortable business at a questionable price, we much prefer the latter. 
+27. For 10M business sell for 8M, it might take years to gain that 2M profit, time is the friend of the wonder business, the enemy of the mediocre. 
