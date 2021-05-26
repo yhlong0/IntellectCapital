@@ -33,3 +33,4 @@
 31. By being so cautious in respect to leverage, we penalize our returns by a minor amount. Having loads of liquidity, though, lets us sleep well. Moreover, during the episodes of financial chaos that occasionally erupt in our economy, we will be equipped both financially and emotionally to play offense while others scramble for survival. 
 32. We heard "cash is king" in late 2008, just when cash should have been deployed rather than held. 
 33. As Jesse Unruh might have put it, transcations are the mother's milk of finance.
+34. A base business can not be transformed into a golden business by tricks of accounting or capital structure. The man claiming to be a financial alchemist may become rich. But gullible(易受骗的) investors rather than business achievements will usually be the source of his wealth. 
