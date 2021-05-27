@@ -38,4 +38,4 @@
 36. Derivatives, just like stocks and bonds, are sometimes wildly mis-priced. They have dramatically increased the leverage and risks, so they are dangerous. Derivatives have made it almost impossible for investors to understand and analyze our largest commercial banks and investment banks. 
 37. Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. 
 38. Stocks can't outperform businesses indefinitely, for investors as a whole, return decrease as motion increases. 
-39. 
+39. In the mid-1970s repurchases of company shares was a tipoff that company was both undervalued and run by a shareholder-oriented management. Right now, you have to analysis whether they are buying dollar bill for $1.10. 
