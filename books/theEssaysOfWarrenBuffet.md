@@ -34,3 +34,8 @@
 32. We heard "cash is king" in late 2008, just when cash should have been deployed rather than held. 
 33. As Jesse Unruh might have put it, transcations are the mother's milk of finance.
 34. A base business can not be transformed into a golden business by tricks of accounting or capital structure. The man claiming to be a financial alchemist may become rich. But gullible(易受骗的) investors rather than business achievements will usually be the source of his wealth. 
+35. When a problem exists, whether in personnel or in business operations, the time to act is now.
+36. Derivatives, just like stocks and bonds, are sometimes wildly mis-priced. They have dramatically increased the leverage and risks, so they are dangerous. Derivatives have made it almost impossible for investors to understand and analyze our largest commercial banks and investment banks. 
+37. Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. 
+38. Stocks can't outperform businesses indefinitely, for investors as a whole, return decrease as motion increases. 
+39. 
