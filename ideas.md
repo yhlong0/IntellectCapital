@@ -18,3 +18,11 @@ Tire Company, no matter EVs or other cars, they need tires.
 
 
 [ADAS](https://www.cbinsights.com/research/autonomous-driverless-vehicles-corporations-list/?fbclid=IwAR3x1M7G-NlxI_NQXFnvmdPNH9q1bV-0ZrJHEQnM_exvQ6cIS6Qzk8rFs9c)
+
+grasspon
+- link neighbors to use same team for moew, can get cheaper price, because it would be more efficient for them.
+- Neighbors can help promote the product, get $5 discount.
+- User focus, good experience.
+- Have a online system, create a community account, has bunch of householders. they can make a payment easily online. We write check to mower, easy for them as well. In future they could merge account create bigger community.
+- Campaign. advertise. 
+- Build social around neighbors! Create our own professional moew team. 
