@@ -39,3 +39,7 @@
 37. Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. 
 38. Stocks can't outperform businesses indefinitely, for investors as a whole, return decrease as motion increases. 
 39. In the mid-1970s repurchases of company shares was a tipoff that company was both undervalued and run by a shareholder-oriented management. Right now, you have to analysis whether they are buying dollar bill for $1.10. 
+40. We have no interest in supporting the stock, nor will we buy shares if our cash-equivalent holdings are below $20 billion. At Berkshire, financial strength that is unquestionable takes precedence over all else. 
+41. People who buy for non-value reasons are likely to sell for non-value reasons. 
+42. Practice doesn't make perfect, practice makes permanent. 
+
