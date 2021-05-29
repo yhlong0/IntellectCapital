@@ -42,4 +42,9 @@
 40. We have no interest in supporting the stock, nor will we buy shares if our cash-equivalent holdings are below $20 billion. At Berkshire, financial strength that is unquestionable takes precedence over all else. 
 41. People who buy for non-value reasons are likely to sell for non-value reasons. 
 42. Practice doesn't make perfect, practice makes permanent. 
+43. Investment bankers will reassure CEO as to the soundness of his acquization. (Don't ask the barber whther you need a haircut)
+44. If Managers and directors would sell 100% of their business on the same basis they are being asked to sell part of it, and if it isn't smart to sell all on such a basis, they should ask themselves why it is smart to sell a portion. Las Vegas has been built upon the wealth transfers that occur when people engage in seemingly-small disadvantageous capital transactions.
+45. In contemplating mergers and acquisitions, many tend to focus on dilutive to earnings per share or per-share book value. This carries great dangers. Image that a 25-year-old first-year MBA student is considering merging his future income with those of a 25-year-old day laborer. The MBA student, a non-earner, would find that a "share for share" merger of his equity interest in himself with that of the day laborer would enhance his near-term earnings (in a big way!). But what could be sillier for the student than a deal of this kind?
+46. If you buy other businesses with high price, you are running a chain letter in reverse. 
+47. 
 
