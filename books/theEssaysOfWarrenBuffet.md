@@ -46,5 +46,6 @@
 44. If Managers and directors would sell 100% of their business on the same basis they are being asked to sell part of it, and if it isn't smart to sell all on such a basis, they should ask themselves why it is smart to sell a portion. Las Vegas has been built upon the wealth transfers that occur when people engage in seemingly-small disadvantageous capital transactions.
 45. In contemplating mergers and acquisitions, many tend to focus on dilutive to earnings per share or per-share book value. This carries great dangers. Image that a 25-year-old first-year MBA student is considering merging his future income with those of a 25-year-old day laborer. The MBA student, a non-earner, would find that a "share for share" merger of his equity interest in himself with that of the day laborer would enhance his near-term earnings (in a big way!). But what could be sillier for the student than a deal of this kind?
 46. If you buy other businesses with high price, you are running a chain letter in reverse. 
-47. 
+47. The leader banker who undertook to sell Scott Fetzer, but with no success. Unfortunately, Scott Fretzer's letter of engagement with the banking firm provided it a $2.5 million fee upon sale, so investing bank offer a copy of the book on Scott Fetzer, Charlie responded "I'll pay $2.5 million not to read it."
+48. Only in the sales presentations of investment banks do earnings move forever upward. We don't care about the bumps, what matters are the overall results.
 
