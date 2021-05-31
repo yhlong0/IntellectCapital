@@ -48,4 +48,7 @@
 46. If you buy other businesses with high price, you are running a chain letter in reverse. 
 47. The leader banker who undertook to sell Scott Fetzer, but with no success. Unfortunately, Scott Fretzer's letter of engagement with the banking firm provided it a $2.5 million fee upon sale, so investing bank offer a copy of the book on Scott Fetzer, Charlie responded "I'll pay $2.5 million not to read it."
 48. Only in the sales presentations of investment banks do earnings move forever upward. We don't care about the bumps, what matters are the overall results.
+49. Managers and investors alike must undertstand that accounting numbers are the beginning, not the end, of business valuation.
+50. In the long run, the scoreboard for investment decisions is market price. But prices will be determined by future earnings. In investing, just as in baseball, to put runs on the scoreboard one must watch the playing field, not the scoreboard. 
+51. Accounting numbers are the language of business and such are of enormous help to anyone evaluating the worth of a business and tracking its progress. Accounting is but an aid to business thinking, never a substitute for it. 
 
