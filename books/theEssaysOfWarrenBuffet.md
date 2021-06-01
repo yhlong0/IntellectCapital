@@ -51,4 +51,5 @@
 49. Managers and investors alike must undertstand that accounting numbers are the beginning, not the end, of business valuation.
 50. In the long run, the scoreboard for investment decisions is market price. But prices will be determined by future earnings. In investing, just as in baseball, to put runs on the scoreboard one must watch the playing field, not the scoreboard. 
 51. Accounting numbers are the language of business and such are of enormous help to anyone evaluating the worth of a business and tracking its progress. Accounting is but an aid to business thinking, never a substitute for it. 
+52. It has been far safer to steel large sums with a pen than small sums with a gun. 
 
