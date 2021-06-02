@@ -30,3 +30,9 @@
 - What costs would we bear if negotiations broke off?
 
 ### Insist on Using Objective Criteria
+
+- People generally assume that differences between two parties create the problem. Yet differences can also lead to a solution. 
+- Look for items that are of low cost to you and high benefit to them.
+- Be open to reason, but closed to threats
+- The adge-old way to divide a piece of cake between two children: one cuts and the other chooses. 
+- Frame each issue as a joint search for objective criteria, (the cost of the house adjusted for depreciation, recent sale prices of similar houses, independent appraisal), if the seller starts by giving you a position price, ask for the theory behind that price, how did you arrive at that figure?
