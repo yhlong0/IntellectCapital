@@ -36,3 +36,12 @@
 - Be open to reason, but closed to threats
 - The adge-old way to divide a piece of cake between two children: one cuts and the other chooses. 
 - Frame each issue as a joint search for objective criteria, (the cost of the house adjusted for depreciation, recent sale prices of similar houses, independent appraisal), if the seller starts by giving you a position price, ask for the theory behind that price, how did you arrive at that figure?
+- But the protection afforded by adopting a bottom line involves high costs. It limits your ability to benefit from what your learn during negotiation. By definition, a bottom line is a position that is not be changed. To that extent you have shut your ears. Moreover, a bottom line is likely to be set too high.
+- Your best alternative to a negotiated agreement(BATNA)
+- Generate BATNA: 
+  1) Inventing a list of actions you might conceivably take if no agreement is reached
+  2) improving some of the more promising ideas and converting them into practical alternatives
+  3) selecting, tentatively(subject to further conformation）, the one alternative that seems best. 
+- Silence is one of your best weapons. If they have made an unreasonable proposal or an attack you regard as unjustified, the best thing to do may be to sit there and not say a word.
+- One-text procedure(invovle a middle man, help gather/reconcile the requirements). Simply prepare a draft and ask for criticism. 
+- 
