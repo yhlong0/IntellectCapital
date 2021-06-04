@@ -44,4 +44,8 @@
   3) selecting, tentatively(subject to further conformation）, the one alternative that seems best. 
 - Silence is one of your best weapons. If they have made an unreasonable proposal or an attack you regard as unjustified, the best thing to do may be to sit there and not say a word.
 - One-text procedure(invovle a middle man, help gather/reconcile the requirements). Simply prepare a draft and ask for criticism. 
+- Making yourself open to correction and persuasion is a pillar in the strategy of principled negotiation.
+- We have nothing against you personally, we think you're a generous person. Our conern is fairness. More important to us than making a few dollars here and there is the feeling of being treated fairly. No one likes to feel cheated. 
+- In principled negotiation you present your reasons first before offering a proposal. If you announced your proposal first, they probably would not bother to listen to the reasons that followed. Their mind would be elsewhere, considering what objections and counterproposals they should make.
+- 
 - 
