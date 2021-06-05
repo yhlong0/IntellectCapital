@@ -47,5 +47,6 @@
 - Making yourself open to correction and persuasion is a pillar in the strategy of principled negotiation.
 - We have nothing against you personally, we think you're a generous person. Our conern is fairness. More important to us than making a few dollars here and there is the feeling of being treated fairly. No one likes to feel cheated. 
 - In principled negotiation you present your reasons first before offering a proposal. If you announced your proposal first, they probably would not bother to listen to the reasons that followed. Their mind would be elsewhere, considering what objections and counterproposals they should make.
-- 
-- 
+- Just how much authority do you have in this particular negotiation? If answer is ambiguous, you may wish to talk to someone with real authority or to make clear that you on your side are reserving equal freedom to reconsider any point. 
+- Perhaps we could disclose our thinking to some trustworthy third party, who can then tell us whether there is a zone of potential agreement.
+- For good/bad guy routine, recognizing it and stick to principles, 
