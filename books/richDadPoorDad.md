@@ -1,18 +1,18 @@
 # Notes From Reading
 
-- Money is simply a tool, you buy stuff because you like it, you enjoy it. It gives you comfort, a piece of mind. Money allows you to buy time, allows you have more choice in your life. You can say no to things. Don't spend money for things because you want to impress others or show off. 
-- Rich people buy time, poor people sell time.
-- 喝酒或者接受任何让人神经错乱的化学物质，会极大的扰乱你的生活习惯。好不容易坚持10天的锻炼，看书等好习惯，可能因为两杯酒而中断，这是非常不值得的。对于希望每天进步1%，养成好习惯，以上行为会极大的增加难度。
-- 穷人希望拥有一个“铁饭碗”的思想是很危险的，比如为政府学校工作。因为如果发生意外，你失去的是所有，政府或者公司的退休计划并不能一定给你良好的退休生活。富人会掌管自己的财富，做投资。
-- There is a difference between being poor and being broke. Broke is temporary. Poor is eternal. Money is power.
-- 先支付给自己（投资资产），然后再支付别人（账单，税款）。如果你不支付别人，他们就会催你，你就会有压力和动力去努力。如果你不支付自己，你或许就任由其过去，自己也不会有太多抱怨。但是自己的资产比别人的更重要。
-- Does teaching mean talking or a lecture? No! That's how they teach you in school, But that is not how life teaches you. Life is the best teacher of all. Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, 'Wake up. There's something I want you to learn.'. If you learn life's lessons, you will do well, if not, life will just continue to push you around. People do two things. Some just let life push them around. Others get angry and push back. But they push back against their boss, or their job, or their husband or wife. They do not know it's life that's pushing.
 - People ask their boss for a job and a paycheck, but never teach themselves about money. So most will spend the best years of their lives working for money, not really understanding what it is they are working for. 
-- 工资太少，买不起好包，只能抱怨工资少和老板剥削你。即使老板给你付更高的工资，不过是买更多更贵的包，获得更多的债务。当你害怕没钱的日子时，害怕没钱付账单，房租，吃饭，这时候为钱工作是最容易做的事情，然而你最需要的是学习如何让钱为你工作。
+- Money is simply a tool, you buy stuff because you like it, you enjoy it. It gives you comfort, a piece of mind. Money allows you to buy time, allows you have more choice in your life. You can say no to things. Don't spend money for things because you want to impress others or show off. 
 - It's not how much money you make. It's how much money you keep. Retirement does not mean not working, it means that, barring unforeseen cataclysmic changes, you can work or not work, and your wealth grows automatically, staying ahead of inflation. Your assets are large enough to grow by themseleves. 
 - I am concerned that too many people are too focused on money and not on their greatest wealth, their education. If people are prepared to be flexible, keep an open mind and learn, their will grow richer and richer despite tough changes. If they think money will solve problems, they will have a rough ride. Intelligence solves problems and produces money. Money without financial intelligence is money soon gone. 
-- Rich people acquire assets, the poor and middle class acquire liabilities that they think are assets. An asset puts money in my pocket. A liability takes money out of my pocket. Money only accentuates the cash-flow pattern running in your head. If your pattern is to spend everything you get, most likely an increase in cash will just result in increase in spending. Thus, the saying, "A fool and his money is one big party". Cash flow tells the story of how a person handles money. The difficulty comes in asking adults to unlearn, or become children again(推翻你引以为傲的思想是最难，但是却又最有意义的事情)
-- Heroes do more than simply inspire us. Heroes make things look easy. If they can do it, so can I! When it comes to investing, too many people make it sound hard. Instead, find heroes who make it look easy. 
+- Rich people acquire assets(stocks, investing house), the poor and middle class acquire liabilities(fancy cars, nice watch, bag) that they think are assets. An asset puts money in my pocket. A liability takes money out of my pocket. Money only accentuates the cash-flow pattern running in your head. If your pattern is to spend everything you get, most likely an increase in cash will just result in increase in spending. Thus, the saying, "A fool and his money is one big party". Cash flow tells the story of how a person handles money. The difficulty comes in asking adults to unlearn, or become children again(推翻你引以为傲的思想是最难，但是却又最有意义的事情)
+- Does teaching mean talking or a lecture? No! That's how they teach you in school, But that is not how life teaches you. Life is the best teacher of all. Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, 'Wake up. There's something I want you to learn.'. If you learn life's lessons, you will do well, if not, life will just continue to push you around. People do two things. Some just let life push them around. Others get angry and push back. But they push back against their boss, or their job, or their husband or wife. They do not know it's life that's pushing.
+- Rich people buy time, poor people sell time.
+- Heroes do more than simply inspire us. Heroes make things look easy. If they can do it, so can I! When it comes to investing, too many people make it sound hard. Instead, find heroes(Warren Buffett, Charlie Munger) who make it look easy. 
+- There is a difference between being poor and being broke. Broke is temporary. Poor is eternal. Money is power.
+- 穷人希望拥有一个“铁饭碗”的思想是很危险的，比如为政府学校工作。因为如果发生意外，你失去的是所有，政府或者公司的退休计划并不能一定给你良好的退休生活。富人会掌管自己的财富，做投资。
+- 先支付给自己（投资资产），然后再支付别人（账单，税款）。如果你不支付别人，他们就会催你，你就会有压力和动力去努力。如果你不支付自己，你或许就任由其过去，自己也不会有太多抱怨。但是自己的资产比别人的更重要。
+- 工资太少，买不起好包，只能抱怨工资少和老板剥削你。即使老板给你付更高的工资，不过是买更多更贵的包，获得更多的债务。当你害怕没钱的日子时，害怕没钱付账单，房租，吃饭，这时候为钱工作是最容易做的事情，然而你最需要的是学习如何让钱为你工作。
+- 喝酒或者接受任何让人神经错乱的化学物质，会极大的扰乱你的生活习惯。好不容易坚持10天的锻炼，看书等好习惯，可能因为两杯酒而中断，这是非常不值得的。对于希望每天进步1%，养成好习惯，以上行为会极大的增加难度。
 
 
 #### 对金钱的欲望与恐惧
