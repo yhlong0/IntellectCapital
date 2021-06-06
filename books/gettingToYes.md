@@ -50,3 +50,9 @@
 - Just how much authority do you have in this particular negotiation? If answer is ambiguous, you may wish to talk to someone with real authority or to make clear that you on your side are reserving equal freedom to reconsider any point. 
 - Perhaps we could disclose our thinking to some trustworthy third party, who can then tell us whether there is a zone of potential agreement.
 - For good/bad guy routine, recognizing it and stick to principles, 
+- Presented with the opportunity to get more than you think is fair, you should weigh the possible benefits against the potential costs of accepting the windfall(意外之财)， will the unfair result be durable?
+- A good working relationship tends to make it easier to get good substantive outcomes (for both sides). Good substantive outcomes tend to make a good relationship even better.
+- Question your assumptions, listen actively. Be open to learning that they are quite unlike you expected. 
+- Usually you will want to explore interests, options, and criteria for a while before making an offer.
+- In putting forth such a figure you would first explain the reasoning and then give the number.
+- the highest bidder gets the stamps at the price of the second-highest bid.
