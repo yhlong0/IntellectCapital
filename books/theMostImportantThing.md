@@ -7,3 +7,5 @@ better than that of others--both more powerful and at a higher level. Since othe
 4. To get higher returns, all you have to do is make riskier investments? This can't be true, because if riskier investments could be counted on to produce higher returns, they wouldn't be riskier. 
 5. The choice isn't really between value and growth, but between value today and value tomorrow. 
 6. It's hard to consistently do the right thing as an investor. But it's impossible to consistently do the right thing at the right time.
+7. Everyone hopes a buyer will come along who's willing to overpay for what they have for sale. But certainly the hoped-for arrival of this sucker can't be counted on. Unlike having an underpriced asset move to its fair value, expecting appreciation on the part of fairly priced or overpriced asset requires irrationality on the part of buyers that absolutely cannot be considered dependable.
+8. In order to attract capital, riskier investments have to offer the prospect of higher returns, or higher promised returns, or higher expected returns. But there's absolutely nothing to say those higher prospective returns have to materialized. 
