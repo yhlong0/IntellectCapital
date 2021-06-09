@@ -9,3 +9,5 @@ better than that of others--both more powerful and at a higher level. Since othe
 6. It's hard to consistently do the right thing as an investor. But it's impossible to consistently do the right thing at the right time.
 7. Everyone hopes a buyer will come along who's willing to overpay for what they have for sale. But certainly the hoped-for arrival of this sucker can't be counted on. Unlike having an underpriced asset move to its fair value, expecting appreciation on the part of fairly priced or overpriced asset requires irrationality on the part of buyers that absolutely cannot be considered dependable.
 8. In order to attract capital, riskier investments have to offer the prospect of higher returns, or higher promised returns, or higher expected returns. But there's absolutely nothing to say those higher prospective returns have to materialized. 
+9. Risk means more things can happen than will happen, risk will be low only if investors behave prudently.
+10. Over a full career, most investors' results will be determined more by how many losers they have, and how bad they are, than by the greatness of their winners. 
