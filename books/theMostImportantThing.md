@@ -14,3 +14,6 @@ better than that of others--both more powerful and at a higher level. Since othe
 11. Rule number one: most things will prove to be cyclical. Rule number two: some of the greatest opportunities for gain and loss come when other people forget rule number one.
 12. You can't predict, you can prepare.
 13. The risk of losing money and the risk of missiong opportunity. In 2005 - early 2007, with things going so swimmingly, few people imagined that losses could lie ahead. People only worry was that they might miss an opportunity and weren't concerned about losing money, they didn't insist on low purchase prices. Then in late 2007 and 2008, with the credit crisis in full flower, no one worried about missing opportunity, people worried only about losing money. 
+14. The fourth psychological contributor to investor error is the tendency to conform to the view of the herd rather than resist
+15. In the world of investing most people find it terribly hard to sit by and watch while others make more money than they do. 
+16. 
