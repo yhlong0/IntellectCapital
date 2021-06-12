@@ -16,4 +16,6 @@ better than that of others--both more powerful and at a higher level. Since othe
 13. The risk of losing money and the risk of missiong opportunity. In 2005 - early 2007, with things going so swimmingly, few people imagined that losses could lie ahead. People only worry was that they might miss an opportunity and weren't concerned about losing money, they didn't insist on low purchase prices. Then in late 2007 and 2008, with the credit crisis in full flower, no one worried about missing opportunity, people worried only about losing money. 
 14. The fourth psychological contributor to investor error is the tendency to conform to the view of the herd rather than resist
 15. In the world of investing most people find it terribly hard to sit by and watch while others make more money than they do. 
-16. 
+16. All bubbles start with a modicum of truth, the seed of truth for the scenario described lay in technology's very real potential. The fertilizer came from the attendant bullish rationales. And the supercharging came from the price appreciation that was taking place and looked unstoppable.
+17. You must do things not just because they're the opposite of what the crowd is doing, but because you know why the crowd is wrong. Only then will you be able to hold firmly to your views and perhaps buy more as your positions take on the appearance of mistakes and as losses accrue rather than gains. 
+18. During the crisis, lots of bad things seemed possible, but that didn't mean they were going to happen. In times of crisis, people fail to make that distinction.
