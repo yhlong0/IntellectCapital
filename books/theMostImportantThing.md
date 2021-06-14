@@ -31,8 +31,8 @@ better than that of others--both more powerful and at a higher level. Since othe
 28. If we avoid the losers, the winners will take care of themselves. An investor needs do very few things right as long as he avoids big mistakes.
 29. A portfolio that contains too little risk can make you underperform in a bull market, but no one ever went bust from that, there are far worse fates. Also it's easy for you to keep good mood when market is bad.
 30. To achieve superior investment results, your insight into value has to be superior. Value includes: 
-  - Cash on the books  
-  - The value of the tangible asset
-  - The ability of the company or asset to generate cash
-  - The potential for these things to increase
+    - Cash on the books  
+    - The value of the tangible asset
+    - The ability of the company or asset to generate cash
+    - The potential for these things to increase
 31. We don't know what lies ahead in terms of the macro future. Few people if any know what's going to heppen to the economy, interest rates and etc. Thus, the investor's time is better spent trying to gain a knowledge advantage regarding "the knowable": industries, companies and securities. The more micro your focus, the greater the likelihood you can learn things others don't. Incorrect forecasts is a source of significant potential loss. Usually there is someone who forecasts it exactly right, but it's rarely the same person twice. Successful forecast works sometimes but not consistently enought to produce long-term success. 
