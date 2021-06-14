@@ -25,3 +25,14 @@ better than that of others--both more powerful and at a higher level. Since othe
 22. There are two kinds of people who lose money: those who know nothing and those who know everything. 
 23. Many forecasters were driving with their eyes firmly fixed on the rearview mirror, chart/technical analysis enabling them to tell where things were but not where company were going.
 24. It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
+25. Investors often receive credit they don't deserve. One good coup can be enough to build a reputation, but clearly a coup can arise out of randomness alone. Few of these "geniuses" are right more than once or twice in a row. Thus, it's essential to have a large number of observations, lots of years of data before judging a given manager's ability.
+26. There are old investors, and there are bold investors, but there are no old bold investors.
+27. Oaktree portfolios are set up to outperform in bad times, if we can keep up in good times and outperform in bad times, we'll have above-average results over full cycles.(牛市不加仓，甚至会减仓，熊市加仓，所以会有如此表现)
+28. If we avoid the losers, the winners will take care of themselves. An investor needs do very few things right as long as he avoids big mistakes.
+29. A portfolio that contains too little risk can make you underperform in a bull market, but no one ever went bust from that, there are far worse fates. Also it's easy for you to keep good mood when market is bad.
+30. To achieve superior investment results, your insight into value has to be superior. Value includes: 
+  - Cash on the books  
+  - The value of the tangible asset
+  - The ability of the company or asset to generate cash
+  - The potential for these things to increase
+31. We don't know what lies ahead in terms of the macro future. Few people if any know what's going to heppen to the economy, interest rates and etc. Thus, the investor's time is better spent trying to gain a knowledge advantage regarding "the knowable": industries, companies and securities. The more micro your focus, the greater the likelihood you can learn things others don't. Incorrect forecasts is a source of significant potential loss. Usually there is someone who forecasts it exactly right, but it's rarely the same person twice. Successful forecast works sometimes but not consistently enought to produce long-term success. 
