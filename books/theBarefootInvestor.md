@@ -1,7 +1,7 @@
 # The Barefoot Investor
 
 ```
-                 income
+                 Income
               /     |   \
            Blow    Mojo  Grow
           /         |         \
