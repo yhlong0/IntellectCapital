@@ -1,5 +1,19 @@
 # The Barefoot Investor
 
+```
+                 income
+              /     |   \
+           Blow    Mojo  Grow
+          /         |         \
+   Expenses   Safety Money     Long-term
+   Splurge                      Wealth
+    |
+   Leaking
+```
+
+
+
+
 ### Setup Five accounts
 - Daily Expenses 60%
 - Splurge 10%
