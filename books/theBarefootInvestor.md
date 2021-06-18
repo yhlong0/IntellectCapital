@@ -29,4 +29,8 @@
 6. Made a commitment to becoming a little wealthier each day.
 7. There's a limit to how much you can save, but there's no limit to how much you can earn.
 8. The word 'mortgage' comes from old French and roughly translates as 'an agreement till death'.
-9. 
+9. Stay away from debt. If you're smart you don't need it. If you're dumb you got no business using it.
+10. With savings, you don't owe anybody anything. You're free to do whatever the hell you want. That's the power of savings. It's not just a number, it's a way of living.
+11. At your funeral, how will you be remembered? People won't say, he drove a C-Class Mercedes ...
+12. Financial insecurity produces similar feelings to those of physical torture. 
+13. 
