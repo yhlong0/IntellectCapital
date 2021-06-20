@@ -2,11 +2,11 @@
 
 1. Net Income, Revenue, Gross Profit keep going up, 
 2. The Big Five Numbers, should be equal or greater than 10 percent per year for the last 10 years. the ten-year average, the past five year's average, the last year's average. 
-  - Return on investment capital(ROIC)
-  - sales
-  - EPS
-  - equity
-  - cash 
+    - Return on investment capital(ROIC)
+    - sales
+    - EPS
+    - equity
+    - cash 
 4. Gross Margin > 40%, Net Margin > 20%
 5. Retained Earning keep going up. (A good company will keep reinvest), Return of Equity
 6. Business has little to no long term debt, if company can pay off long term debt in 3 year earning, that's good position.
