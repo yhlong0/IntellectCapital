@@ -177,7 +177,7 @@ ARK基金是有自己的选股思路和方法的，他们不是发现破坏性�
 21. 你需要至少看5本书，才能有基本的投资框架和逻辑。1. The little book beats the market告诉你股票的原始定义，2. 彼得林奇告诉你好企业的特性，一些基本心态和原则。3.李录会引导你做价值投资。4.在之前这些基础上，你会发现巴菲特太多可以学，并且每一本书都有金子。5. 芒格会站在很高高度从心理，企业等方面enlight you。
 22. 不应该有价值股，成长股之分，公司成长水平是评判公司价值的一个重要因素。价值投资是一种以低于公司内在价值的价格买入，高于公司内在价值的价格卖出的理念。对于能不断成长的公司，它的价值也会不断增加，所以执行价格高于价值就卖出这条准则变得异常困难，同时希望以低于价值的价格买入变得不那么重要。这也是价值投资者最喜爱的公司，一个买入以后你永远不需要卖出的公司。
 23. Talk to CPA before you sell the stuff, they might help on the tax, once you sell, the option might be limited. 
-24. As a internet company, there might not be a core competence, you have user data, you can gain insight and you can do a lot of more in the area you are not in before. Whether a company has ability to make a good use of this amorphous quality is critical if he can survie in long term. 
+24. As a internet company, there might not be a core competence, you have user data, you can gain insight and you can do a lot of more in the area you are not in before. Whether a company has ability to make a good use of this amorphous quality is critical if he can survie in long term. When you expand, you need to know your priority. 
 
 
 
