@@ -1,1 +1,2 @@
 1. Regarding regualtion, since Alibaba grow a lot, millions users active one the platform, there is huge responsibility come. Don't think goverment stop you doing a lot of thing, it is two-way conversation and why they need to control.
+2. How BABA will be disrupt? The way human interact with machine, from desktop to mobile, we think hard what would be the next form of interaction and be prepared for that.
