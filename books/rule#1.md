@@ -18,4 +18,11 @@
 11. Do not hire a man who does your work for money, but him who does it for love of it. (How to figure out right CEO)
 12. An investor are marrying the CEO, don't marry anyone unless you know and agree with how they're spending your money.
 13. The second quality of a great CEO is that he or she is driven to change the world. BAG -- Big Audacious(bold) Goal. 
+14. How to calculate intransic value? 
+    - Get current EPS
+    - Calculate EPS growth rate or use Equity growth rate or get it from analyst report. 
+    - Estimated future PE, use historical PE or double the growth rate, whichever is lower. 
+    - Future market price = future PE * future EPS
+    - Current market price = future market price / 4, shrink the future market price by the minimum acceptable rate(15%) of return per year to obtain the Sticker Price, 
+    - Purchase price = Current market price / 2, Have at least 50% Margin of Safety
 
