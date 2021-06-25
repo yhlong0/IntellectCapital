@@ -25,4 +25,6 @@
     - Future market price = future PE * future EPS
     - Current market price = future market price / 4, shrink the future market price by the minimum acceptable rate(15%) of return per year to obtain the Sticker Price, 
     - Purchase price = Current market price / 2, Have at least 50% Margin of Safety
+15. We don't really care about how low or high the equity numbers are, but we care a lot about how low or high the equity growth rates are. 
+16. 
 
