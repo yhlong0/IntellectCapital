@@ -178,6 +178,7 @@ ARK基金是有自己的选股思路和方法的，他们不是发现破坏性�
 22. 不应该有价值股，成长股之分，公司成长水平是评判公司价值的一个重要因素。价值投资是一种以低于公司内在价值的价格买入，高于公司内在价值的价格卖出的理念。对于能不断成长的公司，它的价值也会不断增加，所以执行价格高于价值就卖出这条准则变得异常困难，同时希望以低于价值的价格买入变得不那么重要。这也是价值投资者最喜爱的公司，一个买入以后你永远不需要卖出的公司。
 23. Talk to CPA before you sell the stuff, they might help on the tax, once you sell, the option might be limited. 
 24. As a internet company, there might not be a core competence, you have user data, you can gain insight and you can do a lot of more in the area you are not in before. Whether a company has ability to make a good use of this amorphous quality is critical if he can survie in long term. When you expand, you need to know your priority. 
+25. 看到一个蹦极的视频，慢慢犹豫走到边上，张望一圈后发现好高好可怕，试着蹦的时候，腿软摔了一个屁股蹲，没跳下去。再次站起来，又摔了一个屁股蹲而且差点掉下去，半挂着一段时间被工作人员拉上来。当你做一件很难有挑战的事情时，如果不停的衡量困难程度，犹豫不决，恐惧就会被无限放大。特别是先意识到事情很难，尝试时恰巧失败一两次，就会更快的击溃你的心理防线。古人云，一鼓作气，再而衰，三而竭。一口气走到台上跳下去，可能是成功率最高的蹦极方法。对于痛苦和恐惧的事情，一定要越短越好，对于美好享受的事情，要分批慢慢的来才会更幸福。
 
 
 
