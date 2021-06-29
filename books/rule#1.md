@@ -28,4 +28,5 @@
 15. We don't really care about how low or high the equity numbers are, but we care a lot about how low or high the equity growth rates are. 
 16. The first thing most of us must do to become successful investors is to pay off bad debt. 
 17. Don't eat the seed corn, don't spend all your money.
+18. 
 
