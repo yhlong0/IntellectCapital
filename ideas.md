@@ -26,3 +26,10 @@ grasspon
 - Have a online system, create a community account, has bunch of householders. they can make a payment easily online. We write check to mower, easy for them as well. In future they could merge account create bigger community.
 - Campaign. advertise. 
 - Build social around neighbors! Create our own professional moew team. 
+
+
+TastingMarket
+
+At entry, has many posts for tasting, customer can try and see what they like. they could also put button to tell whether they like it or not. first the post close to the door, you can charge higher price. Work with merchansise to promote their products. A sign for best seller.
+
+Enjoy the super market. 
