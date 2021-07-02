@@ -179,6 +179,7 @@ ARK基金是有自己的选股思路和方法的，他们不是发现破坏性�
 23. Talk to CPA before you sell the stuff, they might help on the tax, once you sell, the option might be limited. 
 24. As a internet company, there might not be a core competence, you have user data, you can gain insight and you can do a lot of more in the area you are not in before. Whether a company has ability to make a good use of this amorphous quality is critical if he can survie in long term. When you expand, you need to know your priority. 
 25. 看到一个蹦极的视频，慢慢犹豫走到边上，张望一圈后发现好高好可怕，试着蹦的时候，腿软摔了一个屁股蹲，没跳下去。再次站起来，又摔了一个屁股蹲而且差点掉下去，半挂着一段时间被工作人员拉上来。当你做一件很难有挑战的事情时，如果不停的衡量困难程度，犹豫不决，恐惧就会被无限放大。特别是先意识到事情很难，尝试时恰巧失败一两次，就会更快的击溃你的心理防线。古人云，一鼓作气，再而衰，三而竭。一口气走到台上跳下去，可能是成功率最高的蹦极方法。对于痛苦和恐惧的事情，一定要越短越好，对于美好享受的事情，要分批慢慢的来才会更幸福。
+26. 假设你发现一个公司值10块，现在股票5块，价值投资的你肯定会不断买入。突然间大家都发现这个公司很有前途，并把价格一路推到40块。如果你觉得超过15块就卖掉，10-15块这个过程你已经开始投机，赌有傻子会付超过价值的高价，然后你好卖给他们，当股价越是偏离价值，你想卖掉的冲动也会越大，而投机的成分也越重。假设你有天赋去精准衡量一个企业的价值，作为一个理性的人，你超过10块就应该卖掉，这样你肯定不会参与到投机中。然而这样拥有天赋评估能力的理性人可能永远没法以40块卖掉股票。
 
 
 
