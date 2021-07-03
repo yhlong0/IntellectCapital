@@ -10,4 +10,6 @@
 10. Have the affordable product. 
 11. Corporate presumption and disregard for market realities. Design a car based on customer needs, don't design a car first then try to find a market to sell. 
 12. Branding isn't about products, it is about perception.
-13. 
+13. As Henry Ford remarked on the launch of his Model T, "If I had asked the customer, he would have asked for a faster horse."
+14. Detergent too strong and destory the clothes. **Test products in all conditions. **
+15. Pepsi has hard time to make customer distinguish his brand and coca cola, coke is brown red color. And use blue for brand is just a poor choice. 
