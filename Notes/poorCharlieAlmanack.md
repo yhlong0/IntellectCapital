@@ -21,6 +21,25 @@
   - If you want to get smart, the question you have to keep asking is why
 
 4. Intellectual humility -- Acknowledging what you don't know is the dawning of wisdom 
+  - Stay within a well-defined circle of competence
+  - Identify and reconcile disconfirming evidence
+  - Resist the carving for false precision, false certainties, etc.
+  - Above all, never fool yourself, and remember that you are the easiest person to fool
+ 
+5. Analytic rigor -- Use of the scientific method and effective checklists minimizes errors and omissions
+  - Determine value apart from price, progress apart from activity, wealth apart from size.
+  - It is better to remember the obvious than to grasp the esoteric
+  - Be a business analyst, not a market, macroeconomic, or security analyst
+  - Consider totality of risk and effect, look always at potential second order and higher level impacts.
+  - Think forwards and backwards--always invert
+
+6. Allocation -- Proper allocation of capital is an investor's number one job
+  - Remember that highest and best use is always measured by the next best use(opportunity cost)
+  - Good ideas are rare, when the odds are greatly in your favor, bet heavily
+  - Don't "fall in love" with an investment--be situation-dependent and opportunity-driven
+
+7. Patience -- Resist the natural human bias to act
+
 
 ### Notes
 
