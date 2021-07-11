@@ -1,6 +1,6 @@
 # Poor Charlie's Almanack
 
-## An Investing Principles Checklist
+### An Investing Principles Checklist
 
 1. Risk -- All investment evalutions should begin by measuring risk. especially reputational.
   - In corporate an appropriate margin of safety
