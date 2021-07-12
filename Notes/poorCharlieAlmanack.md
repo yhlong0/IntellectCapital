@@ -39,6 +39,28 @@
   - Don't "fall in love" with an investment--be situation-dependent and opportunity-driven
 
 7. Patience -- Resist the natural human bias to act
+  - "Compound interest is the eighth wonder of the world", never interrupt it unnecessarily
+  - Avoid unnecessary transactional taxes and frictional costs; never take action for its own sake.
+  - Be alert for the arrival of luck
+  - Enjoy the process along with the proceeds(profits), because the process is where you live. 
+
+8. Decisiveness(make decision quickly) -- When proper circumstances present themselves, act with decisiveness and conviction.
+  - Be fearful when others are greedy, and greedy when others are fearful
+  - Opportunity doesn't come often, so seize it when it does
+  - Opportunity meeting the prepared mind: that's the game
+
+9. Change -- Live with change and accept unremovable complexity
+  - Recognize and adapt to the true nature of the world around you; don't expect it to adapt to you. 
+  - Continually challenge and willingly amend your "best-loved ideas"
+  - Recognize reality even when you don't like it--especially when you don't like it
+ 
+10. Focus -- Keep things simple and remember what you set out to do
+  - Remember that reputation and integrity are your most valuable assets -- and can be lost in a heartbeat
+  - Guard against the effects of hubris(overconfidence) and boredom(the state of feeling bored)
+  - Don't overlook the obvious by drowning in minutiae(别由于细节忽视了大方向，重点)
+  - Be careful to exclude unneeded information or slop: "A small leak can sink a great ship"
+  - Face your big troubles: don't sweep them under the rug
+
 
 
 ### Notes
