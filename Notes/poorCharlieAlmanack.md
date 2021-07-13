@@ -72,4 +72,7 @@
 5. I read everything: annual reports, 10K's, 10Q's, biographies, histories, five newspapers a day. On aireplanes, I read the instructions on the backs of the seats. Reading is key. Reading has made me rich over time. -- Warren Buffett 
 6. Any book, which is at all important, should be reread immediately. 
 7. How can smart people so often be wrong? They don't do what I'm telling you to do: use a checklist to be sure you get all the main models and us them together in a multimodular way. 
-8. 
+8. Biological creatures ordinarily prefer effort minimization in routine activities and don't like removals of long-enjoyed benefits. 
+9. The only function of economic forecasting is to make astrology look respectable. 
+10. Man with a Hammer Syndrome, You've got to use different tools checklist-style because you'll miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools and go through them in your mind, you will find a lot of answers that you won't find any other way.
+11. 
