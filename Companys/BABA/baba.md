@@ -17,12 +17,9 @@
 
 ### Management Team
 
-- Jack Ma 
-  A lot of great speechs and he build really good culture for BABA.
-- Joe Tsai
-  Check at least 3-5 interviews of him, he definitely is crucial for BABA success. 
-- Dianel Zhang
-  Current CEO, 11-11 inventor
+- **Jack Ma** A lot of great speechs and he build really good culture for BABA.
+- **Joe Tsai** Check at least 3-5 interviews of him, he definitely is crucial for BABA success. 
+- **Dianel Zhang** Current CEO, 11-11 inventor
   
 ### Notes from Interview
 
