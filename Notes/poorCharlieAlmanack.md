@@ -74,5 +74,20 @@
 7. How can smart people so often be wrong? They don't do what I'm telling you to do: use a checklist to be sure you get all the main models and us them together in a multimodular way. 
 8. Biological creatures ordinarily prefer effort minimization in routine activities and don't like removals of long-enjoyed benefits. 
 9. The only function of economic forecasting is to make astrology look respectable. 
-10. Man with a Hammer Syndrome, You've got to use different tools checklist-style because you'll miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools and go through them in your mind, you will find a lot of answers that you won't find any other way.
-11. 
+10. What's wrong with economics? 
+  - Man with a Hammer Syndrome, You've got to use different tools checklist-style because you'll miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools and go through them in your mind, you will find a lot of answers that you won't find any other way.
+  - Failure to follow the fundamental full attribution ethos of hard science
+  - Physics Envy, e.g. efficient market theory, when you logically derived consequences from this wrong theory, you would get conclusions such as it can never be correct for any corporation to buy its own stock. 
+  - Too much emphasis on macroeconomics
+  - Too little synthesis in economics
+  - Extreme and counterproductive psychological ignorance, Las Vegas slot machines
+  - Too little attention to second- and higher-order effects
+  - Not enough attention to the concept of Febezzlement
+  - Not enough Attention to Virtue and Vice Effects
+12. 4-ways to raise price and sell more. 
+  - Luxury goods, 
+  - Non-luxury goods, high price means high quailty/value.
+  - Raise price and use the extra revenue to make the product better, or sales system work better
+  - Raise the price and use the extra revenue in illegal or unethical ways to drive sales by bribing purchasing agents. e.g. Mutual fund comission fees.
+13. In the real world, it is critical to distinguish when you are "Max Planck" and when you are the "chauffeur". If you cannot legitimately respond to the next question, you are most likely outside your "Circle of Competence".
+14. Even if a manager can perform the full range of tasks better himself, it is still mutually advantageous to divide them up. 
