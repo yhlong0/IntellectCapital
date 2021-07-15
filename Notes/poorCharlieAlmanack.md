@@ -84,6 +84,7 @@
   - Too little attention to second- and higher-order effects
   - Not enough attention to the concept of Febezzlement
   - Not enough Attention to Virtue and Vice Effects
+  
 12. 4-ways to raise price and sell more. 
   - Luxury goods, 
   - Non-luxury goods, high price means high quailty/value.
@@ -91,3 +92,12 @@
   - Raise the price and use the extra revenue in illegal or unethical ways to drive sales by bribing purchasing agents. e.g. Mutual fund comission fees.
 13. In the real world, it is critical to distinguish when you are "Max Planck" and when you are the "chauffeur". If you cannot legitimately respond to the next question, you are most likely outside your "Circle of Competence".
 14. Even if a manager can perform the full range of tasks better himself, it is still mutually advantageous to divide them up. 
+15. Keynes said, it's not bring in the new ideas that's so hard. It's getting rid of the old ones. Better roughly right than precisely wrong.
+16. No matter how smart you are, there are smart people out there who can fool you if they really want to. So, be sure you can trust the smart people you work with.
+17. There's no love that's so right as admiration-based love, and such love should include the instructive dead.
+18. The acquisition of wisdom is a moral duty. It requires that you're hooked on lifetime learning. Without lifetime learning, you people are not going to do very well.
+19. Just as civiliztion can progress only when it invents the method of invention, you can progress only when you learn the method of learning.
+20. History is important, a man who doesn't know what happened before he's born goes through life like a child. 
+21. If you want to end up wise, heavy ideology is very likely to prevent that outcome.
+22. If you would persuade, appeal to interest, not to reason. 
+23. Assidutiy, sit down on your ass until you do it.
