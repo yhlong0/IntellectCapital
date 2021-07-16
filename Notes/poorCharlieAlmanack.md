@@ -101,3 +101,6 @@
 21. If you want to end up wise, heavy ideology is very likely to prevent that outcome.
 22. If you would persuade, appeal to interest, not to reason. 
 23. Assidutiy, sit down on your ass until you do it.
+24. Every mischance in life, however bad, created an opportunity to behave well and it provided an opportunity to learn something useful. 
+25. The human brain must often operate counterproductively just like the ant's(1. If you put pheromone on a live ant, the other ants will drag this useful live ant out of hive. 2. When walking, follow the ant ahead, when stumble into a big circle, they walk round and round until they perish) from unavoidable oversimplicity in its mental process,(in the book <think fast and slow>, we tend to use fast think whenever it possible)
+26. 
