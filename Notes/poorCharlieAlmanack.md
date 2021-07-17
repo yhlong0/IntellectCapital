@@ -103,4 +103,6 @@
 23. Assidutiy, sit down on your ass until you do it.
 24. Every mischance in life, however bad, created an opportunity to behave well and it provided an opportunity to learn something useful. 
 25. The human brain must often operate counterproductively just like the ant's(1. If you put pheromone on a live ant, the other ants will drag this useful live ant out of hive. 2. When walking, follow the ant ahead, when stumble into a big circle, they walk round and round until they perish) from unavoidable oversimplicity in its mental process,(in the book <think fast and slow>, we tend to use fast think whenever it possible)
-26. 
+26. When perception get through to man's brain, it is often misweighted, a magician creating a high-contrast touch pressure, put one hand in hot water and one hand in cold water. To prevent this misperception, you need a simple temperature gauge. 
+27. Fear professional advice, especially when it is good for the advisor.(wrong incentive)
+28. "Granny's Rule": executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tassks. Given reward superpower(dessert), this practice is wise and sound. 
