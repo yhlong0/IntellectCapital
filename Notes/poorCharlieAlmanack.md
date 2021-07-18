@@ -106,3 +106,12 @@
 26. When perception get through to man's brain, it is often misweighted, a magician creating a high-contrast touch pressure, put one hand in hot water and one hand in cold water. To prevent this misperception, you need a simple temperature gauge. 
 27. Fear professional advice, especially when it is good for the advisor.(wrong incentive)
 28. "Granny's Rule": executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tassks. Given reward superpower(dessert), this practice is wise and sound. 
+
+### The Psychology of Human Misjudgement
+  
+- Disliking/Hating Tendency, ignore virtures in the object of dislike, dislike everything merely associated with the object of his dislike. distort other facts to facilitate hatred. 
+- Doubt-Avoidance Tendency, animal tend to make quick easy decision, is surely counterproductive for a prey animal that is threatened by a predator is to take a long time in deciding what to do. 
+- Inconsistency-Avoidance Tendency, the brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance. I wear the chains I forged in life, chains of habit that were too light to be felt before they became too strong to be broken. 
+- Simple, Pain-avoiding Psychological Denial, the reality is too painful to bear, so one distorts the facts until they become bearable. 
+- Stree-Influence Tendency, the dogs hardest to breakdown were also the hardest to return to their pre-breakdown state. 
+  
