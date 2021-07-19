@@ -25,4 +25,8 @@
 - **complusions(冲动，强迫)**, feels motivated to take despite it being contrary to desires or rationality. You want to be fit and healthy, but still eat an unhealthy meal or skip a workout. 
 - **habits**, once a habit does become second nature, breaking it will be difficult. 
 - **anger and passion**,somebody might be damage their own integrity in order to hurt someone else. 
+
+### 感悟
+
+养成一个好习惯，比如锻炼身，需要一个开始，这个开始应该足够简单，足够短，让你无法寻找借口不开始。一旦开始，你需要的就是一点点增加目标，不让这个习惯断掉。毁掉一个习惯也非常容易，喝醉一次酒，身体不适为“借口”，停止一次，之后你可能会继续给自己找借口去减少锻炼次数，最后这个花费许久努力养成的习惯就会被毁掉。
  
