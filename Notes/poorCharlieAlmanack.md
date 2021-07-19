@@ -114,4 +114,7 @@
 - Inconsistency-Avoidance Tendency, the brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance. I wear the chains I forged in life, chains of habit that were too light to be felt before they became too strong to be broken. 
 - Simple, Pain-avoiding Psychological Denial, the reality is too painful to bear, so one distorts the facts until they become bearable. 
 - Stree-Influence Tendency, the dogs hardest to breakdown were also the hardest to return to their pre-breakdown state. 
+- Availability-Misweighing Tendency, the mind overweighs what is easily available.
+- Autopsy(验尸) at Johnson&Johnson, if you make an acquisition and it turns out to be a diaster, all the people, paperwork caused the foolish acquisition are required revisit, comparing predictions with outcomes. 
+- 
   
