@@ -1,9 +1,12 @@
 # The Science of Self-Discipline
 
-> It says that when an individual's mind begins telling them that they are physically or emotionally maxed out, in reality they have only pushed themselves to 40% of their full capacity. Most of us have no clue about our true physical and mental limitations. It is mostly the people who seek out intense challenges that subsequently learn discipline and mental strength, while the rest go about their comfortable lives without any idea of their full capabilities. 
-> Box breathing, regain control by focusing on their breath, 4 seconds in, 4 seconds hold, 4 seconds out. repeating until you can feel your heart rate slow down and normalize.
-> 10X Rule, If you sit in a car for only 10 minutes, you won't prepare for the ride, but how would you prepare for the car ride differently if you knew it was going to be 100 minutes long? Set targets that are 10 times more than wht you think you want, and take 10 times greater action than you think it is necessary to accomplish those targets. 
-> 10 Minute Rule, If you want to quit something beneficial, hold just 10 more minutes, if you want to buy something, wait at least 10 minutes before getting it. If you're doing something productive you might keep doing it for five minutes longer after you first feel the urge to quit. Then the follwing time you go for an extra six or seven minutes, and so on. exercise discipline for a few minutes longer and you'll steadily build better self-discipline with each escalation. 
+### Methods
+
+1. **40% Rule**, It says that when an individual's mind begins telling them that they are physically or emotionally maxed out, in reality they have only pushed themselves to 40% of their full capacity. Most of us have no clue about our true physical and mental limitations. It is mostly the people who seek out intense challenges that subsequently learn discipline and mental strength, while the rest go about their comfortable lives without any idea of their full capabilities. 
+2. **Box breathing**, regain control by focusing on their breath, 4 seconds in, 4 seconds hold, 4 seconds out. repeating until you can feel your heart rate slow down and normalize.
+3. **10X Rule**, If you sit in a car for only 10 minutes, you won't prepare for the ride, but how would you prepare for the car ride differently if you knew it was going to be 100 minutes long? Set targets that are 10 times more than wht you think you want, and take 10 times greater action than you think it is necessary to accomplish those targets. 
+4. **10 Minute Rule**, If you want to quit something beneficial, hold just 10 more minutes, if you want to buy something, wait at least 10 minutes before getting it. If you're doing something productive you might keep doing it for five minutes longer after you first feel the urge to quit. Then the follwing time you go for an extra six or seven minutes, and so on. exercise discipline for a few minutes longer and you'll steadily build better self-discipline with each escalation. 
+5. **75% Rule**, Simply take action when you're only about 75% certain you'll be correct or successful. 
 
 
 ### Notes
@@ -25,8 +28,12 @@
 - **complusions(冲动，强迫)**, feels motivated to take despite it being contrary to desires or rationality. You want to be fit and healthy, but still eat an unhealthy meal or skip a workout. 
 - **habits**, once a habit does become second nature, breaking it will be difficult. 
 - **anger and passion**,somebody might be damage their own integrity in order to hurt someone else. 
+- The best thing you can do is to just start, the best time to start is now. You only have the chance to succeed once you've started, and you can always figure out the details along the way. 
+- Striving for perfection leads to procrastination because it creates a delibitating fear of failure--which prevents starting. 
+- Avoid Rationalizing, don't pat ourselves on the back for being disciplined in the past. e.g. I was so good yesterday, I can take a break today. Stop this kind thinking immediately and don't undercut your own progress. 
+- Decreasing the available time for completing a task caused that task to become simpler and easier and completed in a more timely fashion. When we are given the space, as Parkinson's Law dictates, we expand our work to fill the time. 
 
 ### 感悟
 
-养成一个好习惯，比如锻炼身，需要一个开始，这个开始应该足够简单，足够短，让你无法寻找借口不开始。一旦开始，你需要的就是一点点增加目标，不让这个习惯断掉。毁掉一个习惯也非常容易，喝醉一次酒，身体不适为“借口”，停止一次，之后你可能会继续给自己找借口去减少锻炼次数，最后这个花费许久努力养成的习惯就会被毁掉。
+养成一个好习惯，比如锻炼身，需要一个开始，这个开始应该足够简单，足够短，让你无法寻找借口不开始。一旦开始，你需要的就是一点点增加目标，不让这个习惯断掉。毁掉一个习惯也非常容易，喝醉一次酒，身体不适为“借口”，停止一次(One lapse is all it takes), 之后你可能会继续给自己找借口去减少锻炼次数，最后这个花费许久努力养成的习惯就会被毁掉。
  
