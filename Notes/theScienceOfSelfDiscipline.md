@@ -7,6 +7,8 @@
 3. **10X Rule**, If you sit in a car for only 10 minutes, you won't prepare for the ride, but how would you prepare for the car ride differently if you knew it was going to be 100 minutes long? Set targets that are 10 times more than wht you think you want, and take 10 times greater action than you think it is necessary to accomplish those targets. 
 4. **10 Minute Rule**, If you want to quit something beneficial, hold just 10 more minutes, if you want to buy something, wait at least 10 minutes before getting it. If you're doing something productive you might keep doing it for five minutes longer after you first feel the urge to quit. Then the follwing time you go for an extra six or seven minutes, and so on. exercise discipline for a few minutes longer and you'll steadily build better self-discipline with each escalation. 
 5. **75% Rule**, Simply take action when you're only about 75% certain you'll be correct or successful. 
+6. **Urge Surfing**, 1. Take a few moments to notice where in your body you are experiencing the urges. 2. Once you connect thte urge to the place in your body, focus your attention on that area. Observe the sensations you have there. 3. Spend 1-2 minutes noticing your breath. 4. Imagine that the sensations you feel as a result of your urge are a wave. Watch that rising and falling. 
+7. Creating a disciplined environment. One of the biggest influencers of self-discipline is the environment in which you're implementing it. Environmental factors can either enable discipline or weaken it, and it's unlikely that it will play no role at all. Knowing that your environment affects your success, why play with fire?
 
 
 ### Notes
@@ -32,6 +34,12 @@
 - Striving for perfection leads to procrastination because it creates a delibitating fear of failure--which prevents starting. 
 - Avoid Rationalizing, don't pat ourselves on the back for being disciplined in the past. e.g. I was so good yesterday, I can take a break today. Stop this kind thinking immediately and don't undercut your own progress. 
 - Decreasing the available time for completing a task caused that task to become simpler and easier and completed in a more timely fashion. When we are given the space, as Parkinson's Law dictates, we expand our work to fill the time. 
+- Choosing disciplined actions and decision making also makes your "uncomfortable muscle" stronger. Making a regular habit of embracing uncomfortable situations can have a positive impact on all aspects of your life. Shifting your view of discomfort and choosing to embrace it equips you with the mental strength. 
+- Fighting urges is rarely effective and this weaken your confidence, but curiously observing urges and choose an open attitude about your urges and watch them without fighting htem, they subside much more quickly and effortlessly. The power of urges comes from your willingness to indulge. 
+- Hunger is as temporary as any other urge. 
+- Practice discomfort(Jia Jiang 100 days rejection), the "exercise" that involves pushing yourself to regularly do things that you aren't completely comfortable doing so that you become familiar with the feeling of discomfort itself. Leaving your comfort zone is important because it teaches you that the things you fear aren't as bad as they might seem. Each time you learn that lesson in some small way, your tolerance for discomfort and your willpower both increase.
+- Discipline is inherently uncomfortable, so improving your relationship with discomfort is one of the best ways to improve self-discipline. 
+- 
 
 ### 感悟
 
