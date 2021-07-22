@@ -39,6 +39,11 @@
 - Hunger is as temporary as any other urge. 
 - Practice discomfort(Jia Jiang 100 days rejection), the "exercise" that involves pushing yourself to regularly do things that you aren't completely comfortable doing so that you become familiar with the feeling of discomfort itself. Leaving your comfort zone is important because it teaches you that the things you fear aren't as bad as they might seem. Each time you learn that lesson in some small way, your tolerance for discomfort and your willpower both increase.
 - Discipline is inherently uncomfortable, so improving your relationship with discomfort is one of the best ways to improve self-discipline. 
+- Peer pressure, social expectations, our relationships are a very real foundation of our self-discipline for better or worse. 
+- You are the average of the five people you spend the most time with, your perspective is only one-sixth of what determines your actions, behaviors, and habits. The rest depends on others. 
+- Don't tell people your big goal, that give you false achievement. Tell them of your dissatisfaction with your current state and that they should kick your butt if they see you straying from your plan. 
+- Hawthorne Effect, what actually influencing the behavior of the workers was the awareness that they were being observed. 
+- You should always eat your vegetables first, in other words, the art of delayed gratification. 
 - 
 
 ### 感悟
