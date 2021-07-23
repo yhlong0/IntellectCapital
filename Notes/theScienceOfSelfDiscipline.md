@@ -9,6 +9,12 @@
 5. **75% Rule**, Simply take action when you're only about 75% certain you'll be correct or successful. 
 6. **Urge Surfing**, 1. Take a few moments to notice where in your body you are experiencing the urges. 2. Once you connect thte urge to the place in your body, focus your attention on that area. Observe the sensations you have there. 3. Spend 1-2 minutes noticing your breath. 4. Imagine that the sensations you feel as a result of your urge are a wave. Watch that rising and falling. 
 7. Creating a disciplined environment. One of the biggest influencers of self-discipline is the environment in which you're implementing it. Environmental factors can either enable discipline or weaken it, and it's unlikely that it will play no role at all. Knowing that your environment affects your success, why play with fire?
+8. **10-10-10 Rule**, the next time you feel that you're about to give in to an urge or temptation, stop and ask yourself how you will feel 10 minutes, 10 hours, and 10 days from now.
+9. 4-Questions in case of temptation, 
+  - Do I want to be a disciplined person or not? If you stop or quit, you must answer a no. 
+  - Am I doing the right thing or simply what's easy?
+  - There are the vegetables, so what am I getting for desert? Without goals and aspirations, discipline is going to feel like pointless suffering. We lose sight of the dessert(goal) in two main ways. First, we forget it. Second, the dessert isn't compelling by itself and not motivating enough. 
+  - Am I being self-aware?
 
 
 ### Notes
@@ -44,6 +50,9 @@
 - Don't tell people your big goal, that give you false achievement. Tell them of your dissatisfaction with your current state and that they should kick your butt if they see you straying from your plan. 
 - Hawthorne Effect, what actually influencing the behavior of the workers was the awareness that they were being observed. 
 - You should always eat your vegetables first, in other words, the art of delayed gratification. 
+- Visualizing exactly who you are, who you will be, and who you want to be. That helps to create a tangible connection to your future self, which makes it significantly more likely that you'll act on that future self's behalf
+- Endowed progress Effect, people will work harder to achieve something if they are aware of all the ways that they are not starting from zero and closer to completion. 
+- Thinking about how our actions can affect others is sometimes an even stronger motivator than anything personal. Thinking about the way that your sloth can negatively impact others will be more effective. 
 - 
 
 ### 感悟
