@@ -53,6 +53,8 @@
 - Visualizing exactly who you are, who you will be, and who you want to be. That helps to create a tangible connection to your future self, which makes it significantly more likely that you'll act on that future self's behalf
 - Endowed progress Effect, people will work harder to achieve something if they are aware of all the ways that they are not starting from zero and closer to completion. 
 - Thinking about how our actions can affect others is sometimes an even stronger motivator than anything personal. Thinking about the way that your sloth can negatively impact others will be more effective. 
+- Flawed efforts can still lead to success and perfect efforts can still result in failure. Therefore, it's important to detach your performance from outcomes. 
+- Motivation is temporary, no matter how much of it you have. It is a reaction, an emotion, and these things dry up. Habits, on the other hand, are consistent and they are necessary to make self-discipline sustainable. 
 - 
 
 ### 感悟
