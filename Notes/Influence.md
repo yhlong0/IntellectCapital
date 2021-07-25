@@ -2,4 +2,9 @@
 2. If you bought expensive stuff, like a car for 50k, adding a 5k small package won't make you feel expensive even though that package won't worth that much.
 3. If you are a salespeople, present the expensive item first.
 4. A letter from college student, show all the terrible things happen to her, concussion, skull fracture, infected. At the end, she just got "F" for Chemistry. this comparsion will reduce the effect of "F".
-5. The rule for reciprocity was so strong that it simply overwhelmed the influence of a factor--liking for the requester--that normally affects the decision to comply. 
+5. The rule for reciprocity was so strong that it simply overwhelmed the influence of a factor--liking for the requester--that normally affects the decision to comply. (吃别人的嘴软，拿别人的手短)
+6. The reciprocity rule was established to promote the development of reciprocal relationships between individuals so that one person could initiate such a relatioship without the fear of loss. The univited gifts produce feelings of obligation.
+7. The reciprocity rule can trigger unfair exchanges. Give a person free Coke which only worth a dime can get an average return of two raffle tickets(worth 50 cents). 
+8. Most of us find it highly disagreeable to be in a state of obligation, because reciprocal arrangements are so vital in human social systems, we have been conditioned to be uncomfortable when beholden. 
+9. Reciprocal concessions, an obligation to make a concession to someone who has made a concession to us. （以退为进）
+10. Use the tactic of beginning with extreme demands then concessions, if the beginning demands so extreme as unreasonable, the tactic backfires. you are not seen to be bargaining in good faith and subsequent retreat from initial position is not viewed as a genuine concession. 
