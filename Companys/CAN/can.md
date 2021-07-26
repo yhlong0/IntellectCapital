@@ -1,5 +1,11 @@
 ## CAN
 
+### Why sell CAN
+
+- CAN is a company heavily rely on BTC, however, BTC has nasty side, it could use for many illegal things. If 50% people use BTC for speculating/trading, 30% use for drug and other illegal stuff, only 20% is real good useage, I would like to stay away from it. 
+- The management team use huge profit for share incentive plans, not company R&D, no dividen for shareholders, and they issue more shares. 
+- AI chip has long way to go and not its major income
+
 ### Who is Canaan?
 
 https://canaan.io/
