@@ -13,3 +13,9 @@
 13. Commitment is the key, if you make a small commitment, you might fulfill a massive commitment and sometimes even that large commitment is not very related to the first one. 
 14. Sign in front yard, because people had innocently complied with a trivial safe-driving request a couple of weeks before, these homeowners became remarkably willing to comply with another such request that was massive in size. 
 15. Be very careful about agreeing to trivial requests. Such an agreement can not only increase our compliance with very similar, much larger requests, it can also make us more willing to perform a variety of larger favors that are only remotely connected to the little one we did earlier. 
+16. There is something magical about writing things down. So set a goal and write it down. You'll be off and running. written commitments require more work than verbal, the more effort that goes into a commitment, the greater is its ability to influence the attitudes of the person who made it.
+17. The severity of an initiation ceremony significantly heightens the newcomer's commitment to the group.
+18. A large reward is one such external pressure. It may get us to perform a certain action, but it won't get us to accept inner responsibility for the act. For rearing children, we should never heavily bribe or threaten them to do the things we want them truly to believe in. 
+19. "Throwing a lowball", An advantage is offered that induces a favorable purchase decisionl then, sometime after the decision has been made but before the bargain is sealed, the original purchase advantage is deftly(熟练的) removed. 
+20. 当你掉到lowball这种陷阱时，如何说NO？你胃的不舒服会警示你，当着对方的面直接讲出他的伎俩，会大大增加你的概率。
+21. 
