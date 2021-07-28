@@ -18,4 +18,5 @@
 18. A large reward is one such external pressure. It may get us to perform a certain action, but it won't get us to accept inner responsibility for the act. For rearing children, we should never heavily bribe or threaten them to do the things we want them truly to believe in. 
 19. "Throwing a lowball", An advantage is offered that induces a favorable purchase decisionl then, sometime after the decision has been made but before the bargain is sealed, the original purchase advantage is deftly(熟练的) removed. 
 20. 当你掉到lowball这种陷阱时，如何说NO？你胃的不舒服会警示你，当着对方的面直接讲出他的伎俩，会大大增加你的概率。
-21. 
+21. Since 95 percent of the people are imitators and only 5 percent initiators, people are persuaded more by the actions of others than by any proof we can offer.
+22. 
