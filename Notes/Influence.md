@@ -17,6 +17,11 @@
 17. The severity of an initiation ceremony significantly heightens the newcomer's commitment to the group.
 18. A large reward is one such external pressure. It may get us to perform a certain action, but it won't get us to accept inner responsibility for the act. For rearing children, we should never heavily bribe or threaten them to do the things we want them truly to believe in. 
 19. "Throwing a lowball", An advantage is offered that induces a favorable purchase decisionl then, sometime after the decision has been made but before the bargain is sealed, the original purchase advantage is deftly(熟练的) removed. 
-20. 当你掉到lowball这种陷阱时，如何说NO？你胃的不舒服会警示你，当着对方的面直接讲出他的伎俩，会大大增加你的概率。
+20. 当你掉到lowball这种陷阱时，如何说NO？你胃的不舒服会警示你，当着对方的面直接讲出他的伎俩，会大大增加你的概率。Ask yourself, knowing what I know about the real truth, if I could go back in time, would I make the same choice again? They hadn't created the decision, the decision had created them. 
 21. Since 95 percent of the people are imitators and only 5 percent initiators, people are persuaded more by the actions of others than by any proof we can offer.
-22. 
+22. 邪教预言通常不会实现，当人们花了巨大的代价准备迎接灾难，苦苦煎熬等待，最后灾难没有来临时，整个他们信仰的系统就会崩塌。当人们不愿意接受这种崩塌时，他就会欺骗自己。如果“教主”加以引导，比如之所以没有发生灾难，是因为神感谢我们的虔诚，我们需要把神的旨意传播出去。这时候教众就会更努力的劝说别人，同时也是劝说自己。如果他们能成功劝说更多的怀疑者，那么自己的信仰也会变得更真实。
+23. In times of uncertainty, the natural tendency is to look around at the actions of others for clue. It might be that someone in need of emergency aid would have a better chance of survival if a single bystander, rather than a crowd, was present. 
+24. When you need help surround by many people, the advice would be to isolate one individual from the crowd: Stare, speak, and point directly at that person and no one else: "You, sir, in the blue jacket, I need help, call an ambulance."
+25. Teach kids swim without plastic ring, don't hire a six foot graduate student, find a kid who can do that at similar age, the kid would look for the most relevant information about what he could or should do. 
+26. 
+27. 
