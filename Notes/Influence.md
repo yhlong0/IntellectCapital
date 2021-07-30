@@ -23,5 +23,9 @@
 23. In times of uncertainty, the natural tendency is to look around at the actions of others for clue. It might be that someone in need of emergency aid would have a better chance of survival if a single bystander, rather than a crowd, was present. 
 24. When you need help surround by many people, the advice would be to isolate one individual from the crowd: Stare, speak, and point directly at that person and no one else: "You, sir, in the blue jacket, I need help, call an ambulance."
 25. Teach kids swim without plastic ring, don't hire a six foot graduate student, find a kid who can do that at similar age, the kid would look for the most relevant information about what he could or should do. 
-26. 
-27. 
+26. Kill buffalo by starting a herd running toward a cliff. Buffalo eyes are easier to see the side than to the front, when they run, their heads down low and cannot see above the herd. 
+27. Freeway lane switchers, if one car infront turn the signal lights in traffic jam, a lot of cars behind it will do the same. 
+28. A flier whose plane is locked onto automatic pilot would be wise to glance occasionally at the instrument panel and out the window. In the same way, we need to look up and around periodically whenever we are locked onto the evidence of the crowd. 
+29. 股市短期趋势经常就是social proof造成的，当价格上涨，大家就都会去追，反之亦然。 
+30. **Halo effect** occus when one positive characteristic of a person dominates the way that person is viewed by others. Physical attractiveness is often such a characteristic. 
+31. 
