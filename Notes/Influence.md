@@ -28,4 +28,6 @@
 28. A flier whose plane is locked onto automatic pilot would be wise to glance occasionally at the instrument panel and out the window. In the same way, we need to look up and around periodically whenever we are locked onto the evidence of the crowd. 
 29. 股市短期趋势经常就是social proof造成的，当价格上涨，大家就都会去追，反之亦然。 
 30. **Halo effect** occus when one positive characteristic of a person dominates the way that person is viewed by others. Physical attractiveness is often such a characteristic. 
-31. 
+31. Although the familiarity produced by contact usually leads to greater liking, the opposite occurs if the contact carries distasteful experiences with it. Team-oriented learning is an antidote to this disorder may tell us about the heavy impact of cooperation on the liking process. 
+32. Good Cop/Bad Cop example use several principles: contrast principle, a cup of coffee(the reciprocity rule), gives the suspect the idea that there is someone on his side, working together with him. 
+33. Being connected with bad weather does have a negative effect. But on the other side of the coin, being connected with sunshine should do wonders for his popularity. 
