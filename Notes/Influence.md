@@ -31,3 +31,10 @@
 31. Although the familiarity produced by contact usually leads to greater liking, the opposite occurs if the contact carries distasteful experiences with it. Team-oriented learning is an antidote to this disorder may tell us about the heavy impact of cooperation on the liking process. 
 32. Good Cop/Bad Cop example use several principles: contrast principle, a cup of coffee(the reciprocity rule), gives the suspect the idea that there is someone on his side, working together with him. 
 33. Being connected with bad weather does have a negative effect. But on the other side of the coin, being connected with sunshine should do wonders for his popularity. 
+34. The correctness of an action was not adjudged by such considerations as apparent senselessness, harmfulness, injustice, or usual moral standards, but by the mere command of a higher authority. 
+35. the M.D. role he played in tv series, commercial was its ability to use the influence of the authority principle without ever providing a real authority. The appearance of authority was enough. 
+36. Titles are simultaneously the most difficult and the easiest symbols of authority to acquire. Authority status affects perceptions of size have found that prestigious titles lead to hiehgt distortions. Thus it is not necessarily the pleasantness of a thing that makes it seem bigger to us, it is its importance. 
+37. A second kind of authority symbol that can trigger our mechanical compliance is clothing. Man with business clothes pretend to be Bank employee and man with guards uniform easily get money from client. 
+38. Is this authority truly an expert? How truthful can we expect the expert to be here?
+39. A waiter initially provide cheap dish suggestions, later recommend expensive wine and dessert, combining the factors of reciprocity and credible authority into a single, elegant maneuver. 
+40. 
