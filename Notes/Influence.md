@@ -37,4 +37,6 @@
 37. A second kind of authority symbol that can trigger our mechanical compliance is clothing. Man with business clothes pretend to be Bank employee and man with guards uniform easily get money from client. 
 38. Is this authority truly an expert? How truthful can we expect the expert to be here?
 39. A waiter initially provide cheap dish suggestions, later recommend expensive wine and dessert, combining the factors of reciprocity and credible authority into a single, elegant maneuver. 
-40. 
+40. Scarity, limited-number, deadline, not only do we want the same item more when it is scarce, we want it most when we are in competition for it. 
+41. Parents who enforce discipline inconsistently produce generally rebellious children. 
+42. 
