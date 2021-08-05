@@ -20,7 +20,7 @@
 13. The second quality of a great CEO is that he or she is driven to change the world. BAG -- Big Audacious(bold) Goal. 
 14. How to calculate intransic value? 
     - Get current EPS
-    - Calculate EPS growth rate or use Equity growth rate or get it from analyst report. 
+    - Calculate EPS growth rate or use Equity growth rate or get it from analyst report. (average how many years it takes to double once? 72/years = growth rate)
     - Estimated future PE, use historical PE or double the growth rate, whichever is lower. 
     - Future market price = future PE * future EPS
     - Current market price = future market price / 4, shrink the future market price by the minimum acceptable rate(15%) of return per year to obtain the Sticker Price, 
