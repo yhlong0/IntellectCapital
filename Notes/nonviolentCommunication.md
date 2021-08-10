@@ -15,4 +15,5 @@
 6. Analyses of otheres are actually expressions of our own needs and values. 
 7. Classifying and judging people promotes violence. Comparisons are a form of judgment. 
 8. Communicating our desires as demands is yet another form of language that blocks compassion. 
-9. Learn to express your feeling, not opinion. "I feel like I'm married to a wall" vs "I am feeling lonely and wanting more emotional contact with you"
+9. Learn to express your feeling, not opinion. "I feel like I'm married to a wall" vs "I am feeling lonely and wanting more emotional contact with you." First statement is more likely to be heard as criticism than invite for connecting our feelings. A husband is hurt and discouraged and doesn't respond, thereby confirming his wife's image of him as a wall(self fulfilling prophecies)
+10. 
