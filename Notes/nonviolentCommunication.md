@@ -23,3 +23,6 @@
 14. The more we are able to connect our feelings to our own needs, the easier it is for others to respond compassionately. 
 15. If we express our needs, we have a better chance of getting them met. 
 16. Making requests in clear, positive, concrete action language reveals what we really want. Vague language contributes to internal confusion. 
+17. We are often not conscious of waht we are requesting.(e.g. A man at DFW airport keep saying the train is the slowest, instead he want to express he is in rush and his wife could comfort him by saying we still have enough time to catch the flight)
+18. Requests may sound like demands when unaccompanied by the speaker's feelings and needs. Instead of saying why don't you go and get a haircut, you might say I am worried that your hair is getting so long and might keep you from seeing things, how about a haircut. 
+19. It's a request instead of demands if the speaker shows empathy toward the other person's needs. 
