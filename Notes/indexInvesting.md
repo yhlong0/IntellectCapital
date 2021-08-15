@@ -7,4 +7,5 @@
 5. Surprise! The returns reported by mutual funds are rarely earned by mutual fund investors. 
 6. People pouring their money not only into the market at the wrong time, but into the wrong funds--funds that had provided outstanding results in the past, tumbled thereafter. Simply because high fund returns tend to revert toward or below the mean of average returns. 
 7. The straw that broke the camel's back.
-8. 
+8. A fat wallet is the enemy of superior returns. When you have a lot of money, the great investing ideas will reduce dramastically 
+9. Successful short-term marketing strategies are rarely--if ever--optimal long-term investment strategies. 
