@@ -9,3 +9,5 @@
 7. The straw that broke the camel's back.
 8. A fat wallet is the enemy of superior returns. When you have a lot of money, the great investing ideas will reduce dramastically 
 9. Successful short-term marketing strategies are rarely--if ever--optimal long-term investment strategies. 
+10. The biggest risk is the long-term risk of not putting your money to work at a generous return, not the short-term(but nonetheless real) risk of market volatility. 
+11. 
