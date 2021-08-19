@@ -7,4 +7,8 @@
 5. System 1 operates automatically and quickly with little or no effort and no sense of voluntary control.
 6. System 2 allocates attention to the effortful mental activities that demand it, including complex computations. It often associated with the subjective experience of agency, choice, and concentration.
 7. The invisible gorilla, intense focusing on a task can make people effectively blind. 
-8. 
+8. "Law of least effort" applied to cognitive as well as physical exertion. If there are several ways of achieving the same goal, people will eventually gravitate to the least demanding course of action. In the economy of action, effort is a cost, and the acquisition of skill is driven by the balance of benefits and costs. Laziness is built deep into our nature.
+9. Self-control requires attention and effort. Another way of saying this is that controlling thoughts and behaviors is one of the tasks that System 2 performs.
+10. Ego depletion -- if you have had to force yourself todo something, you are less willing or less able to exert self-control when the next challenge comes around. Or if you tired and hungry, you tend to fall back on the easier default selection.(Hungry judge for parole)
+11.  
+12. 
