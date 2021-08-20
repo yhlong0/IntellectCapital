@@ -10,5 +10,8 @@
 8. "Law of least effort" applied to cognitive as well as physical exertion. If there are several ways of achieving the same goal, people will eventually gravitate to the least demanding course of action. In the economy of action, effort is a cost, and the acquisition of skill is driven by the balance of benefits and costs. Laziness is built deep into our nature.
 9. Self-control requires attention and effort. Another way of saying this is that controlling thoughts and behaviors is one of the tasks that System 2 performs.
 10. Ego depletion -- if you have had to force yourself todo something, you are less willing or less able to exert self-control when the next challenge comes around. Or if you tired and hungry, you tend to fall back on the easier default selection.(Hungry judge for parole)
-11.  
-12. 
+11. Many people are overconfident, prone to place too much faith in their intuitions. They apparently find cognitive effort at least mildly unpleasant and avoid it as much as possible.
+12. Those who avoid the sin of intellectual sloth could be called "engaged." They are more alert, more intellectually active, less willing to be satisfied with superficially attractive answers, more skeptical about their intuitions. The psychologist Keith Stanovich would call them more rational. 
+13. Individuals who uncritically follow their intuitions about puzzles are also prone to accept other suggestions from System 1. In particular, they are impulsive, impatient, and keen to receive immediate gratification. 
+14. Ideomotor Effect--The words related to old age had not come to their conscious awareness, but their actions had changed nevertheless. If you were primed to think of old age, you would tend to act old, and acting old would reinforce the thought of old age. 
+15. 
