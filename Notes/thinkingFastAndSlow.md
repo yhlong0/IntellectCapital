@@ -18,5 +18,5 @@
 16. Creativity is associative memory that works exceptionally well. 
 17. A happy mood loosens the control of System 2 over performance: when in a good mood, people become more intuitive and more creative but also less vigilant and more prone to logical errors. 
 18. The two headlines for stock news look like explanations of what happened in the market, in fact, all it does to satisfy our need for coherence, automatic search for causality: a large event is supposed to have consequences, and consequences need causes to explain them. 
-19. Halo Effect--The tendency to like (or dislike) everything about a person--including things you have not observed. 
+19. Halo Effect--The tendency to like (or dislike) everything about a person--including things you have not observed. The first impression is the best impression.
 20. 
