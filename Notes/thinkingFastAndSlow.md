@@ -14,4 +14,9 @@
 12. Those who avoid the sin of intellectual sloth could be called "engaged." They are more alert, more intellectually active, less willing to be satisfied with superficially attractive answers, more skeptical about their intuitions. The psychologist Keith Stanovich would call them more rational. 
 13. Individuals who uncritically follow their intuitions about puzzles are also prone to accept other suggestions from System 1. In particular, they are impulsive, impatient, and keen to receive immediate gratification. 
 14. Ideomotor Effect--The words related to old age had not come to their conscious awareness, but their actions had changed nevertheless. If you were primed to think of old age, you would tend to act old, and acting old would reinforce the thought of old age. 
-15. 
+15. The effect of repetition on liking is a profoundly important biological fact. To survive in a dangerous world, an organism should react cautiously to a novel stimulus, however, the repeated exposure of a stimulus followed by nothing bad, such a stimulus will eventually become a safety signal.
+16. Creativity is associative memory that works exceptionally well. 
+17. A happy mood loosens the control of System 2 over performance: when in a good mood, people become more intuitive and more creative but also less vigilant and more prone to logical errors. 
+18. The two headlines for stock news look like explanations of what happened in the market, in fact, all it does to satisfy our need for coherence, automatic search for causality: a large event is supposed to have consequences, and consequences need causes to explain them. 
+19. Halo Effect--The tendency to like (or dislike) everything about a person--including things you have not observed. 
+20. 
