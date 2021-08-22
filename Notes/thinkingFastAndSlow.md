@@ -28,4 +28,7 @@
 26. The emotional tail wags the rational dog.
 27. An availability cascade is a self-sustaining chain of events, which may start from media reports of minor event and lead up to public panic and large-scale government actions.
 28. The ability of our mind to deal with small risks: we either ignore them altogether or give them far too much weight--nothing in between. 
-29. 
+29. success = talent + hardwork + luck; great success = a little more talent + a more hardwork + a lot of luck
+30. The more extreme the original score(in golf), the more regression we expect, because an extremely good score suggests a very lucky day.
+31. Olympic TV commenter keep giving causal explanations to indicate regression to the mean, however there is no need to looking for that, regression to the mean is the reason.
+32. 
