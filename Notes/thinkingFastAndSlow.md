@@ -19,4 +19,13 @@
 17. A happy mood loosens the control of System 2 over performance: when in a good mood, people become more intuitive and more creative but also less vigilant and more prone to logical errors. 
 18. The two headlines for stock news look like explanations of what happened in the market, in fact, all it does to satisfy our need for coherence, automatic search for causality: a large event is supposed to have consequences, and consequences need causes to explain them. 
 19. Halo Effect--The tendency to like (or dislike) everything about a person--including things you have not observed. The first impression is the best impression.
-20. 
+20. The initial traits change the very meaning of the traits that appear later.(第一印象非常重要) Evaluating people as attractive or not is a basic assessment. You do that automatically whether or not you want to, and it influences you. 
+21. If you can't solve a problem, you will try to find a easier problem to solve, which sometimes work fairly well and sometimes leads to serious errors and biases.
+22. Extreme outcomes(both high and low) are more likely to be found in small than in large samples. 
+23. I won't believe that the new trader is a genius before consulting a statistician who could estimate the likelihood of his streak being a chance event. 
+24. Anchoring Effect--It occurs when people consider a particular value for an unknown quantity before estimating that quantity. 
+25. Availability Bias--people remember their own contributions much more than those of the others. The difference in availability leads to a difference in judged frequency, victims are very concerned after a disaster.
+26. The emotional tail wags the rational dog.
+27. An availability cascade is a self-sustaining chain of events, which may start from media reports of minor event and lead up to public panic and large-scale government actions.
+28. The ability of our mind to deal with small risks: we either ignore them altogether or give them far too much weight--nothing in between. 
+29. 
