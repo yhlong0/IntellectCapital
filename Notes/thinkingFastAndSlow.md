@@ -31,4 +31,7 @@
 29. success = talent + hardwork + luck; great success = a little more talent + a more hardwork + a lot of luck
 30. The more extreme the original score(in golf), the more regression we expect, because an extremely good score suggests a very lucky day.
 31. Olympic TV commenter keep giving causal explanations to indicate regression to the mean, however there is no need to looking for that, regression to the mean is the reason.
-32. 
+32. If your predictions are unbiased, you will never have the satisfying experience of correctly calling an extreme case. You will never be able to say, "I thought so!". Givien the limitations of the evidence, a venture capitalist will never be told that the probability of success for a start-up in its early stages is "very high".
+33. When a VC looks for "the next big thing," the risk of missing the next Google or Facebook is far more important than the risk of making a modest investment in a start-up that ultimately fails. The goal of VCs is to call the extreme cases correctly, even at the cost of overestimating the prospects of many other ventures. For a conservative banker making large loans, the risk of a single borrower going bankrupt may outweigh the risk of turning down several would-be clients who would fulfill their obligations. 
+34. The rational venture capitalist knows that even the most promising start-ups have only a moderate chance of success. 
+35.  410
