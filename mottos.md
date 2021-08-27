@@ -59,6 +59,7 @@ In the end it does turn to pumpkins and mice. The problem with this stock dance 
 15. Investing is not a business where you take polls, you're not right or wrong because a thousand people agree or disagree with you. You right because your facts and your reasoning are right.
 16. After 3-5 years, no one will remember what is the earning this year for first quarter or third quarter. Pay attention to the big picture. 
 17. Should you invest in a stock with high P/E ratio? If you can predict future very well, maybe? Munger said, the reason he and Buffett make better prediction is because they make few of them. Buffett said they also try not to do anything difficult. Investing is not like Olympic diving, you get paid very well if you complete a very difficult dive. If you execute simple investment all right, that simple stock just paid as well as the difficult one. Buffett look for one foot bars to step over rather than seven or eight foot bars that might create Olympic record.
+18. If you call a dog's tail a leg, how many legs does it have? The answer is four, calling a tail a leg doesn't make it one. The importance of distinguish between illusion and fact, defining something differently won't change reality. It's useful to be wary and often skeptical of anything that may seem too good to be true.
 
 ## Mohnish Pabrai
 1. Five Category of Potential 10-100 baggers.
