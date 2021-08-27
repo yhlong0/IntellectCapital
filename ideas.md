@@ -37,4 +37,4 @@ Enjoy the super market.
 
 Mailbox
 
-the current mailbox for US house is so boring, we should come up more beautify design, easy to change the look and feel just like your phone case. Cartoon, natural bird nest and etc. 
+the current mailbox for US house is so boring, we should come up more beautify design, easy to change the look and feel just like your phone case. Cartoon, natural bird nest and etc. the post should be able to change, and multiple way connect the box to post. So people can freely design and change it easily
