@@ -33,3 +33,8 @@ TastingMarket
 At entry, has many posts for tasting, customer can try and see what they like. they could also put button to tell whether they like it or not. first the post close to the door, you can charge higher price. Work with merchansise to promote their products. A sign for best seller.
 
 Enjoy the super market. 
+
+
+Mailbox
+
+the current mailbox for US house is so boring, we should come up more beautify design, easy to change the look and feel just like your phone case. Cartoon, natural bird nest and etc. 
