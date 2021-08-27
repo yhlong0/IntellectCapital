@@ -43,7 +43,7 @@
 37. A second kind of authority symbol that can trigger our mechanical compliance is clothing. Man with business clothes pretend to be Bank employee and man with guards uniform easily get money from client. 
 38. Is this authority truly an expert? How truthful can we expect the expert to be here?
 39. A waiter initially provide cheap dish suggestions, later recommend expensive wine and dessert, combining the factors of reciprocity and credible authority into a single, elegant maneuver. 
-40. Scarity, limited-number, deadline, not only do we want the same item more when it is scarce, we want it most when we are in competition for it. 
+40. Scarity, limited-number, deadline, not only do we want the same item more when it is scarce, we want it most when we are in competition for it. (sell car, get everyone showup at the same time)
 41. Parents who enforce discipline inconsistently produce generally rebellious children. 
 42. It is vital to remember that scarce things do not taste or feel or sound or work any better because of their limited availability. Scarcity produced an emotional reaction that made it difficult for them to think straight. The reason they wanted the car in the first place was to use it, not merely to have it.
 43. As a man's sense of his own status grows, so does the size of his signature. 
