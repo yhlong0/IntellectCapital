@@ -10,7 +10,7 @@ Bike team like to improve, they only earn one Medal in last 100 years. They hire
   - wash hand, keep health
   - pillow which one let them sleep better
 
-1. Aggregation of margiinal gains, 1% improvement in nearly everything that you do. Small improvements can actually added up to significant change 
+1. Aggregation of marginal gains, 1% improvement in nearly everything that you do. Small improvements can actually added up to significant change 
 in a relative short period of time. 1% better each day, 1.01^365 = 37.78 37 times better at the end of the year. The way to reach this goal is by 
 obtaining better habits.
   
