@@ -42,3 +42,6 @@
 40. People who sell current stock and buy another one, it turns out recent winners tend to do better than recent losers in the short run. 
 41. Professional investors, fund managers fail a basic test of skill: persistent achievement. If individual differences in any one year are due entirely to luck, the ranking of investors and funds will vary erratically and the year-toyear correlation will be zero. Where there is skill, the rankings will be more stable. 
 42. Whenever we can replace human judgement by a formula, we should at least consider it. A simple combination of scores could probably do better. 
+43. Recognition Prime Decision(RPD) model, first phase, a tentative plan comes to mind, next phase is a deliberate process in which the plan is mentally simulated to check if it will work. 
+44. The situation has provided a cue, this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than ecognition. Intuition cannot be trusted in the absence of stable regularities in the environment.
+45. The likelihood that something will go wrong in a big project is high, taking an "outside view" and is the cure to the planning fallacy. 
