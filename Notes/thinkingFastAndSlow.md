@@ -45,3 +45,9 @@
 43. Recognition Prime Decision(RPD) model, first phase, a tentative plan comes to mind, next phase is a deliberate process in which the plan is mentally simulated to check if it will work. 
 44. The situation has provided a cue, this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than ecognition. Intuition cannot be trusted in the absence of stable regularities in the environment.
 45. The likelihood that something will go wrong in a big project is high, taking an "outside view" and is the cure to the planning fallacy. 
+46. 10% exceed, 10% below, 80% in range prediction, the wide confidence interval is a confession of ignorance, which is not socially acceptable for someone who is paid to be knowledgeable in financial matters.
+47. Always thinking inversion, image that we are a year into the future, we implemented the plan, however, the outcome was a diaster. Take 5 - 10 minutes to write that possible disaster.
+48. keep giving 1 million to you, you will feel less happier compare to first time get a million. Diminishing utility of wealth. 由于边际效益递减，给你更多的钱不能产生更多的快乐，所以你会倾向于选择确定性高的，避免损失。（人们产生了风险厌恶？？）
+49. 穷人买保险是风险厌恶的体现？因为对于穷人来说，损失会很惨重，避免风险，选择买保险。
+50. Organisms that treat threats as more urgent than opportunities have a better chance to survive and reproduce.(风险厌恶来自于生物进化)
+51. 
