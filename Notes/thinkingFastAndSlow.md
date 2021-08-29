@@ -50,4 +50,18 @@
 48. keep giving 1 million to you, you will feel less happier compare to first time get a million. Diminishing utility of wealth. 由于边际效益递减，给你更多的钱不能产生更多的快乐，所以你会倾向于选择确定性高的，避免损失。（人们产生了风险厌恶？？）
 49. 穷人买保险是风险厌恶的体现？因为对于穷人来说，损失会很惨重，避免风险，选择买保险。
 50. Organisms that treat threats as more urgent than opportunities have a better chance to survive and reproduce.(风险厌恶来自于生物进化)
-51. 
+51. The Endowment Effect--once he owns it, he considers the pain of giving up the stuff. If he doesnt own it, he considers the pleasure of getting the stuff.
+52. The brains of humans and other animals contain a mechanism that is desgined to give priority to bad news. A single cockroach will completedly wreck the appeal of a bowl of cherries, but a cherry will do nothing at all for a bowl of cockroaches. Negative trumps the positive in many ways. 
+53. Bad emotions, parents, feedback have more impact than good ones, and bad information is processed more thoroughly than good. The self is more motivated to avoid bad self-definitions than to pursue good ones. 
+54. The long-term success of a relationship depends far more on avoiding the negative than on seeking the positive. A friendship or company brand that may take years to develop can be ruined by a single action.
+55. Negotiations over a shrinking pie are especially difficult, because they require an allocation of losses. People tend to be much more easy going when they bargain over an expanding pie. 
+56. When tesla reduce the price, the losses for existing customer is more painful. 
+57. When an unlikely event becomes the focus of attention, we will assign it much more weight than its probability deserves. 
+58. The fourfold pattern
+    - 95% chance to win $1000 vs 100% get $900, people will prefer the later. 
+    - 5% chance to win $1000 vs 100% chance to get $60 (lottery ticket, risk seeking, when price is very large, buyers appear indifferent to the fact that their chance of winning is minuscule, without ticket you can't win, with a ticket you have the right to dream pleasantly of winning)
+    - 5% chance to loss $1000 vs buy $60 insurance to avoid loss
+    - 95% chance to loss $1000 vs pay $900 to settle. (Reject favorable settlement and risk seeking, hope to avoid loss) Gambler who face very bad options take desperate gambles, accepting a high probability of making things worse in exchange for a small hope of avoiding a large loss.
+
+59. How terrorism works and why it is so effective? It induces an availability cascade, An extremely vivid image of death and damage, constantly reinforced by media attention and frequent conversations, becomes highly accessible, especially if it is associated with a specific situation such as the sight of a bus.
+60. Denominator neglect, drawing a marble from one of two urns, in which red marbles win a prize: Urn A contains 10 marbles, of which 1 is red. vs Urn B contains 100 marbles, of which 8 are red. 
