@@ -68,4 +68,11 @@
 61. The combination of loss aversion and narrow framing is a costly curse. Investor can avoid that curse by reducing the frequency with which they check how well their investments are doing. Closely following daily fluctuations is a losing proposition, because the pain of the frequent small losses exceeds the pleasure of the qually frequent small gains. Once a quarter is enough. 
 62. Each of our executives is loss averse in his or her domain. That's perfectly natural, but the result is that the organization is not taking enough risk.
 63. Sell winner or loser? A rational investor would have a comprehensive view of the portfolio and sell the stock that is least likely to do well in the future, without considering whether it is a winner or a loser. 
-64. Sunk-cost fallacy -- The decision to invest additional resources in a losing account. fourfold pattern top-right cell of 95% chance to loss $1000, risk seeking. 65. Dictionary A 
+64. Sunk-cost fallacy -- The decision to invest additional resources in a losing account. fourfold pattern top-right cell of 95% chance to loss $1000, risk seeking. 65. Joint evaluation vs single evaluation, the number of entries is given no weight in single evaluation, because the numbers are not "evaluable" on their own. In joint evaluation, it is immediately obvious that second option is superior on this attribute, and number of entries is far more important than the condition of the cover. 
+    - number of entries 10,000, Like new
+    - number of entries 20,000, Cover torn, otherwise like new
+66. The xxx units meant nothing until you saw how much this units vary. Joint evaluation was essential, it is often the case that when you broden the frame, you reach more reasonable decisions. 
+67. People will more readily forgo a discount than pay a surcharge. The two may be economically equivalent, but they are not emotionally equivalent.
+68. Went to see movie, lost ticket vs lost money, whatever you lost, the relevant fact is that you are less walthy than before you open the wallet.
+69. MPG is kind of misleading, 12 mpg -> 14 mpg actually save more compare to 30 mpg to 40 mpg. 
+70. 
