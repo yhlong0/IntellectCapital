@@ -65,3 +65,7 @@
 
 59. How terrorism works and why it is so effective? It induces an availability cascade, An extremely vivid image of death and damage, constantly reinforced by media attention and frequent conversations, becomes highly accessible, especially if it is associated with a specific situation such as the sight of a bus.
 60. Denominator neglect, drawing a marble from one of two urns, in which red marbles win a prize: Urn A contains 10 marbles, of which 1 is red. vs Urn B contains 100 marbles, of which 8 are red. 
+61. The combination of loss aversion and narrow framing is a costly curse. Investor can avoid that curse by reducing the frequency with which they check how well their investments are doing. Closely following daily fluctuations is a losing proposition, because the pain of the frequent small losses exceeds the pleasure of the qually frequent small gains. Once a quarter is enough. 
+62. Each of our executives is loss averse in his or her domain. That's perfectly natural, but the result is that the organization is not taking enough risk.
+63. Sell winner or loser? A rational investor would have a comprehensive view of the portfolio and sell the stock that is least likely to do well in the future, without considering whether it is a winner or a loser. 
+64. Sunk-cost fallacy -- The decision to invest additional resources in a losing account. fourfold pattern top-right cell of 95% chance to loss $1000, risk seeking. 65. Dictionary A 
