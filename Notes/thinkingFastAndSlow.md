@@ -75,4 +75,7 @@
 67. People will more readily forgo a discount than pay a surcharge. The two may be economically equivalent, but they are not emotionally equivalent.
 68. Went to see movie, lost ticket vs lost money, whatever you lost, the relevant fact is that you are less walthy than before you open the wallet.
 69. MPG is kind of misleading, 12 mpg -> 14 mpg actually save more compare to 30 mpg to 40 mpg. 
-70. 
+70. Peak-end rule -- The level of pain reported at the worst moment of the experience and as its end.
+71. Duration neglect: The duration of the procedure had no effect what soever on the ratings of total pain. 
+72. The easiest way to increase happiness is to control your use of time. Can you find more time to do the things you enjoy doing? Beyond the satiation level of income, you can buy more pleasurable experiences, but you will lose some of your ability to enjoy the less expensive ones. 
+73. Focus illusion -- Nothing in life is as important as you think it is when you are thinking about it.
