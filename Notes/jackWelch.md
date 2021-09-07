@@ -16,4 +16,7 @@
 14. The four Es of GE leadership: very high **energy** level, the ability to **energize** others around common goals, the **edge** to make tough yes-and-no decisions, and finally, the ability to consistently **execute** and deliver on their promises. 
 15. Some think it's cruel or brutal to remove the bottom 10 percent of our people. It isn't. It's just the opposite. What I think is brutal and "false kindness" is keeping people around who aren't going to grow and prosper. There's no cruelty like waiting and telling people late in their careers that they don't belong--just when their job options are limited and they're putting their children through college or paying off big mortgages. 
 16. Work-Out: It started with a presentation by the manager who might issue a challenge or outline a broad agenda and then leave. Without the boss present and with a facilitator to grease the discussions, employees were asked to list problems, debate solutions, and be prepared to sell their ideas when the boss returned. At the end, we insisted managers make on-the-spot decisions on each proposal. yes-or-no on at least 75% of the ideas.
-17. Buy Kidder, too full of myself. 
+17. Buy Kidder, too full of myself. The kidder experience never left me. Culture does count, big time. 
+18. There is only one currency: GE stock
+19. You don't earn interest unless you collect the principal. 
+20. Mike comes into the board six to seven times every year with troubled companies already in or often headed for bankruptcy. Along with judging the company's leadership, Mike digs into our ability to recover the receivables and inventories. It's an upside-down look at a business--the opposite of what we're used to. 
