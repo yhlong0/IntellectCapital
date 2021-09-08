@@ -20,4 +20,4 @@
 18. There is only one currency: GE stock
 19. You don't earn interest unless you collect the principal. 
 20. Mike comes into the board six to seven times every year with troubled companies already in or often headed for bankruptcy. Along with judging the company's leadership, Mike digs into our ability to recover the receivables and inventories. It's an upside-down look at a business--the opposite of what we're used to. 
-21. 
+21. 361
