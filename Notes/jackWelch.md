@@ -20,4 +20,6 @@
 18. There is only one currency: GE stock
 19. You don't earn interest unless you collect the principal. 
 20. Mike comes into the board six to seven times every year with troubled companies already in or often headed for bankruptcy. Along with judging the company's leadership, Mike digs into our ability to recover the receivables and inventories. It's an upside-down look at a business--the opposite of what we're used to. 
-21. 361
+21. When Jack do the surgery, he said if something goes wrong, don't let them pull the plug. Even if they can't tell, I want you to know I'll be fighting like hell in here. 
+22. When Jack realized internet is so important and these managers are old and not knowming much, let young people who know a lot to mentor the old people. 
+23. When a company is strong, it not only pay taxes that provide for important services. It also has social responsibility, builds world-class facilities that meet or exceed safety and environmental standards, reinvest in their people.
