@@ -23,4 +23,9 @@
 21. When Jack do the surgery, he said if something goes wrong, don't let them pull the plug. Even if they can't tell, I want you to know I'll be fighting like hell in here. 
 22. When Jack realized internet is so important and these managers are old and not knowming much, let young people who know a lot to mentor the old people. 
 23. When a company is strong, it not only pay taxes that provide for important services. It also has social responsibility, builds world-class facilities that meet or exceed safety and environmental standards, reinvest in their people.
-24. 419
+24. The true test of self-confidence is the courage to be open--to welcome change and new ideas regardless of their source. 
+25. We're losing market share because our competitors are crazy, and they're giving the product away. Usually it turned out to be BS. The real truth was that a competitor had a better cost or strategy. What was wrong with us, not them? 
+26. When GE working on Boeing 777 jets engine, the implicit assumption is the competition will be sleeping while we're developing the new product. Never underestimate the other guy. 
+27. Headquarters doesn't make anything or sell anything. Banging around the field was my best shot at getting some idea about what was really going on. 
+28. I've always believed that when the rate of change inside an institution becomes slower than the rate of change outside, the end is in sight. 
+
