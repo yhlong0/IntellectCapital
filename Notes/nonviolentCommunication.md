@@ -36,5 +36,13 @@
 27. It may be difficult to empathize with those who are closest to us.
 28. Speakers prefer that listeners interrupt rather than pretend to listen, what bores the listener bores the speaker too.
 29. Find everything you "have to" and translate it to you "choose to", add a reason, I choose to ... because I want ...
-30. 
-31. 
+30. The wife had twice overdrawn checking account whereupon the husband took control and no longer let her write checks. 
+    - figure out real need:
+        - Ask wife what her husband needs? She said he obviously doesn't want me to spend any money.(This is a strategy, not need)
+        - Ask wife try again, she said he is just like his fater, reluctant to spend money. (Making an analysis)
+        - Ask husband what you need? He said when comes to money, she's totally irresponsible. (His use of diagnosis)
+        - Real need: feeling scared because he have a need to protect his family economically.
+    - Have the needs been heard?
+        - Ask wife repeat what husband really need, she said, just because I overdrew a couple of times, it doesn't mean I'm going to contiune doing it.(When we have pain built up over many years, it can get in the way of our ability to hear clearly)
+        - People often need empathy to ease the pain before they are able to hear. I sense that you're feeling hurt and you need to be trusted that you can learn from past experience.
+32. 
