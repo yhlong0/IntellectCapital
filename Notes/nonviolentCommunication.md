@@ -30,3 +30,11 @@
 21. Husband: What good does talking to you do? You never listen. Are you feeling unhappy because you are needing to be heard? Listen to what people are needing rather than what they are thinking. 
 22. I'm frustrated because I'd like to be clearer about what you are referring to. Would you be willing to tell me what I've done that leads you to see me in this way? When asking for information, first express our own feelings and needs. 
 23. Don't pull any of that psychology crap on me! All criticism, attack, insults vanish when we focus attention on hearing the feelings and needs behind a message. Behind those intimidated messages, there is a need unmet, don't take it personally, try to figure it our what they need. 
+24. It's harder to empathize with those who appear to possess more power, status, or resources. These faculty members had remembered to empathize with their dean(dean worry about time use) as well as with their students.
+25. We "say a lot" by listening for other people's feelings and needs. 
+26. Never to put your 'but' in the face of an angry person. A man who been taking drugs, is holding a knife to threathen a young woman at drug detox center. 
+27. It may be difficult to empathize with those who are closest to us.
+28. Speakers prefer that listeners interrupt rather than pretend to listen, what bores the listener bores the speaker too.
+29. Find everything you "have to" and translate it to you "choose to", add a reason, I choose to ... because I want ...
+30. 
+31. 
