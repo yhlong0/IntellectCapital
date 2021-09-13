@@ -36,8 +36,11 @@
 27. It may be difficult to empathize with those who are closest to us.
 28. Speakers prefer that listeners interrupt rather than pretend to listen, what bores the listener bores the speaker too.
 29. Find everything you "have to" and translate it to you "choose to", add a reason, I choose to ... because I want ...
-30. The wife had twice overdrawn checking account whereupon the husband took control and no longer let her write checks. 
-    - figure out real need:
+30. We are never angry because of what someone else did. Other person's behavior might be a stimulus, the cause of anger lies in our thinking -- in thoughts of blame and judgment. When we judge others, we contribute to violence.
+31. A conversation between prisoner, thinking about you own need, instead of blaming other is very important to reduce the anger. 
+32. Steps to expressing anger: Stop, breathe, -> Identify our judgmental thoughts -> Connect with our needs -> Express our feelings and unmet needs. 
+33. The wife had twice overdrawn checking account whereupon the husband took control and no longer let her write checks. 
+    - figure out real need, lead two sides to this caring and respectful connection:
         - Ask wife what her husband needs? She said he obviously doesn't want me to spend any money.(This is a strategy, not need)
         - Ask wife try again, she said he is just like his fater, reluctant to spend money. (Making an analysis)
         - Ask husband what you need? He said when comes to money, she's totally irresponsible. (His use of diagnosis)
@@ -45,4 +48,12 @@
     - Have the needs been heard?
         - Ask wife repeat what husband really need, she said, just because I overdrew a couple of times, it doesn't mean I'm going to contiune doing it.(When we have pain built up over many years, it can get in the way of our ability to hear clearly)
         - People often need empathy to ease the pain before they are able to hear. I sense that you're feeling hurt and you need to be trusted that you can learn from past experience.
-32. 
+    - Once connection build, create strategies that resolve the conflict will be much easier
+34. Avoid the use of language that implies wrongness. 
+35. Needs vs Strategies: needs contain no reference to anybody taking any particular action. On the other hand, strategies refer to specific actions that specific people may take. 
+36. Use a present language to request: Would you be willing to ...
+37. When they say "no", they're saying they have a need that keeps them from saying "yes" to what we are asking.
+38. Punishment includes judgmental labeling and the withholding of privileges
+39. Instead of punishment, thinking two questions: What do I want this person to do that's different from what he or she is currently doing? What do I want this person's reasons to be for doing what I'm asking?
+40. How to say "thank you" in NVC: This is what you did, this is what I feel, this is the need of mine that was met.
+41. Anything that is worth doing is worth doing poorly. 
