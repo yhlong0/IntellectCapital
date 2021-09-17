@@ -11,3 +11,4 @@
 9. The growth mindset does allow people to love what they're doing--and to continue to love it in the face of difficulties.
 10. Remember, test scores and measures of achievement tell you where a student is, but they don't tell you where a student could end up. 
 11. The effort kids simply thought the difficulty meant "Apply more effort or try new strategies." They didn't see it as a failure, and they didn't think it reflected on their intellect. 
+12. Are there sports you always assumed you're bad at? Well, maybe you are, but then maybe you aren't. It's not something you can know untila you've put in a lot of effort. 
