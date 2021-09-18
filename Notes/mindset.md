@@ -12,3 +12,8 @@
 10. Remember, test scores and measures of achievement tell you where a student is, but they don't tell you where a student could end up. 
 11. The effort kids simply thought the difficulty meant "Apply more effort or try new strategies." They didn't see it as a failure, and they didn't think it reflected on their intellect. 
 12. Are there sports you always assumed you're bad at? Well, maybe you are, but then maybe you aren't. It's not something you can know untila you've put in a lot of effort. 
+13. For people with growth mindset, the number one goal was forgiveness. As one woman said, I'm no saint, but i knew for my own peace of mind that I had to forgive and forget. He hurt me but I had a whole life waiting for me and I'll be damned if I was going to live it in the past. 
+14. The growth mindset says your partner's qualities can be developed. All--you, your partner, and the relationship are capabale of growth and change. 
+15. Every marriage demands an effort to keep it on the right track; there is a constant tension...between the forces that hold you together and those that can tear you apart. 
+16. If you have a troubled relationship with a parent, whose fault is it? It's my responsibility to enlighten my parents, improve their thinking, be patient as they did for me when I was young. 
+17. 
