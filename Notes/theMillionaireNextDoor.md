@@ -16,3 +16,5 @@
 11. Smart rich parents subsidizing their children's education and earmarking gifts so their children can start or enhance a business. 
 12. Dumb rich parents earmarked for consumption and the propping up of a certain lifestyle and this is the single most factor that children lack of productivity. 
 13. Buy home/car for kids increase their consumption level, make them insensitive to the price, feel their parents wealth is their income, income to be spent, from a focus on self-generated economic achievement to one of hoping for and contemplating the arrival of additional gifts. 
+14. Son of affluent couple screams, when parents donate their wealth. For this kind of son, his income is depends on parents wealth, so when parents donate, it is equal to reduce the salary for them. This kind of son often feel they earned every dollar they have and they frequently use credit vehicles to smooth out their cash flow problems, never learn delay gratification. 
+15. 
