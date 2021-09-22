@@ -17,4 +17,13 @@
 12. Dumb rich parents earmarked for consumption and the propping up of a certain lifestyle and this is the single most factor that children lack of productivity. 
 13. Buy home/car for kids increase their consumption level, make them insensitive to the price, feel their parents wealth is their income, income to be spent, from a focus on self-generated economic achievement to one of hoping for and contemplating the arrival of additional gifts. 
 14. Son of affluent couple screams, when parents donate their wealth. For this kind of son, his income is depends on parents wealth, so when parents donate, it is equal to reduce the salary for them. This kind of son often feel they earned every dollar they have and they frequently use credit vehicles to smooth out their cash flow problems, never learn delay gratification. 
-15. 
+15. When advisor or neighbor knows you have lovely home, boat, luxury auto, they often tell/think you're doing pretty well, however, you often forget your parents subsidize. 
+16. What was the most frequently gift that millionaires received from their paretns? Tuition!
+17. When parents have two kids, they usually strengthen the strong child and weaken the weak. 
+18. Courage can be developed. But it cannot be nurtured in an environment that eliminates all risks, all dificulty, all dangers. 
+19. When you are a non working housewives, parents tend to hold back from distributing substantial cash gifts, they fear that they may be poor money managers. So money gift tend to be on a need basis. 
+20. Somehow parents often forgot how they work hard, frugel to get wealthy, especially when teaching their kids. 
+21. Aunt Sarah defines maturity as the proven ability to earn a good living.
+22. Assure that your children won't realize you're affluent until after they have established a matrue, disciplined and adult lifestyle and profession. Dr. North also told he never gives his children cash gifts, cash ives them too many options. 
+23. No matter how wealthy you are, teach your children discipline and frugality. 
+
