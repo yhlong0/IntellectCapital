@@ -26,4 +26,5 @@
 21. Aunt Sarah defines maturity as the proven ability to earn a good living.
 22. Assure that your children won't realize you're affluent until after they have established a matrue, disciplined and adult lifestyle and profession. Dr. North also told he never gives his children cash gifts, cash ives them too many options. 
 23. No matter how wealthy you are, teach your children discipline and frugality. 
+24. The successful man is a guy who works at a job, who likes his work, who can't wait to get up in the morning to get down to the office.
 
