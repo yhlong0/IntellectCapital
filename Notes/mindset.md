@@ -16,4 +16,6 @@
 14. The growth mindset says your partner's qualities can be developed. All--you, your partner, and the relationship are capabale of growth and change. 
 15. Every marriage demands an effort to keep it on the right track; there is a constant tension...between the forces that hold you together and those that can tear you apart. 
 16. If you have a troubled relationship with a parent, whose fault is it? It's my responsibility to enlighten my parents, improve their thinking, be patient as they did for me when I was young. 
-17. 
+17. For children, don't judge, just teach. It's a learning process. 
+18. You really studied for your test and your improvement shows it. You read the material over several times, you outlined it, and test yourself, it really worked!
+19. I like the way you tried all kinds of strategies on that math problem until you finally got it. 
