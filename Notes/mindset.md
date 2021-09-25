@@ -19,3 +19,6 @@
 17. For children, don't judge, just teach. It's a learning process. 
 18. You really studied for your test and your improvement shows it. You read the material over several times, you outlined it, and test yourself, it really worked!
 19. I like the way you tried all kinds of strategies on that math problem until you finally got it. 
+20. That homework was so long and involved. I really admire the way you concentrated and finished it. 
+21. Everyone learns in a different way. Let's keep trying to find the way that works for you. 
+22. 
