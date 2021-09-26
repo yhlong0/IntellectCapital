@@ -21,4 +21,5 @@
 19. I like the way you tried all kinds of strategies on that math problem until you finally got it. 
 20. That homework was so long and involved. I really admire the way you concentrated and finished it. 
 21. Everyone learns in a different way. Let's keep trying to find the way that works for you. 
-22. 
+22. Don't praise for speed and perfection, they are the enemy of difficult learning. Avoid like: "Wow, you did that so quickly!" or "Look, you didn't make any mistakes!"
+23. Abusive parents often don't understand that children's crying is a signal of their needs. Babies can't stop crying on command. Don't judge the child as disobedient, willful, or bad for crying.
