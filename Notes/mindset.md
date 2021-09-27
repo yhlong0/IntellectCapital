@@ -23,3 +23,5 @@
 21. Everyone learns in a different way. Let's keep trying to find the way that works for you. 
 22. Don't praise for speed and perfection, they are the enemy of difficult learning. Avoid like: "Wow, you did that so quickly!" or "Look, you didn't make any mistakes!"
 23. Abusive parents often don't understand that children's crying is a signal of their needs. Babies can't stop crying on command. Don't judge the child as disobedient, willful, or bad for crying.
+24. Why people loved teaching? Teaching was about watching something grow before you very eye.
+25. Schools are for students learning. Well, why aren't they just as much for teachers' learning?
