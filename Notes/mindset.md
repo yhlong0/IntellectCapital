@@ -25,3 +25,8 @@
 23. Abusive parents often don't understand that children's crying is a signal of their needs. Babies can't stop crying on command. Don't judge the child as disobedient, willful, or bad for crying.
 24. Why people loved teaching? Teaching was about watching something grow before you very eye.
 25. Schools are for students learning. Well, why aren't they just as much for teachers' learning?
+26. Concrete plan--plans you can visualize--about when, where, and how.
+27. When an anger-provoking situation arises, you have to matter-of-factly *tell them how it makes you feel*.
+28. It's amazing once a problem improves, people often stop doing what caused it to improve. But changes doesn't work that way, these changes have to be supported or they can go away faster than they appeared. 
+29. The journey to growth mindset, the first step is to embrace your fixed mindset, let's face it, we all have some of it.
+30. Learn and help learn, What are the oppotunites for learning and growth today? For myself? For the people around me? As you think of opportunities, form a plan of When, where and how will I embark on my plan?
