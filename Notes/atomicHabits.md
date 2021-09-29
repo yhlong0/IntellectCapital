@@ -1,8 +1,8 @@
-我的目标不是阅读一本书，是要成为一个阅读者，我的目标不是跑马拉松，而是成为一个跑步者。我的目标不是学习一种乐器，而是成为一个音乐家。
+# Atomic Habits
 
-# How to Trick Your Brain to Like Doing Hard Things
+Changes that seem small and unimportant at first will compound into remarkable results if you're willing to stick with them for years. The quality of our lives often depends on the quality of our habits. With the same habits, you'll end up with the same results. But with better habits, anything is possible. 
 
-#### The power of tiny gains
+### The power of tiny gains
 Bike team like to improve, they only earn one Medal in last 100 years. They hire someone and start making small change in below area.
   - thin tire
   - racing suits
@@ -13,29 +13,49 @@ Bike team like to improve, they only earn one Medal in last 100 years. They hire
 1. Aggregation of marginal gains, 1% improvement in nearly everything that you do. Small improvements can actually added up to significant change 
 in a relative short period of time. 1% better each day, 1.01^365 = 37.78 37 times better at the end of the year. The way to reach this goal is by 
 obtaining better habits.
+
+2. Imagine an ice cube in front of you. The room is 25F, slowly room begins to heat up. 26,27,....31 nothing has happened. Then 32 the ice begins to melt, A one-degree shift, seemingly no different from the temperature increases before it, has unlocked a huge change. Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change -- break through this plateau!
+
+3. If you're a millionaire but you spend more than you earn each month, then you're on a bad trajectory. If your spending habits don't change, it's not going to end well. Conversely, if you're broke, but you save a little bit every month, then you're on the path toward financial freedom--even if you're moving slower than you'd like.
+
+4. Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat. 
   
-2. A study done by Yale regarding psychology of aging. One group has positive view of aging and another group has negative view of aging. At the end, those 
+5. A study done by Yale regarding psychology of aging. One group has positive view of aging and another group has negative view of aging. At the end, those 
 who has positive view live 7 years longer. When you have positive view, you gonna more likely to work out, eat health vs negative view people will say what's 
 point to exercising I'm going to get sick anyway. 
 
-Deep level behavior changing: 
+### How Habits Shape your Identity(and Vice Versa)
 
-Result( actions ( identity/belief/mindset ) ) )
-
-The belief/identity we hold, drive the behavior, actions and at the end the result. In Yale example, people has postivie belief, they take positive actions 
+1. Goals are about the results you want to achieve. System are about the processes that lead to those results， implement a system of continuous small improvements.
+2. Result, Outcomes( Processes, Actions ( Identity, Belief, Mindset ) ) )
+3. Three layers of behavior change: 
+    - a change in your outcomes
+    - a change in your processes
+    - a change in your identity
+    
+4. The belief/identity we hold, drive the behavior, actions and at the end the result. In Yale example, people has postivie belief, they take positive actions 
 and thus they get positive result. 
 
-I want to become the person never miss the work out. -> take actions -> good result.
+5. It's one thing to say I'm the type of person who wants this. It's something very different to say I'm the type of person who is this. 
+    - When offered a smoke, "No thanks, I'm trying to quit" VS "No thanks, I'm not a smoker"
+    - "I want to be skinny(outcome) and if I stick to this diet, I'll be skinny(process)" VS "I am a health/workout person, I never eat junk food."
+    - The goal is not to read a book, the goal is to become a reader.
+    - The goal is not to run a marathon, the goal is to become a runner
+    - The goal is not to learn an instrument, the goal is to become a musician. 
 
-**A shift in mindset leads to a shift in daily choices, and shift in daily choices leads to significantly better results in the long-run.**
+6. When your behavior and your identity are fully aligned, you are no longer pursuing behavior change. You are simply acting like the type of person you already believe yourself to be. I want to become the person never miss the work out. -> take actions -> good result.
 
-3. Ruthless(无情) Elimination
+7. Building better habits isn't about littering your day with life hacks, It's not about achieving external measures of success like earning more money, losing weight. Habits can help you achieve all of these things, but fundamentally they are not about *having something*, they are about *become someone*.
+
+8. **A shift in mindset leads to a shift in daily choices, and shift in daily choices leads to significantly better results in the long-run.**
+
+### Ruthless(无情) Elimination
 
 Priority not Priorities. Don't have multiple first things. When coming to building better habits and changing behavior, we have to be ruthless about the things we
 focus on. You brain will get fatigued, the will power depletes. **Decision fatigue** or **Ego Depletion** The more decision you make, the more willpower and 
 focus get fatigued.
 
-4. Simplify the 25-5 rules
+### Simplify the 25-5 rules
 
 Write 25 things you want to achieve, circle top 5 things. Only first 5 things you will do and they are your priorities, the rest 6 to 25 never do under 
 any circumstance list. Those just not best use of our time, so forget about it. 
