@@ -47,7 +47,28 @@ and thus they get positive result.
 
 7. Building better habits isn't about littering your day with life hacks, It's not about achieving external measures of success like earning more money, losing weight. Habits can help you achieve all of these things, but fundamentally they are not about *having something*, they are about *become someone*.
 
-8. **A shift in mindset leads to a shift in daily choices, and shift in daily choices leads to significantly better results in the long-run.**
+8. A shift in mindset leads to a shift in daily choices, and shift in daily choices leads to significantly better results in the long-run.
+9. Doesn't so much routine take away the vibrancy and spontaneity of life? This question make you think that you have to choose between building habits and attaining freedom, in reality, the two complement each other. Habits do not restrict freedom, they create it. Without good financial habits, you will always struggling for the next dollar. Without good health habits, you will always seem to be short on energy. If you're always forced to make decisions about simple tasks--when should I work out, when do I pay the bills, then you have less time for freedom. Making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity. Conversely, when you have your habits dialed in and the basics of life are handled and done, your mind is free to focus on new challenges and master the next set of problems. Building habits in the present allows you to do more of what you want in the future. 
+
+### The Science of How Habits Work
+> Cue -> Craving -> Response -> Reward
+
+1. The cue triggers your brain to initiate a behavior.
+2. Cravings are the motivational force behind every habits.
+3. Response is the actual habit you perform, which can tak the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior
+4. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. 
+5. How to create a good habit or Break a bad habit? 
+    - (Cue): Make it obvious/invisible.
+    - (Craving): Make it attractive/unattractive.
+    - (Response): Make it easy/difficult. 
+    - (Reward): Make it satisfying/unsatisfying.
+6. Every goal is doomed to fail if it goes against the grain of human nature.
+7. The first step to changing bad habits is to be on the lookout for them.(Japen Pointing-and-Calling operator), If you want to cut back on your junk food habit, say out loud, "I'm about to eat this cookie, but I don't need it. Eating it will cause me to gain weight and hurt my health." Saying out loud, increase the odds that you'll actually do it.
+8. Two most common cues are time and location, implementation intentions leverage both of these cues. I will [BEHAVIOR] at [TIME] in [LOCATION].
+9. The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.(Denis Diderot a poor french writer for Encyclopedie, once he bought a scarlet robe, he has to keep "upgrading" everything)
+10. **Habit stacking**, One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top.
+11. Minimalism. When I buy a new item, I will give something away. One in, One out. 
+12. The more tightly bound your new habit is to a specific cue, the better the odds are that your will notice when the time comes to act.
 
 ### Ruthless(无情) Elimination
 
