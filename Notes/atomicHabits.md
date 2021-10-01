@@ -63,12 +63,27 @@ and thus they get positive result.
     - (Response): Make it easy/difficult. 
     - (Reward): Make it satisfying/unsatisfying.
 6. Every goal is doomed to fail if it goes against the grain of human nature.
-7. The first step to changing bad habits is to be on the lookout for them.(Japen Pointing-and-Calling operator), If you want to cut back on your junk food habit, say out loud, "I'm about to eat this cookie, but I don't need it. Eating it will cause me to gain weight and hurt my health." Saying out loud, increase the odds that you'll actually do it.
-8. Two most common cues are time and location, implementation intentions leverage both of these cues. I will [BEHAVIOR] at [TIME] in [LOCATION].
-9. The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.(Denis Diderot a poor french writer for Encyclopedie, once he bought a scarlet robe, he has to keep "upgrading" everything)
-10. **Habit stacking**, One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top.
-11. Minimalism. When I buy a new item, I will give something away. One in, One out. 
-12. The more tightly bound your new habit is to a specific cue, the better the odds are that your will notice when the time comes to act.
+
+
+### Cue 
+1. The first step to changing bad habits is to be on the lookout for them.(Japen Pointing-and-Calling operator), If you want to cut back on your junk food habit, say out loud, "I'm about to eat this cookie, but I don't need it. Eating it will cause me to gain weight and hurt my health." Saying out loud, increase the odds that you'll actually do it.
+2. Two most common cues are time and location, implementation intentions leverage both of these cues. I will [BEHAVIOR] at [TIME] in [LOCATION].
+3. The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.(Denis Diderot a poor french writer for Encyclopedie, once he bought a scarlet robe, he has to keep "upgrading" everything)
+4. **Habit stacking**, One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top.
+5. Minimalism. When I buy a new item, I will give something away. One in, One out. 
+6. The more tightly bound your new habit is to a specific cue, the better the odds are that your will notice when the time comes to act.
+
+### Craving(Environment)
+1. Behavior is a function of the Person in their Environment, B = f(P, E)
+2. A small change in what you see can lead to a big shift in what you do, you don't have to be the victim of your environment. You can also be the architect of it.
+3. Trying to eat healthier? Try a new grocery store, you may find it easier to avoid unhealthy food when your brain doesn't automatically know where it is located in the store.
+4. The way to improve willpower is not by wishing you were a more disciplined person, but by creating a more disciplined environment. 
+5. A high value on salt, sugar, and fat. Such foods are often calorie-dense and they were quite rare when our ancient ancestors were roaming the savannah. 
+6. Foods that are high in dynamic contrast keep the experience novel and interesting, encouraging you to eat more. The precise combination of salt, sugar, and fat that excites your brain and keeps you coming back for more. *We've gotten too good at pushing our own buttons.*
+7. It is the anticipation of a reward--not the fulfillment of it--that gets us to take action.
+8. Temptation bundling works by linking an action you want to do with an action you need to do. Netflix + cycling, 10 burpees + check facebook.
+9. As a general rule, the closer we are to someone, the more likely we are to imitate some of their habits. 
+10. 
 
 ### Ruthless(无情) Elimination
 
