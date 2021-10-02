@@ -83,7 +83,19 @@ and thus they get positive result.
 7. It is the anticipation of a reward--not the fulfillment of it--that gets us to take action.
 8. Temptation bundling works by linking an action you want to do with an action you need to do. Netflix + cycling, 10 burpees + check facebook.
 9. As a general rule, the closer we are to someone, the more likely we are to imitate some of their habits. 
-10. 
+10. It is an inversion of the 2nd Law of Behavior Change: make it unattractive.(Make bad habits like smoking unattractive)
+11. Cue triggers a predictions, prediction lead to feelings, if you can change prediction, you can change the feelings and future action.
+12. A craving is the sense that something is missing. It is the desire to change your internal state. When the temperature falls, there is a gap between what your body is currently sensing and what it wants to be sensing. This gap between your current state and your desired state provides a reason to act. Desire is the difference between where you are now and where you want to be in the future.
+13. Instead of telling yourself "I need to go run in the morning," say "It's time to build endurance and get fast."
+14. The money you save this month increases your purchasing power next month.
+15. You can reframe "I am nervous" to "I am excited and I'm getting an adrenaline rush to help me concentrate.
+16. When you angry or have a bad mode, three deep breaths, Smile, Pet the cat. 
+17. It is easy to get bogged down trying to find the optimal plan for change: the fastest way to lose weight, the best program to build muscle, the perfect idea for a side hustle. We are so focused on figuring out the best approach that we never get around to taking action. 
+18. How long does it take to build a new habit? But what people really should be asking is, "How many does it takes to form a new habit?"
+19. Habits like scrolling on our phones, checking email, and watching TV steal so much of our time because they can be performed almost without effort. They are remarkably convenient. 
+20. The greater the friction, the less likely the habit. (unplug tv cord -> hide remote -> take out remote battery -> put TV in closet)
+21. Each one setting the trajectory for how you spend the next chunk of time. 
+
 
 ### Ruthless(无情) Elimination
 
