@@ -95,6 +95,12 @@ and thus they get positive result.
 19. Habits like scrolling on our phones, checking email, and watching TV steal so much of our time because they can be performed almost without effort. They are remarkably convenient. 
 20. The greater the friction, the less likely the habit. (unplug tv cord -> hide remote -> take out remote battery -> put TV in closet)
 21. Each one setting the trajectory for how you spend the next chunk of time. 
+22. We are more likely to repeat a behavior when the experience is satisfying. Why would someone smoke, overeat, unsafe sex? The costs of your good habits are in the present. The costs of your bad habits are in the future. 
+23. The short-term reward need to aligned with your long-term vision. 
+24. Track habit. After [CURRENT HABIT], I will [TRACK MY HABIT]. Visual measures--like moving paper clips or hairpins or X on calendar--provide clear evidence of your progress. 
+25. How to recover quickly when your habits break down? A simple rule: never miss twice. The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit. Don't break the chain.
+26. **Goldilocks Rule**, humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
+27. Being poor is not having too little, it is wanting more. If your wants outpace your likes, you'll always be unsatisfied. Only when you learn how to control your desire, you will be happy and satisfied. Being rich will deprive the happiness from the small things. A candy you can't afford previously will give you great joy, but once you rich, it never does again. 
 
 
 ### Ruthless(无情) Elimination
