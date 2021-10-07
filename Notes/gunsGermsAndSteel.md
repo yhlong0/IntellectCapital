@@ -7,4 +7,7 @@
 5. The reason transite to food production, foraging humans, have finite time and energy, shall I spend today hoeing garden predictably yielding food several months from now, or gathering shellfish, little meat today, or hunting deer possibly a lot of meat, but more likely nothing. 
 6. People seek to maximize their return of calories, protein, in a way that yields the most return with greatest certainty in the least time for the least effort.
 7. Denser populations of food producers enabled them to displace or kill hunter-gatherers by their sheer numbers. 
-8. 
+8. 植物需要依靠动物传播，所以它们进化出水果，让动物来吃。但是种子却不会被动物的消化系统破坏，另外种子很苦，也可以避免动物去吃。水果在种子不成熟前，果肉绿酸，难吃。等种子成熟以后，红甜美味吸引动物。
+9. Seedlessness provide a good example of how human selection can completely reverse the original evolved function of a wild fruit. 
+10. Some fruit and nut trees had the drawback of not starting to yield food until a least three years after planting. This prevent them domesticated early by human. 同理，当养成了种植习惯，才有可能开始种植有长期回报的植物。
+11. 
