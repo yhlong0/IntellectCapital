@@ -12,5 +12,11 @@
 10. Some fruit and nut trees had the drawback of not starting to yield food until a least three years after planting. This prevent them domesticated early by human. 同理，当养成了种植习惯，才有可能开始种植有长期回报的植物。
 11. Some societies will be more open to innovation, and some will be more resistant. The ones that do adopt new crops, livestock, or technology may thereby be enabled to nourish themmselves better and to outbreed, displace, conquer, or kill offf societies resisting innovation. 
 12. "Happy families are all alike; every unhappy family is unhappy in its own way." -- Anna Karenina
-13. In order to be haapy, a marriage must succeed in many different respects: sexual attraction, agreement about money, child discipline, religion, and other vital issues. Failure in any one of those essential respects can doom a marriage even if it has all the other ingredients needed for happiness. 
-14. 
+13. In order to be happy, a marriage must succeed in many different respects: sexual attraction, agreement about money, child discipline, religion, and other vital issues. Failure in any one of those essential respects can doom a marriage even if it has all the other ingredients needed for happiness. 
+14. To be domesticated, a candidate wild species must possess many characteristics. Lack of any single required characteristic dooms efforts at domestication, just as it dooms efforts at building a happy marriage.
+    - Diet, 10% food biomass conversion. As a result of this fundamental inefficiency, no mammalian carnivore has ever been domesticated for food. 
+    - Growth Rate, gorillas and elephants take 15 years to reach adult size. 
+    - Problems of Captive Breeding, don't like sex under watchful eyes of others. Male cheetahs need to chase female several days to get ovulate or to become sexually receptive. Vicunas camel has long and elaborate courtship ritual before mating.
+    - Nasty Disposition. Keeping grizzly bear longer than one year would be suicidal. Zebras impossible to lasso with a rope. 
+    - Tendency to Panic. Gazelles, blindly bashes itself against wall. 
+    - Social Structure. Horse, dog maintain a well-developed dominance hierarchy among herd members. 
