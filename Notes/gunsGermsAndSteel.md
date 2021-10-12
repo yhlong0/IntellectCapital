@@ -22,6 +22,9 @@
     - Social Structure. Horse, dog maintain a well-developed dominance hierarchy among herd members. 
 15. Written accounts of earlier expeditions motivated later ones, by describing the wealth and fertile lands awaiting the conquerors. 
 16. The rate of development was undetectably slow at the beginning, today, technology advances so rapidly. 科技可以指数增长
+17. Landlock countries lose much more money on transportation and freight costs than do countries with access to the sea.
+18. If a society doesn't have complex institutions at all, then it can't have good complex institutions that will make it rich.
+19. China has had higher recent economic growth rates than countries with short histories of state government, like Zambia and New Guinea.
 
 
 ### 为什么人会选择冒着危险当军人，警察或者医生，甚至愿意牺牲奉献自己的生命？
