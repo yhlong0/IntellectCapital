@@ -26,4 +26,7 @@
 10. If one person attack nasty, the other one will defend himself/herself. **Defensiveness** in all its guises just escalates the conflict. it is a way of blaming your partner. "Innocent victim", why are you picking on me? What about all the good things I do? When wife said it is hard for her to wash her car, her husband just got outrages and climbs farther up his high moral ground, telling her how well he takes care of his vehicle and implying she's spoiled for not doing the same. 
 11. Stonewalling, the less responsive he is, the more she yells. Eventually he gets up and leaves the room. Rather than confronting, he disengages. Doesn't give eye contact, nod his head, or say something like "yeah" or "Uh" this sort of casual feedback. 
 12. The key to divorce-proofing is not simply handle your disagreements but how you engage with each other when you're not fighting. The foundation of love is to know your partner, build love map.
-13. 
+13. A tendency to turn toward your partner is the basis of trust, emotional connection, passion, and a satisfying sex life. 
+14. Before you reply defensively to your partner, pause for a moment and search for a bid underneath your partner's harsh words. 
+15. When someone is sad, usually it's because they feel that they have lost someone or something. 
+16. 
