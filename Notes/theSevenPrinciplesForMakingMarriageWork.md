@@ -29,4 +29,13 @@
 13. A tendency to turn toward your partner is the basis of trust, emotional connection, passion, and a satisfying sex life. 
 14. Before you reply defensively to your partner, pause for a moment and search for a bid underneath your partner's harsh words. 
 15. When someone is sad, usually it's because they feel that they have lost someone or something. 
-16. 
+16. There's a big difference between "Sheesh, you're a lousy driver! Slow down before you kill us!" and "I know you enjoy driving fast, but I get really nervous. Could you please slow down?"
+17. "Hey, there's poop all over the backyard. We agreed you'd clean up after Banjo. I'm really upset about this. Would you please clean it up?" vs "Hey, there's poop all over the backyard. This is all your fault. I just knew you'd be irresponsible about that dog. I should never have trusted you about it in the first place.
+18. Make statements that start with "I" instead of "You". 
+19. "You are not listening to me" vs "I would like it if you'd listen to me."
+20. "You are careless with money" vs "I want us to save more"
+21. "You just don't care about me" vs "I'm feeling neglected."
+22. If your words focus on how you feel rather than on accusing your spouse, your discussion will be far more successful. 
+23. Describe what is happening. Don't evaluate or judge. Intead of "You never watch the baby" say, "I seem to be the only one chaing after kid today."
+24. Be clear about your positive need. Don't expect your partner to be a mind reader. Instead of "You left the kitchen a total mess" say, "I'd appreciate it if you would clean your stuff off the kitch table." Instead of "Would you take care of the baby for once?" say, "Please change Emmy's diaper and give her a bottle."
+25. 
