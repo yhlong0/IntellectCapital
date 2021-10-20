@@ -38,4 +38,9 @@
 22. If your words focus on how you feel rather than on accusing your spouse, your discussion will be far more successful. 
 23. Describe what is happening. Don't evaluate or judge. Intead of "You never watch the baby" say, "I seem to be the only one chaing after kid today."
 24. Be clear about your positive need. Don't expect your partner to be a mind reader. Instead of "You left the kitchen a total mess" say, "I'd appreciate it if you would clean your stuff off the kitch table." Instead of "Would you take care of the baby for once?" say, "Please change Emmy's diaper and give her a bottle."
-25. 
+25. Don't expect your partner auto react with great sweetness once you begin to soften your start-up, don't fall into the trap of giving up and escalating the conflict. Continue to broach topics gently, and eventually you will see a change.
+26. If you frequently have the experience of being calmed by your spouse, you come to associate him or her with feelings of relaxation rather than stress. This auto increases the positivity in your relationship.
+27. If your heart rate exceeds 100/minute, you won't be able to hear what your spouse is trying to tell you. Take a 20 mins break.
+28. Emotional injuries, the culprit is not what you were fighting about but how you were fighting. Examining what tends to go on between you during a disagreement.
+29. A child is a grenade. When you have a baby, you set off an explosion in your marriage, and when the dust settles, your marriage is different from what it was. Not better, necessarily; not worse, necessarily; but different.
+30. An important part of putting your spouse first and building this sense of solidarity is to not tolerate any contempt toward your spouse from your parents. 
