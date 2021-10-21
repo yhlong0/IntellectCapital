@@ -44,3 +44,7 @@
 28. Emotional injuries, the culprit is not what you were fighting about but how you were fighting. Examining what tends to go on between you during a disagreement.
 29. A child is a grenade. When you have a baby, you set off an explosion in your marriage, and when the dust settles, your marriage is different from what it was. Not better, necessarily; not worse, necessarily; but different.
 30. An important part of putting your spouse first and building this sense of solidarity is to not tolerate any contempt toward your spouse from your parents. 
+31. A dream was the root cause of gridlock. 
+    - express understanding of the dream and be interested in learning more about it.
+    - actively enable the dream
+    - become a part of the dream
