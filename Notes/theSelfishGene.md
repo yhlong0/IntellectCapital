@@ -10,3 +10,6 @@
 8. Faith means blind trust, in the absence of evidence, even in the teeth of evidence. 
 9. If you contribute to the world's culture, if you have a good idea, compose a tune, invent a sparking plug, write a poem, it may live on, intact, long after your genes have dissolved in the common pool.
 10. For divoce lawyer and fund managers, it is non zeros sum game. Divoce lawyer make each party become enemy, their total assets lost after ripe by lawyer. Same thing will happen between funds manager and their client. Funds manager has less contribute. 
+11. A single enzymes cannot achieve the synthesis of a useful end-product from a given start chemical. That's why we evolve with multiple cells, organism and etc. The cell in the club can specialize, each thereby becoming more efficient at performing its particular task. 人类社会进步也是如此，更细的分工合作。
+12. Cell walls perhaps arose as a device to keep useful chemicals together and stop them leaking away. 
+13. 
