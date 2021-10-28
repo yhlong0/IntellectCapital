@@ -9,4 +9,6 @@
     - Purposeful practice involves feedback. Need feedback to identify exactly where and how you are falling short.
     - Purposeful practice requires getting out of one's comfort zone.
 5. Meaningful positive feedback is one of the crucial factors in maintaining motivation. (became celebrity, stories appeared in newspaper, tv, when he remember more digits)
-6. 
+6. Training modifies the structure and function of the brain in various ways, and in a sense, increasing your own "talent".
+7. Mental representation, let random words, digit carries meaning that allows us to make sense of the words, and meaning aids memory. 
+8. A good chess player analyze a position in depth, predicting the next move, and if you get it wrong, you go back and figure out what you missed. 
