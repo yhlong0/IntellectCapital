@@ -12,3 +12,4 @@
 6. Training modifies the structure and function of the brain in various ways, and in a sense, increasing your own "talent".
 7. Mental representation, let random words, digit carries meaning that allows us to make sense of the words, and meaning aids memory. 
 8. A good chess player analyze a position in depth, predicting the next move, and if you get it wrong, you go back and figure out what you missed. 
+9. 
