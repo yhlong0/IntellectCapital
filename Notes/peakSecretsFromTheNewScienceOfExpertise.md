@@ -4,12 +4,13 @@
 2. The gift everyone has is adaptability, not perfect pitch.
 3. Once you have reached this satisfactory skill level and automated your performance--driving, playing tennis--you have stopped improving. The additional years of "practice" don't lead to improvement.
 4. Purposeful practice
-    - Purposeful practice has well-defined, specific goals.
-    - Purposeful practice is focused.
-    - Purposeful practice involves feedback. Need feedback to identify exactly where and how you are falling short.
-    - Purposeful practice requires getting out of one's comfort zone.
+    - Purposeful practice has well-defined, specific goals. Other people have already figured out how to do, the practice regimen should be designed and overseen by a teacher.
+    - Purposeful practice is focused. Requires full attention and conscious actions. 
+    - Purposeful practice involves feedback. Need feedback to identify exactly where and how you are falling short. Monitor progress, point out problems, and offer ways to address those problems. 
+    - Purposeful practice requires getting out of one's comfort zone. Requires a student to constantly try things that just beyond his/her current abilities.
 5. Meaningful positive feedback is one of the crucial factors in maintaining motivation. (became celebrity, stories appeared in newspaper, tv, when he remember more digits)
 6. Training modifies the structure and function of the brain in various ways, and in a sense, increasing your own "talent".
 7. Mental representation, let random words, digit carries meaning that allows us to make sense of the words, and meaning aids memory. 
 8. A good chess player analyze a position in depth, predicting the next move, and if you get it wrong, you go back and figure out what you missed. 
-9. 
+9. I wanted to prove that anything's possible if you're willing to put in the time.
+10. Teachers will only be able to guide you to the level that they or their previous students have attained. 
