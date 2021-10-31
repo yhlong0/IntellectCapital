@@ -13,4 +13,6 @@
 7. Mental representation, let random words, digit carries meaning that allows us to make sense of the words, and meaning aids memory. 
 8. A good chess player analyze a position in depth, predicting the next move, and if you get it wrong, you go back and figure out what you missed. 
 9. I wanted to prove that anything's possible if you're willing to put in the time.
-10. Teachers will only be able to guide you to the level that they or their previous students have attained. 
+10. Teachers will only be able to guide you to the level that they or their previous students have attained. The most important lesson student gleaned from their teachers is the ability to improve on their own.
+11. People want to believe that there is magic in life, that not everything has to abide by the staid, boring rules of the real world. And what could be more magical than being born with some incredible ability that doesn't require hard work or discipline to develop? There is an entire comicbook industry built on that premise. 
+12. IQ, in the case of the chess study--may have an advantage when first learning a skill, that advantages get smaller over time, and eventually the amount and the quality of practice take on a much larger role in determining how skilled a person becomes. 
