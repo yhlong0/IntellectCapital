@@ -9,4 +9,4 @@
     - High risk, high uncertainty
     - Low risk, high uncertainty, **the only one interest to us.**
     - Low risk, low uncertainty, is loved by Wall Street, and stock prices of these securities sport the highest trading multiples. Avoid them.
-
+6. Archery is all about being singularly focused on the target. If the archer can't fixate on just the target, success is likely to be elusive. 
