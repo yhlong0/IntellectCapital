@@ -11,4 +11,8 @@
 9. People who avoid all criticism fail. It's destructive criticism we need to avoid, not criticism in all forms. 
 10. What we fear doing most is usually what we most need to do. 
 11. The opposite of happiness is boredom, what would excite me?
-12. 
+12. What you do is infinitely more important than how you do it. Efficiency is still important, but it is useless unless applied to the right things. 
+13. Parkinson's Law dictates that a task will swell in importance and complexity in relation to the time allotted for its completion. Deadline is helpful to focus on important things, if you haven't identified the mission-critical tasks and set aggressive start and end times for their completion, the unimportant becomes the important.
+14. Compile your to-do list for tomorrow no later than this evening.
+15. It is your job to train those around you to be effective and efficient.
+16. Do not work harder when the solution is working smarter. 
