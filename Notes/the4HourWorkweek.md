@@ -16,3 +16,7 @@
 14. Compile your to-do list for tomorrow no later than this evening.
 15. It is your job to train those around you to be effective and efficient.
 16. Do not work harder when the solution is working smarter. 
+17. Each delegated task must be both time-consuming and well-defined.
+18. Ask foregin virtual assisant to rephrase tasks to confirm understanding before getting started. 
+19. Criticism Sandwich because you first praise the person for something, then deliver the criticism, and then close with topic-shifting praise to exit the sensitive topic.
+20. 
