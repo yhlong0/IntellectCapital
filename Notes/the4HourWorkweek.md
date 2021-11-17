@@ -19,4 +19,7 @@
 17. Each delegated task must be both time-consuming and well-defined.
 18. Ask foregin virtual assisant to rephrase tasks to confirm understanding before getting started. 
 19. Criticism Sandwich because you first praise the person for something, then deliver the criticism, and then close with topic-shifting praise to exit the sensitive topic.
-20. 
+20. Our goal is simple: to create an automated vehicle for generating cash without consuming time.
+21. Don't create a product, then seek someone to sell it to. Find a market--define your customers--then find or develop a product for them.
+22. MBA--Management by absence. The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.
+23. 
