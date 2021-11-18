@@ -22,4 +22,7 @@
 20. Our goal is simple: to create an automated vehicle for generating cash without consuming time.
 21. Don't create a product, then seek someone to sell it to. Find a market--define your customers--then find or develop a product for them.
 22. MBA--Management by absence. The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.
-23. 
+23. The loss-Win Guarantee--How to sell anything to anyone. Delivered in 30 minutes or less or it's free!
+24. Don't title yourself CEO or founder, it is best not to appear to be the ultimate decision-maker. 
+25. Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him.
+26. Luxury is limited by your creativity and familiarity with the locale, not gross currency devaluation in third-world countries.
