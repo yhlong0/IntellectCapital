@@ -26,3 +26,7 @@
 24. Don't title yourself CEO or founder, it is best not to appear to be the ultimate decision-maker. 
 25. Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him.
 26. Luxury is limited by your creativity and familiarity with the locale, not gross currency devaluation in third-world countries.
+27. What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task. The most important thing is to feel good about yourself.
+28. You don't have to recoup losses the same way you lose them.
+29. I don't want to deal with renters, even with a property management company. The solution: Leave the house alone, use it on occasion, and just create incoming revenue elsewhere that would cover the cost of the mortgage through consulting, publishing, etc.
+30. 
