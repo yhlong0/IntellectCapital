@@ -17,3 +17,7 @@
 15. It isn't so much what you know when you start that matters. It's what you learn and put to use after you open your doors that counts most.--Woman opens 3-4 hardware stores
 16. Eagerly accept the opportunity to do more. It's a compliment to be asked to take on a new responsibility. 
 17. Pay twice as much and buy half as many. Commit this answer to memory, then practice it. Apply it to hats, suits, shoes, socks, coats. 
+18. People do more for you when you make them feel important, It pays to make "little" people feel like big people. It pays to make "big" people feel even bigger. 
+19. People wanted the company to pay him more and then he would produce more. But this is not how the system works. You don't get a raise on the promise of better performance; you get a raise only by demonstrating better performance. You can't harvest money unless you plant the seeds that grow money. And the seed of money is service. 
+20. What do they expect for $X a week? -- is stuck at $X a week. 
+21. 
