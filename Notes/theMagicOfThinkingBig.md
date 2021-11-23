@@ -20,4 +20,5 @@
 18. People do more for you when you make them feel important, It pays to make "little" people feel like big people. It pays to make "big" people feel even bigger. 
 19. People wanted the company to pay him more and then he would produce more. But this is not how the system works. You don't get a raise on the promise of better performance; you get a raise only by demonstrating better performance. You can't harvest money unless you plant the seeds that grow money. And the seed of money is service. 
 20. What do they expect for $X a week? -- is stuck at $X a week. 
-21. 
+21. Thinking in terms of now gets things accomplished, but thinking interms of someday or sometime usually means failure.
+22. Salvage something from every setback.
