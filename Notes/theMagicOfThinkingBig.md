@@ -22,3 +22,11 @@
 20. What do they expect for $X a week? -- is stuck at $X a week. 
 21. Thinking in terms of now gets things accomplished, but thinking interms of someday or sometime usually means failure.
 22. Salvage something from every setback.
+23. The quickest way to the end is to retire and do nothing. Every human being must keep an interest in life just to keep living. 
+24. When employees doing something wrong:
+    1. talk to them privately
+    2. praise them for what they are doing well.
+    3. point out the one thing at the moment that they could do better and I help them find the way.
+    4. praise them again on their good points.
+25. Success and the ability to lead others--that is, getting them to do things they wouldn't do if they were not led--go hand in hand. 
+26. Whoever is under a man's power is under his protection too. We never should have hired this man in the first place because he's not cut out for this kind of work. But since we did, the least I could do was help him to relocate. By helping that employee relocate before he left us built up a feeling of job security in everyone in my department. I let them know by example that no one gets dumped on the street as long as I'm here. 
