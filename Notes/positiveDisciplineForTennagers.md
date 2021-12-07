@@ -21,4 +21,6 @@
     - To have power over others
     - To seek justice through revenge
     - To be left alone without anyone expecting anything of them
-    
+14. Suicide is a choice that is too often made from a place of deep discouragement. When your teens lose self-confidence, suicide becomes one of their choices. If your kids haven't been learning how to cope with life's difficulties themselves, or how to solve their problems and stand on their own feet, suicide may look like the only choice left to them.
+15. Courageous parenting is having faith in the basic capabilities of your teenagers and knowing they can learn when given the room and support they need. 
+16. Teach skills to teens so they can manage their own lives.
