@@ -12,4 +12,6 @@
 10. Our interest in life comes mainly from our lack of certainty. If we were all sure, if we knew everything, there would no longer be discussions or discoveries. 
 11. A melancholiac(忧郁) could not remain melancholiac if he remembered his good moments and his successes. He must say to himself "all my life I was unfortunate" and select only those events which he can interpret as instances of his unhappy fate.
 12. When you think negatively, you style of life alteres, your memories also will alter, you will remember different incidents, or you will put a different interpretation on the incidents you remembers. e.g. Other people always humiliate me.
-13. 
+13. Anyone who dislikes something as much as this chooses a reason for his dislike, selects something from his experiences to bear the whole burden of justifying it.
+14. Suppose it rains, what can you do? It is no use to try to fight the rain or overpower it. At present you are spending time fighting the rain, you believe that this is strength. But your victories damage yourself more than any one. When you think your dad "treat" you bad, you are occupied in damaging your dad, as the mother pamper you, father who is harsh, and you eventually fail to process independently in solving the problems. 
+15. The drea is a instrument to stir up feelings. The goal of the drea is the feelings it leaves behind. 
