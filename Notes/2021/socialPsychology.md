@@ -9,4 +9,6 @@
 5. A young monk was once rebuffed when asking if he could smoke while he prayed. Ask a different question, advised a friend: Ask if you can pray while you smoke. 
 6. The **spotlight effect** means seeing ourselves at center stage, thus intuitively overestimating the extent to which others' attention is aimed at us.
 7. We overestimate the visibility of our social blunders and public mental slips. When we trigger the library alarm or accidentally insult someone, we may be mortified("Everyone thinks I'm a jerk"). But research shows that what we agonize over, others may hardly notice and soon forget. 
-8. 
+8. If you want to encourage someone (or yourself!), it's better if your praise is specific ("You're good at math") instead of general ("You're great") and if your kind words reflect true ability and performance("You really improved on your last test") rather than unrealistic optimism("You can do anything"). Feedback is best when it is true and specific. 
+9. Self-control is worth 10 times as much as self-esteem. 
+10. We are eager to verify our beliefs but less inclined to seek evidence that might disprove them, **confirmation bias**
