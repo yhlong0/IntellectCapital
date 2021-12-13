@@ -12,3 +12,6 @@
 8. If you want to encourage someone (or yourself!), it's better if your praise is specific ("You're good at math") instead of general ("You're great") and if your kind words reflect true ability and performance("You really improved on your last test") rather than unrealistic optimism("You can do anything"). Feedback is best when it is true and specific. 
 9. Self-control is worth 10 times as much as self-esteem. 
 10. We are eager to verify our beliefs but less inclined to seek evidence that might disprove them, **confirmation bias**
+11. Mood subconsciously influence how closely we observe the outside around us, with negative mood improving attention and memory.(From biologo evolution?)
+12. When researcher implanted a belief and then ask participants to explain why it is true, even researcher later totally discredited the initial information, the false belief still survived about 75% intact--**belief perserverance**. Beliefs can grow their own legs and survive discrediting. 
+13. Unhappy couples usually offer internal explanations for negative acts("She was late because she doesn't care about me"). Happy couples more often externalize("She was late because of heavy traffic"). 
