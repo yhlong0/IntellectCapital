@@ -15,3 +15,5 @@
 11. Mood subconsciously influence how closely we observe the outside around us, with negative mood improving attention and memory.(From biologo evolution?)
 12. When researcher implanted a belief and then ask participants to explain why it is true, even researcher later totally discredited the initial information, the false belief still survived about 75% intact--**belief perserverance**. Beliefs can grow their own legs and survive discrediting. 
 13. Unhappy couples usually offer internal explanations for negative acts("She was late because she doesn't care about me"). Happy couples more often externalize("She was late because of heavy traffic"). 
+14. Hateful attitudes spawn violent behavior.
+15. 
