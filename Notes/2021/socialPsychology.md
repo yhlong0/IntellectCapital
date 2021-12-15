@@ -16,4 +16,7 @@
 12. When researcher implanted a belief and then ask participants to explain why it is true, even researcher later totally discredited the initial information, the false belief still survived about 75% intact--**belief perserverance**. Beliefs can grow their own legs and survive discrediting. 
 13. Unhappy couples usually offer internal explanations for negative acts("She was late because she doesn't care about me"). Happy couples more often externalize("She was late because of heavy traffic"). 
 14. Hateful attitudes spawn violent behavior.
-15. 
+15. To change habits through persuasion, we must alter people's attitudes toward specific practices.
+16. Civilization advances by extending the number of operations which we can perform without thinking about them.
+17. Behavior determines attitudes. We sometimes stand up for what we believe. We also come to believe in what we stand up for. 
+18. It's not that we put bad apples in a good barrel. We put good apples in a bad barrel. The barrel corrupts anything that it touches. 
