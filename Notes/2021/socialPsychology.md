@@ -20,3 +20,6 @@
 16. Civilization advances by extending the number of operations which we can perform without thinking about them.
 17. Behavior determines attitudes. We sometimes stand up for what we believe. We also come to believe in what we stand up for. 
 18. It's not that we put bad apples in a good barrel. We put good apples in a bad barrel. The barrel corrupts anything that it touches. 
+19. To sense how other people are feeling, let your own face and body mirror their expressions.
+20. **Overjustification effect**: Rewarding people for doing what they already enjoy may lead them to attribute their action to the reward. This would undermine their self-perception that they do it because they like it.
+21. Men everywhere tend to be most attracted to women whose age and features suggest peak fertility. No matter what age, they all like mid-20s women. 
