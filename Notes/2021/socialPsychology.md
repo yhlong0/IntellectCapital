@@ -23,3 +23,4 @@
 19. To sense how other people are feeling, let your own face and body mirror their expressions.
 20. **Overjustification effect**: Rewarding people for doing what they already enjoy may lead them to attribute their action to the reward. This would undermine their self-perception that they do it because they like it.
 21. Men everywhere tend to be most attracted to women whose age and features suggest peak fertility. No matter what age, they all like mid-20s women. 
+22. start 183
