@@ -23,4 +23,6 @@
 19. To sense how other people are feeling, let your own face and body mirror their expressions.
 20. **Overjustification effect**: Rewarding people for doing what they already enjoy may lead them to attribute their action to the reward. This would undermine their self-perception that they do it because they like it.
 21. Men everywhere tend to be most attracted to women whose age and features suggest peak fertility. No matter what age, they all like mid-20s women. 
-22. start 183
+22. It is easiest to abuse someone who is distant or depersonalized. When you shock the people you can't see, you are much easier to do so. Internet bad comments, Air attack vs shot someone in front of you. Nuclear weapon button, if president wants to fire it, he has to kill one human being with his own hands, he might never push the button. 
+23. Slippery slope, after you had complied with initially reasonable-seeming orders from a supposed authority. External behavior and internal disposition can feed each other, sometimes in an escalating spiral. Shock people from low voltage -> high voltage. 
+24. 
