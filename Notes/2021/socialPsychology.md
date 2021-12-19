@@ -25,4 +25,7 @@
 21. Men everywhere tend to be most attracted to women whose age and features suggest peak fertility. No matter what age, they all like mid-20s women. 
 22. It is easiest to abuse someone who is distant or depersonalized. When you shock the people you can't see, you are much easier to do so. Internet bad comments, Air attack vs shot someone in front of you. Nuclear weapon button, if president wants to fire it, he has to kill one human being with his own hands, he might never push the button. 
 23. Slippery slope, after you had complied with initially reasonable-seeming orders from a supposed authority. External behavior and internal disposition can feed each other, sometimes in an escalating spiral. Shock people from low voltage -> high voltage. 
-24. 
+24. Ordinary people without any particular hostility can become agents in a terrible destructive process. When we understand the ordinariness of extraordinary evil, we will be less surprised by evil, less likely to be unwitting contributors to evil, and perhaps better equipped to forestall evil.
+25. Our desire to be liked, and the second from our desire to be right.
+26. Central route to persuasion: pay attention to the message -> Comprehend it -> Believe it -> Remember it -> Behave accordingly -> Action.
+27. Referendum supporters were all people I either liked or regarded as experts, I used a simple heuristic--friends and experts can be trusted--and voted accordingly. We all make snap judgements using such heuristics and take the easy peripheral route and accept the message without much thought.
