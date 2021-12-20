@@ -29,3 +29,5 @@
 25. Our desire to be liked, and the second from our desire to be right.
 26. Central route to persuasion: pay attention to the message -> Comprehend it -> Believe it -> Remember it -> Behave accordingly -> Action.
 27. Referendum supporters were all people I either liked or regarded as experts, I used a simple heuristic--friends and experts can be trusted--and voted accordingly. We all make snap judgements using such heuristics and take the easy peripheral route and accept the message without much thought.
+28. Fear-then-relief is a highly effective approach. Excuse me, Haven't you lost your wallet? Everyone immediately checked, to their relief, wallet was still in place. Then sell Christmas cards for a charity. 30% more people bought the card. 
+29. 
