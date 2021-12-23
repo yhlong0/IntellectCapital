@@ -32,4 +32,4 @@
 28. Fear-then-relief is a highly effective approach. Excuse me, Haven't you lost your wallet? Everyone immediately checked, to their relief, wallet was still in place. Then sell Christmas cards for a charity. 30% more people bought the card. 
 29. Others' presence will arouse or energize people, it boost performance on easy tasks and hurt performance on difficult tasks.
 30. Unequal status breeds prejudice.
-31. 
+31. Stereotypes represent cognitive efficiency. They are energy-saving schemes for making speedy judgments and predicting how others will think and act. We judge people in outgroups more quickly. 
