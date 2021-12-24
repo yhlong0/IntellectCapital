@@ -35,3 +35,6 @@
 31. Stereotypes represent cognitive efficiency. They are energy-saving schemes for making speedy judgments and predicting how others will think and act. We judge people in outgroups more quickly. 
 32. The "disfigured" women had misinterpreted mannerisms and comments they would otherwise not have noticed. 
 33. Sleep deprivation reduces activity in the prefrontal cortex, an area of the brain responsible for self-control. In individuals prone to violence and aggression, poor sleep can lead to violence and aggresssion. 
+34. Comparison is the thief of joy.
+35. Venting to reduce anger is like using gasoline to put out a fire.
+36. 
