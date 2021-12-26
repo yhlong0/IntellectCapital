@@ -37,4 +37,5 @@
 33. Sleep deprivation reduces activity in the prefrontal cortex, an area of the brain responsible for self-control. In individuals prone to violence and aggression, poor sleep can lead to violence and aggresssion. 
 34. Comparison is the thief of joy.
 35. Venting to reduce anger is like using gasoline to put out a fire.
+36. Whether we are judging ourselves or others, negative information carries more weight because, being less usual, it grabs more attention.
 
