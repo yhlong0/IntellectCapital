@@ -38,4 +38,6 @@
 34. Comparison is the thief of joy.
 35. Venting to reduce anger is like using gasoline to put out a fire.
 36. Whether we are judging ourselves or others, negative information carries more weight because, being less usual, it grabs more attention.
+37. Coldness, disillusionment, and hopelessness are better predictors of divorce than arguing.
+38. After illegally parking, looks like a ticket under your windshield wiper, you pick it up and then much relieved to discover it is only an ad. Then a student approaches you ask to spend 15 mins to answering questions. People whose fear had just turned to relief agree willingly. 
 
