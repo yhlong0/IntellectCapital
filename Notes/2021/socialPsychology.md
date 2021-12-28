@@ -40,4 +40,8 @@
 36. Whether we are judging ourselves or others, negative information carries more weight because, being less usual, it grabs more attention.
 37. Coldness, disillusionment, and hopelessness are better predictors of divorce than arguing.
 38. After illegally parking, looks like a ticket under your windshield wiper, you pick it up and then much relieved to discover it is only an ad. Then a student approaches you ask to spend 15 mins to answering questions. People whose fear had just turned to relief agree willingly. 
+39. Make the group small, in a small commons, each person feels more responsible and effective.
+40. Increased contact predicted decreased prejudice. 
+41. Leaders may create a threatening external enemy as a technique for building group cohesiveness. George Bush, 9/11 and Iraq war. 
+42. 
 
