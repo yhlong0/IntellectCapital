@@ -45,4 +45,5 @@
 41. Leaders may create a threatening external enemy as a technique for building group cohesiveness. George Bush, 9/11 and Iraq war. 
 42. Depression/Happiness is often contagious. 
 43. Depressed moods cause negative thinking, vice verse.  negative Experiences -> self-focus and self-blame -> depressed mood -> cognitive and behavioral consequences -> negative experiences
+44. 
 
