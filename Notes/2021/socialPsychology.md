@@ -45,5 +45,11 @@
 41. Leaders may create a threatening external enemy as a technique for building group cohesiveness. George Bush, 9/11 and Iraq war. 
 42. Depression/Happiness is often contagious. 
 43. Depressed moods cause negative thinking, vice verse.  negative Experiences -> self-focus and self-blame -> depressed mood -> cognitive and behavioral consequences -> negative experiences
-44. 
+44. Seek extrinsic goals--wealth, beauty, popularity, prestige, or anything else centered on external rewards or approval, you may find anxiety, depression, and psychosomatic ills. Those who instead strive for intrinsic goals such as intimacy, personal growth, and contribution to the community experience a higher quality of life. 
+45. Why luxuries so quickly become today's requirements? Our ability to adapt and our need to compare. 
+46. What once felt good comes to register as neutral, and what formerly was neutral now feels like deprivation. (for example, sounds, temperatures or income)
+47. Two hikers who meet a bear, one pull out a pair of sneakers. Why bother putting those on? You can't out run a bear. I don't have to outrun the bear, I just have to outrun you. 
+48. If you can't see your way to giving me a pay raise, how about giving others a pay cut?
+49. The best things in life are not things. 
+    
 
