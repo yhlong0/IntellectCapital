@@ -27,3 +27,11 @@ When senior executives boast about an amazing record streak of performance, it i
 When a company switches from standard revenue recognition practices to the more aggressive POC approach. Investors should be alert. 
 
 #### Be alert for Up-Front Recognition of a Long-term License Contract
+#### Watch for Shipping Product to an Intermediary, Rather Than the Actual Customer
+#### When a company switches from the more conservative sell-through(to actual users) to the sell-in(to a distribution network) approach, which of course inflates sales
+#### A rapid increase in accounts receivable is often an indication of deteriorating financial health
+
+1. Be extremely cautious when a company reports barter(易货贸易) or "nonmonetary" sales, especially when the buyer is a related party. Goods and services are swapped between two related parties. 
+2. Question Revenue Recorded when cash is received in lending transacations, never confuse money received from your banker with money from a customer. 
+3. Turning the sale of a business into a recurring revenue stream. A phone manufacturer decides no longer make its own batteries may sell its battery manufacturing division to another company and purchases batteries from that later. 
+4. 
