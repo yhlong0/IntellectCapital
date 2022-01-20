@@ -71,5 +71,9 @@ Clean up the mess, look like a strong, decisive leader, a large write-down of as
 
 ![cashflow](./cashFlowShenanigans.jpg)
 
-#### High net income with low cash flow for operating often signals the presence of some earnings manipulation.
-
+1. High net income with low cash flow for operating often signals the presence of some earnings manipulation.
+2. Bogus revenue might also signal bogus CFFO
+3. Selling accounts receivable
+    - Factoring, sell to bank
+    - Securitization, issue stocks
+4. Investors should focus not only on how much CFFO grew, but also on how it grew. 
