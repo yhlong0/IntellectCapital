@@ -55,5 +55,20 @@ When a company switches from standard revenue recognition practices to the more 
 ### Shift current income to a later period
 1. Creating reserves and releasing them into income in a later period(deferred earnings)
 2. Smoothing income by improperly accounting for derivatives
-3. Creating reserves in conjunction with an acquisition and releasing them intoincome in a later period
+3. Creating reserves in conjunction with an acquisition and releasing them into income in a later period
 4. Recording current-period sales in a later period, fails to record revenue during the current period, storing it on the balance sheet until it is needed.
+5. accelerating expenses to earlier periods 
+
+#### A Big Bath
+Clean up the mess, look like a strong, decisive leader, a large write-down of assets. Makes showing earnings growth in future periods infinitely easier. 
+
+#### Restructuring events should not become a regular occurrence. 
+
+### Cash flow shenanigans
+1. Shifting financing cash inflows to the operating section
+2. Moving operating cash outflows to other sections
+3. Boosting operating cash flow using unsustainable activites
+
+
+#### High net income with low cash flow for operating often signals the presence of some earnings manipulation.
+
