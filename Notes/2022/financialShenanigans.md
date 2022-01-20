@@ -69,6 +69,7 @@ Clean up the mess, look like a strong, decisive leader, a large write-down of as
 2. Moving operating cash outflows to other sections
 3. Boosting operating cash flow using unsustainable activites
 
+![cashflow](./cashFlowShenanigans.jpg)
 
 #### High net income with low cash flow for operating often signals the presence of some earnings manipulation.
 
