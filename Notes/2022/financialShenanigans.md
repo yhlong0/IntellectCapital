@@ -77,3 +77,19 @@ Clean up the mess, look like a strong, decisive leader, a large write-down of as
     - Factoring, sell to bank
     - Securitization, issue stocks
 4. Investors should focus not only on how much CFFO grew, but also on how it grew. 
+5. It is well worth your time to look for changes in disclosure each quarter, particularly in the most important sections of the filings. Most research platforms and word processing software have "word compare"
+6. Techniques to move cash outflows to other sections
+    - inflating CFFO with boomerang transactions
+    - improperly capitalizing normal operating costs
+    - Recording the purchase of inventory as an investing outflow
+    - Shifting operating cash outflows off the statement of cash flows.
+7. Free cash flow = operations - capital expenditures
+8. Techniques to boost operating cash flow using unsustainable activities
+    - Boosting CFFO by paying vendors more slowly
+    - Boosting CFFO by collecting from customers more quickly
+    - Boosting CFFO by purchasing less inventory
+    - Boosting CFFO with one-time benefits
+
+
+
+
