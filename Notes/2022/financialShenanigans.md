@@ -89,6 +89,16 @@ Clean up the mess, look like a strong, decisive leader, a large write-down of as
     - Boosting CFFO by collecting from customers more quickly
     - Boosting CFFO by purchasing less inventory
     - Boosting CFFO with one-time benefits
+9. If you see a discussion of accounts payable that is longer than a couple of sentences, there is probably something in there that you want to know.(e.g. accounts paybale financing arrangements)
+10. Check 10-Q,10-K Management Discussion and Analysis, **Liquidity and Capital Resources** section is a must-read for every company. 
+11. Two Key Metric Shenanigans
+    - showcasing misleading metrics that overstate performance
+    - Distorting balance sheet metrics to avoid showing deterioration
+
+12. Know key metrics for your company, bottles sell for coke, car sales for automaker, GMV for e-commerce, subscribers count for cable company and etc.
+13. Bad company will try to dress up their results by routinely adjusting their definition of key metrics(e.g. Same store sales)
+14. Churn: the level of cancellations for cable/internet company. 
+
 
 
 
