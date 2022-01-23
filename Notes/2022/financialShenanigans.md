@@ -98,6 +98,29 @@ Clean up the mess, look like a strong, decisive leader, a large write-down of as
 12. Know key metrics for your company, bottles sell for coke, car sales for automaker, GMV for e-commerce, subscribers count for cable company and etc.
 13. Bad company will try to dress up their results by routinely adjusting their definition of key metrics(e.g. Same store sales)
 14. Churn: the level of cancellations for cable/internet company. 
+15. Beginning backlog + net bookings - revenue = ending backlog
+16. For capital-intensive business, EBITDA is often a misleading measure of performance and profitability because all the major capital costs run through the income statement as depreciation and they are excluded from EBITDA. 
+17. Techniques to Distort Balance Sheet Metrics to Avoid Showing Deterioration
+    - Distorting accounts receivable metrics to hide revenue problems
+    - Distorting inventory metrics to hide profitability problems
+    - Distorting financial asset metrics to hide impairment problems
+    - Distorting debt metrics to hide liquidity problems
+18. Whenever you spot a CFFO boost from the sale of receivables, also realize that by definition, the company's DSO will have been lowered as well.
+19. As an investor, you should cringe when you see a company having a public disagreement with its auditor, particularly on a shady transaction of significant magnitude.
+20. Three Acquisition Accounting Shenanigans
+    - Artificially boosting revenue and earnings
+    - Inflating reported cash flow
+    - Manipulating key metrics
+21. Acquisition Accounting Techniques to Artificially Boost Revenue and Earnings
+    - Inflating profits through tricks at a target company before a deal closes
+    - Inflating profits by hiding losses at deal closing
+    - Creating dubious new revenue streams after closing
+    - Inflating profits by releasing suspicious reserves either before or just after closing
+22. For company is acquired, the parent company might want child to pay bill down ASAP or prepay more than they should. Hold revenue not report or deposit. This way parent company can report more revenue after merge.
+23. Free cash flow after acquisitions is a userful measure of cash flow when analyzing serial acquirers.
+24. If the non-GAAP metric continually produced A+ results and the GAAP-based equivalent produced D- results, investors should reject the non-GAAP metric. 
+25. When a company is in the process of correcting past accounting errors, smart investors will stay away until they have the chance to analyze the company's true performance. There is a good chance that the corrected numbers and underlying business performance will be worse than expected. 
+26. 
 
 
 
