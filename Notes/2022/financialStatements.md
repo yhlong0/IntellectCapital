@@ -9,3 +9,15 @@
 7. Par value is the dollar amount that is assigned to shares by the company, Par value has little significance other than to keep track of stock splits.
 8. Inventory: Raw Material + Work In Process + Finished Goods
 9. All manufacturing costs go into inventory. 
+10. A customer's cash payment for goods in no way changes the Income Statement. 
+11. Pay-roll tax, fringe benefits and insurance premiums are some of the few debts that cannot be erased by bankruptcy. 
+12. No taxes -> no earnings -> no dividends
+13. **Common Size Income Statements**: All items are presented as a percentage of sales.
+14. **Common Size Balance Sheet**: All items are presented as a percentage of total assets.
+15. Cash available relative to the level of payables is a good indicator of how easily the company will be able to pay its bills in the future. 
+16. **Quick ratio**: quick assets(cash and account receivable) / current liabilities. Inventories are left out. This is a more conservative measure of liquidity.
+17. Inventory Turn = cost of goods sold / inventory
+18. Asset Turn Ratio = Annual Sales / Assets
+19. Receivable Days = Recivables * 365 / Annual Sales
+20. Grocery stores and restaurants have very low accounts receivables as measure in receivable days. Theses industries are so-called "cash businesses"
+21. Mission, Vision, Goals, Strategies, Actions and Tactics
