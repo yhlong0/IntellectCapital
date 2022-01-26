@@ -21,3 +21,11 @@
 19. Receivable Days = Recivables * 365 / Annual Sales
 20. Grocery stores and restaurants have very low accounts receivables as measure in receivable days. Theses industries are so-called "cash businesses"
 21. Mission, Vision, Goals, Strategies, Actions and Tactics
+22. Inflation, risk and opportunity cost are the drivers of present value and future value calculations.
+23. Present Value(PV) of $1, discounted
+
+| Year 	| 8%   	| 10%  	| 12%  	|
+|------	|------	|------	|------	|
+| 5    	| 0.68 	| 0.62 	| 0.56 	|
+| 7    	| 0.58 	| 0.51 	| 0.45 	|
+| 10   	| 0.46 	| 0.38 	| 0.32 	|
