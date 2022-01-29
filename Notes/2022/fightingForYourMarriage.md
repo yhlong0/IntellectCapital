@@ -21,7 +21,10 @@
 10. Rules for listener:
   - Paraphrase what you hear
   - Don't rebut, focus on the speaker's message, you may not offer your opinion or thoughts
- 
 11. You do not have to agree with your partner to be a good listener.
-12. 
-page 147
+12. Withdrawing or getting upset is not going to help matters
+13. If a couple is working at managing issues rather than being managed by them, they can cut short what otherwise could erupt into huge battles. Separating issues from events. 
+14. A person's goal when disagreements arise is to convince other that you are right and he/she is wrong. For such couples, problems are approached as if there will be a winner and a loser. Who wants to lose? You can decide to work as a team. Do you want to be right or to be happy?
+15. When you do X in situation Y, I feel Z. When you drop your jacket on the floor as you come in the door at the end of the day, I feel angry.
+16. 
+page 205
