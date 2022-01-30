@@ -26,5 +26,9 @@
 13. If a couple is working at managing issues rather than being managed by them, they can cut short what otherwise could erupt into huge battles. Separating issues from events. 
 14. A person's goal when disagreements arise is to convince other that you are right and he/she is wrong. For such couples, problems are approached as if there will be a winner and a loser. Who wants to lose? You can decide to work as a team. Do you want to be right or to be happy?
 15. When you do X in situation Y, I feel Z. When you drop your jacket on the floor as you come in the door at the end of the day, I feel angry.
-16. 
-page 205
+16. All couples have problems, the key is how you handle them. Teamwork is the best path.
+17. Talking about your issues before trying to solve them will lead to better solutions.
+18. Use a signal sentence to timeout, Hey, let's grab a coke
+19. Having a weekly meeting time outweigh any negatives.
+20. 
+page 304
