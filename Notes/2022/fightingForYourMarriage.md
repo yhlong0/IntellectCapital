@@ -30,5 +30,7 @@
 17. Talking about your issues before trying to solve them will lead to better solutions.
 18. Use a signal sentence to timeout, Hey, let's grab a coke
 19. Having a weekly meeting time outweigh any negatives.
-20. 
-page 304
+20. Those who are happiest in life are those who take time to give to others, especially in terms of helping others.
+21. Five core values: commitment, respect, intimacy, honesty, and forgiveness
+22. 
+page 361
