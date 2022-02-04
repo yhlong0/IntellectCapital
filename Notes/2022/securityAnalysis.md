@@ -5,6 +5,7 @@
 3. The past record affords at least a rough guide to the future. The more questionable this assumption, the less valuable is the analysis. 
 4. Production and sales units, division sales, operating expenses, capital expenditures, inventories, properties owned.
 5. A stockholder is an owner of the business and an employer of its officers. 
+6. An investment is thorough analysis, promises safety of principal and a satisfactory return. Otherwise it is speculative. 
 
 page 137
 page 175
