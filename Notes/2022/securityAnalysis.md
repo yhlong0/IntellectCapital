@@ -6,6 +6,12 @@
 4. Production and sales units, division sales, operating expenses, capital expenditures, inventories, properties owned.
 5. A stockholder is an owner of the business and an employer of its officers. 
 6. An investment is thorough analysis, promises safety of principal and a satisfactory return. Otherwise it is speculative. 
+7. A high coupon rate bond is not adequate compensation for the assumption of substantial risk of principal.
+8. Bond safety 
+    - not measured by specific lien or contractual rights, but by the ability of the issuer to meet all of its obligations
+    - should be measured under depression conditions
+    - deficient safety cannot be compensated for an abnormally high coupon rate
+    - 
 
-page 137
-page 175
+page 237
+
