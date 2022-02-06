@@ -11,7 +11,7 @@
     - not measured by specific lien or contractual rights, but by the ability of the issuer to meet all of its obligations
     - should be measured under depression conditions
     - deficient safety cannot be compensated for an abnormally high coupon rate
-    - 
+9. It's not easy to stay on the sidelines while others are busy getting rich.
 
-page 237
+page 341
 
