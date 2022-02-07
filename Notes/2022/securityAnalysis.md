@@ -12,6 +12,10 @@
     - should be measured under depression conditions
     - deficient safety cannot be compensated for an abnormally high coupon rate
 9. It's not easy to stay on the sidelines while others are busy getting rich.
-
-page 341
+10. Investment in common stocks based on threefold concept:
+    - Suitable and established dividend return
+    - A stable and adequate earnings record
+    - A satisfactory backing of tangible assets
+11. 
+page 452
 
