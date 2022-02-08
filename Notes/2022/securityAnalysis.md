@@ -16,6 +16,7 @@
     - Suitable and established dividend return
     - A stable and adequate earnings record
     - A satisfactory backing of tangible assets
-11. 
-page 452
+11. Investor should choose truly good business, when market crash and disasters around you, you should made a promise to avoid any stock that you would not feel comfortable holding through another 1987-like crash.
+12. 
+page 469
 
