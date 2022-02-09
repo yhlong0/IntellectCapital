@@ -17,6 +17,9 @@
     - A stable and adequate earnings record
     - A satisfactory backing of tangible assets
 11. Investor should choose truly good business, when market crash and disasters around you, you should made a promise to avoid any stock that you would not feel comfortable holding through another 1987-like crash.
-12. 
-page 469
+12. The market level of common stocks is governed more by their current earnings than by their long-term average. So current earnings should not be the primary basis of appraisal.
+13. Buy common stocks at the low prices occasioned by temporarily reduced earnings and to sell them at inflated levels created by abnormal prosperity.
+14. People who habitually purchase common stocks at more than about 20 times their average earnings are likely to lose considerable money in the long run.
+
+page 561
 
