@@ -21,5 +21,5 @@
 13. Buy common stocks at the low prices occasioned by temporarily reduced earnings and to sell them at inflated levels created by abnormal prosperity.
 14. People who habitually purchase common stocks at more than about 20 times their average earnings are likely to lose considerable money in the long run.
 
-page 561
+page 607
 
