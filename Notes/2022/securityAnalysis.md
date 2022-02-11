@@ -20,6 +20,8 @@
 12. The market level of common stocks is governed more by their current earnings than by their long-term average. So current earnings should not be the primary basis of appraisal.
 13. Buy common stocks at the low prices occasioned by temporarily reduced earnings and to sell them at inflated levels created by abnormal prosperity.
 14. People who habitually purchase common stocks at more than about 20 times their average earnings are likely to lose considerable money in the long run.
+15. When a common stock sells persistently below its liquidating value, then either the price is too low or the company should be liquidated.
+16. All the people I know who've built wealth in the stock market have worked very hard at it.
 
 page 607
 
