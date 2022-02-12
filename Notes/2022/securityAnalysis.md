@@ -22,6 +22,10 @@
 14. People who habitually purchase common stocks at more than about 20 times their average earnings are likely to lose considerable money in the long run.
 15. When a common stock sells persistently below its liquidating value, then either the price is too low or the company should be liquidated.
 16. All the people I know who've built wealth in the stock market have worked very hard at it.
+17. Technical analysis:
+    - Chart reading cannot possibly be a science, its practice cannot be continuously successful. If it were a science, its conclusions would be as a rule dependable and everybody could predict tomorrow's or next week's price changes and everyone could continuously buy and sell at right time, this is patently impossible.
+    - Its vogue is due to certain advantages it possesses over haphazard speculation, but these advantages tend to diminish as the number of chart students increaes. This very following would bring its usefulness to an end. 
+    - In technical/market analysis there are no margins of safety, you are either right or wrong, and if you are wrong, you lose money. When you do fundamentl analysis, you protect by inisist upon margins of safety, even you wrong or security turn out to be less attractive, your commitment might still prove a satisfactory one.
 
-page 607
+
 
