@@ -7,3 +7,4 @@
 5. Dramatic effects often have distant, even subtle causes. the women who fight for abortion law, help reduce the crimal rate. 
 6. Knowing what to measure and how to measure it makes a complicated world much less so.
 7. When tax filling require SSN for the dependent child, suddenly, 7 million children who had existed before disappear. 
+8. People will pay different amounts for the same item depending on who is providing it. Beer on the Beach, resort hotel vs shabby grocery store.
