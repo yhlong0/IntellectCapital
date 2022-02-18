@@ -8,4 +8,6 @@
 6. Knowing what to measure and how to measure it makes a complicated world much less so.
 7. When tax filling require SSN for the dependent child, suddenly, 7 million children who had existed before disappear. 
 8. People will pay different amounts for the same item depending on who is providing it. Beer on the Beach, resort hotel vs shabby grocery store.
-9. 
+9. Control principle might explain why people are more scared of flying than driving. Since I control the car, I am the one keeping myself safe; since i have no control of the aireplane, I am at the mercy of myriad external factors.
+10. 10% chance of dying within the next year vs 10% chance of dying within the next minute, you'll probably panic. It's the imminent possibility of death that drives the fear.
+11. It isn't so much a matter of what you do as a parent; it's who you are. 
