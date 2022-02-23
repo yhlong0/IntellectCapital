@@ -13,3 +13,7 @@
 11. Never say anything about a person you wouldn't say to them directly, and don't try people without accusing them to their face, don't let loyalty stand in the way of truth and openness. 
 12. When you experience pain, clam yourself down and think about what is causing your psychological pain. 
 13. Don't have anything to do with closed-minded, inexperienced people. They won't do you any good and there's no helping them until they open their minds, so they will waste your time in the meantime. If you must deal with them, the first thing you have to do is open their minds, this require some technic and good guidance.
+14. If you're less than excited to hire someone for a particular job, don't do it. The two of you will probably make each other miserable.
+15. An authoritarian approach means you aren't developing your employees, and over time they will become increasingly dependent on you.
+16. When criticizing, try to make helpful suggestions. Your goal is to help your people understand and improve, not to hurt them. 
+17. Most things are done or not done because someone decided to do them or not do them a certain way, most root causes can be traced to specific people, especially the responsible party. You have to ask why the person made the mistake to get the root cause, and need to accurate in diagnosing a fault. 
