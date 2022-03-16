@@ -13,6 +13,9 @@
 11. Asking thoughtful questions of every new person he met which he didn't know very well.
 12. Rule of thumb is to make sure the linear thread of the message trends upward. Always begin and end the message on a positive note rather than on a pessimistic or detached one.
 13. Listen longer.
-14. 
+14. What's true in justice holds true in human relationships. There are no neutral exchanges. You leave someone either a little better or a little worse. 
+15. Arguing with another person will rarely get you anywhere; they usually end with eachperson more firmly convinced of his rightness. You may be right, dead right, but arguing is just as futile(无效的) as if you were dead wrong.
+16. Negotiations become more productive when each party acknowledges that the other may have legitimate concerns.
+17. Telling people they are wrong will only earn you enemies. Few people respond logically when they are told they are wrong; most respond emotionally and defensively because you are questioning their judgment. You shouldn't just avoid the words "You're wrong." You can tell people they are wrong by a look or an intonation(语调), or a gesture, so you must guard against showing judgment in all of the ways that you communicate. 
 
 
