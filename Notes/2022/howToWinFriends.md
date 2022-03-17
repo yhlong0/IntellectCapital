@@ -17,5 +17,10 @@
 15. Arguing with another person will rarely get you anywhere; they usually end with eachperson more firmly convinced of his rightness. You may be right, dead right, but arguing is just as futile(无效的) as if you were dead wrong.
 16. Negotiations become more productive when each party acknowledges that the other may have legitimate concerns.
 17. Telling people they are wrong will only earn you enemies. Few people respond logically when they are told they are wrong; most respond emotionally and defensively because you are questioning their judgment. You shouldn't just avoid the words "You're wrong." You can tell people they are wrong by a look or an intonation(语调), or a gesture, so you must guard against showing judgment in all of the ways that you communicate. 
+18. Getting to yes is so much easier if you start with yes
+19. The worst quality in a leader is taking credit when things go well and dishing out blame when things go wrong. Giving away credit is a magical multiplier
+20. If we think others have good motives, not selfish or deceitful, we allow them to increase their own self-worth in their response to use. We allow them to prove us right about them.
+21. Many people begin their criticism with sincere praise follow by the word "but", which signals that criticism is about to begin, Use "and" instead. 
+22. One time mechanic inject wrong oil and almost kill the pilot, instead of the tongue-lashing, pilot didn't even criticize his gross neligence. He threw his big arm around the mechnic's shoulder and said, "To show you I'm sure that you;ll never do this again, I want you to service my plane tomorrow."
 
 
