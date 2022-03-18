@@ -22,5 +22,7 @@
 20. If we think others have good motives, not selfish or deceitful, we allow them to increase their own self-worth in their response to use. We allow them to prove us right about them.
 21. Many people begin their criticism with sincere praise follow by the word "but", which signals that criticism is about to begin, Use "and" instead. 
 22. One time mechanic inject wrong oil and almost kill the pilot, instead of the tongue-lashing, pilot didn't even criticize his gross neligence. He threw his big arm around the mechnic's shoulder and said, "To show you I'm sure that you;ll never do this again, I want you to service my plane tomorrow."
+23. We intuitively know that failure is inevitable, so why can't we be more supportive when somebody is suffering through it?
+24. Separate the person from the failure, rather than saying "you failed," say "the project failed." In most cases, that is the truth.
 
 
