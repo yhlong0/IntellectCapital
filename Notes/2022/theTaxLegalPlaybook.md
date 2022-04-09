@@ -6,3 +6,37 @@
 4. Engage with your retirement plan
 5. Continue to learn tax and legal strategies
 6. Hire competent professionals. 
+7. When you create a formal entity(not sole proprietorship), you will obtain a Tax ID number and eventually be able to establish credit and borrow funds solely in the name of your company.
+8. When choose type of entities, consider below:
+  - filling fees and setup costs
+  - annual maintenance fees and services
+  - any state entity taxes on gross or net income
+  - tax return preparation and services throughout the year
+
+
+8. Sole Proprietorship(no protection for your asset)
+Sales: $100,000
+Expenses: $25,000
+Profit: $75,000
+Self-Employ Tax: $11,475(15.3%)
+
+8. LLC, 
+  - protect your asset
+  - does not save taxes in and of itself, however, you can have an LLC taxed as an S or C corporation if appropriate.
+  - if you own rental property, an LLC should be a serious and important consideration.
+10. S corp
+Sales: $100,000
+Expenses: $25,000
+Profit: $75,000
+Payroll: $36,000
+FICA Tax: $5,508
+K-1 Income $33,492
+Savings: $5,967
+
+11. C corp
+
+
+
+12. It typically doesn't make sense to use an S corp unless you're making a net income of at least $30,000
+13. 
+14. 76
