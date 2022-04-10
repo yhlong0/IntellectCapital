@@ -33,10 +33,7 @@ FICA Tax: $5,508
 K-1 Income $33,492
 Savings: $5,967
 
-11. C corp
-
-
-
+11. C corp was primarily designed for and is used by public companies raising capital with thousands, if not millions, of shareholders. (double tax)
 12. It typically doesn't make sense to use an S corp unless you're making a net income of at least $30,000
-13. 
-14. 76
+13. Using less than 30 percent of your available credit can actually increase your credit score.
+14. 109
