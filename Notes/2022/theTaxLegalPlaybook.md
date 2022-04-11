@@ -36,4 +36,7 @@ Savings: $5,967
 11. C corp was primarily designed for and is used by public companies raising capital with thousands, if not millions, of shareholders. (double tax)
 12. It typically doesn't make sense to use an S corp unless you're making a net income of at least $30,000
 13. Using less than 30 percent of your available credit can actually increase your credit score.
-14. 109
+14. Don't pay children out of a corporation(withhold payroll taxes), use sole prop or LLC.
+15. Don't feel awkward and inadequate when consulting older people, they might had more life experience, but clients look for advice not because of my age, but because of my education and experience. **It's not the years, it's the mileage**
+16. Track expenses, everything related to the purchase and management of the property is a tax write-off
+17. 
