@@ -39,4 +39,4 @@ Savings: $5,967
 14. Don't pay children out of a corporation(withhold payroll taxes), use sole prop or LLC.
 15. Don't feel awkward and inadequate when consulting older people, they might had more life experience, but clients look for advice not because of my age, but because of my education and experience. **It's not the years, it's the mileage**
 16. Track expenses, everything related to the purchase and management of the property is a tax write-off
-17. 
+17. 216
