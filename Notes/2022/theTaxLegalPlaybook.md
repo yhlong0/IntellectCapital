@@ -39,4 +39,17 @@ Savings: $5,967
 14. Don't pay children out of a corporation(withhold payroll taxes), use sole prop or LLC.
 15. Don't feel awkward and inadequate when consulting older people, they might had more life experience, but clients look for advice not because of my age, but because of my education and experience. **It's not the years, it's the mileage**
 16. Track expenses, everything related to the purchase and management of the property is a tax write-off
-17. 216
+17. Partner checklist:
+  - Who are authorized to do what on behalf of the company
+  - Duties and responsibilities of each partner, there should be predetermined consequences for partners not completing their duties.
+  - Contributions of capital, what amount, when, how many times
+  - Rights to distributions, profits, compensation and losses.
+  - Unanimous vote requirements.
+  - Dissolution or exit strategy
+  - A buy-sell provision or separate buy-sell agreement
+  - Expulsion provision, when a partner can be forced out of the business
+  - Noncompete provision
+  - Miscellaneous provisions  
+19. 257
+
+
