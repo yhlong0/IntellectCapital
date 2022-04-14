@@ -50,6 +50,6 @@ Savings: $5,967
   - Expulsion provision, when a partner can be forced out of the business
   - Noncompete provision
   - Miscellaneous provisions  
-19. 257
+19. 256
 
 
