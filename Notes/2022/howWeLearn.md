@@ -4,3 +4,4 @@
 2. The harder we have to work to retrieve a memory, the greater the subsequenet spike in retrieval and storage strength(learning) -- desireable difficulty
 3. The background music weaves itself subconsciously into the baric of stored memory, when same music play again, it helps retrieve a memory.
 4. If you learn same thing at different environmental context, it improved retrieval strength.
+5. With longer spaces, you're forgetting more, but you find out what your weknesses are and you correct for them. 
