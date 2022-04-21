@@ -7,3 +7,5 @@
 5. With longer spaces, you're forgetting more, but you find out what your weknesses are and you correct for them. 
 6. If you read a piece of text it by heart so easily as if you read it ten times while attempting to recite it from time to time and consulting the next when your memory fails. A curious peculiarity of our memory is that things are impressed better by active than by passive repetition.
 7. The best results are obtained by introducing recitation after devoting about 30-40% of the time to reading.
+8. People remembered 90% more of the interrupted and unfinished assignments than the ones they'd completed and those jobs were at the top of their lists.(蔡加尼效应)
+9. Once a goal becomes activated, it trumps all others and begins to drive our perceptions, our thoughts, our attitudes(confirmation bias)
