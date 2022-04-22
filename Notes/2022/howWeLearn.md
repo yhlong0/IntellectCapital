@@ -9,3 +9,4 @@
 7. The best results are obtained by introducing recitation after devoting about 30-40% of the time to reading.
 8. People remembered 90% more of the interrupted and unfinished assignments than the ones they'd completed and those jobs were at the top of their lists.(蔡加尼效应)
 9. Once a goal becomes activated, it trumps all others and begins to drive our perceptions, our thoughts, our attitudes(confirmation bias)
+10. Group by topics vs random topics, the first one is a better way for study.
