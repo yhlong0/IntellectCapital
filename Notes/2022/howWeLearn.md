@@ -10,3 +10,6 @@
 8. People remembered 90% more of the interrupted and unfinished assignments than the ones they'd completed and those jobs were at the top of their lists.(蔡加尼效应)
 9. Once a goal becomes activated, it trumps all others and begins to drive our perceptions, our thoughts, our attitudes(confirmation bias)
 10. Group by topics vs random topics, the first one is a better way for study.
+11. The implication is that if you are preparing for a performance--a music recital, say--it's better to stay up late than get up early, these coaches that have athletes or other performers up at five o'clock in the morning, I think that's crazy.
+12. A math or chemistry test an exam that's going to strain your ability to detect patterns, better to stay up late and, if possible, hit the snooze button in the morning.
+13. 
