@@ -23,3 +23,6 @@ out of control
 Uranus
 
 ```
+
+4. When you're actually off the straight line, you're developing immediate, massive rapport(融洽关系), on both a conscious and unconsicous level, and second you're gathering massive intelligence, refer to as qualifying
+5. 84
