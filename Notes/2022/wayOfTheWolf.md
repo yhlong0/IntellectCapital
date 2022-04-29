@@ -39,7 +39,10 @@ Uranus
   - Be an asset to them over the long-term
 
 13. We all want to deal with pros or experts who are sharp and on the ball, who are enthusiastic about what they do.
-14. 
+14. Instead of saying, "Hi, my name is xxx, from xx company, I'm looking for xxx, is he home?", the salesperson should simply say, "Hi, is John there?" More like a friend you know for a long time.
+15. Avoid declarative statement like above example. 
+16. If you don't make eye contact at least 72 percent of the time, people won't trust you. 
+17. 256
 
 
 
