@@ -42,7 +42,11 @@ Uranus
 14. Instead of saying, "Hi, my name is xxx, from xx company, I'm looking for xxx, is he home?", the salesperson should simply say, "Hi, is John there?" More like a friend you know for a long time.
 15. Avoid declarative statement like above example. 
 16. If you don't make eye contact at least 72 percent of the time, people won't trust you. 
-17. 256
+17. Always ask for permission to ask questions:
+  - John, just a couple of quick questions, so I don't waste your time.
+  - John, let me just ask you a couple of quick questions, so I can best serve you
+  - John, let me just ask you a couple of quick questions, so I can see exactly what you needs are.
+20. 
 
 
 
