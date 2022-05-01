@@ -46,7 +46,11 @@ Uranus
   - John, just a couple of quick questions, so I don't waste your time.
   - John, let me just ask you a couple of quick questions, so I can best serve you
   - John, let me just ask you a couple of quick questions, so I can see exactly what you needs are.
-20. 
+20. If client start talking about duck hunting(Pluto), say: Wow, that's totally cool. It sounds really interesting. I can see why you feel that way. Now as far as your goal for learning how to trade currencies goes. ..., lead him back to straight line and pick up right where you left off.
+21. When creating certainty, product first, you second, third company, build airtight logical cases first and emotional cases second.
+22. When closing, you need to make it as simple/easy as possible. Money is stored energy, when you ask prospect to expend so much energy they hard made, you want to offset that money spending by highlight all benefits they going to receive in return.
+23. Intelligence-gathering, what do you like or dislike about your current supplier? What is your biggest headache with your business?
+24. 385
 
 
 
