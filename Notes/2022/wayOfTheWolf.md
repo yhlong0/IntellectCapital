@@ -50,7 +50,10 @@ Uranus
 21. When creating certainty, product first, you second, third company, build airtight logical cases first and emotional cases second.
 22. When closing, you need to make it as simple/easy as possible. Money is stored energy, when you ask prospect to expend so much energy they hard made, you want to offset that money spending by highlight all benefits they going to receive in return.
 23. Intelligence-gathering, what do you like or dislike about your current supplier? What is your biggest headache with your business?
-24. 385
+24. Lower your prospect's action threshold, right on the spot
+  - offer a money-back guarantee
+  - help prospect every step of the way
+  - start off a bit smaller, instead of picking up a block of ten thousand shares, let's pick up a block of a thousand shares. 
 
 
 
