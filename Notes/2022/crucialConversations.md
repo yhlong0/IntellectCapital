@@ -12,4 +12,8 @@
        - You know what, we need to talk about this. I'm glad you asked the question. Thank you for taking the risk. I appreciate the trust it shows in me.(Acknowledged)
        - Admitted that we did not know what the project would cost and check the numbers. Explain building the office was a respone to marketing advice to boost the company's image and improve client confidence. **I have not managed this project as tightly as I'm asking you to manage yours.(admitted error)**
 6. Before you get angry, keep asking yourself **what do I really want here, how would I behave if I really wanted these result.**
-7. 
+7. Mutual Purpose at risk:
+        - Do others believe I care about their goal in this conversation?
+        - Do they trust my motives?
+
+
