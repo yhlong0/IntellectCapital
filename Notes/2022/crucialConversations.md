@@ -15,5 +15,17 @@
 7. Mutual Purpose at risk:
         - Do others believe I care about their goal in this conversation?
         - Do they trust my motives?
+8. Address others' concerns that you don't respect them or have a malicious purpose which you don't. Example: the last thing I wanted to do was not value your work.
+9. Confirms your respect or clarifies your real purpose. Example: I think your work has been spectacular. 
+10. When you give up saving face, being right, or winning, and focus on what you really want, sincere apology, you will reward with something even more valuable--healthy dialogue and better result.
+11. **Contrasting**, someone has taken something wrong and we've intervened to clarify our true purpose or meaning. 
+12. Wife want to stay home, husband want to go movies. Stay home or go movie is the strategy, Ask each other why do you want to stay home or go movie can help exlore the real purpose, that one person want peace quite, another person want away from children. Then you can brainstorm some better solutions.
+13. Others don't make you mad, you make you mad, scared, annoyed or insulted. You and only you create your emotions.
+14. Once you've created your upset emotions, you can act on them(find a way to master them) or be acted on by them(fall hostage to them).
+15. Facts(what we see and hear) -> we tell a story, add meaning to the Facts -> Feel, make a guess of the motivation -> Act on our feeling.
+16. Victim Stories: It's not my fault
+17. Villain Stories: It's all your fault
+18. Helpless Stories: there's nothing else I can do
+19. In Victim Stories we exaggerate our own innocence, in Villain Stories we over emphasize the other person's guilt or stupidity. Helpless Stories look forward to explain why we can't do anything to change our situation. 
 
 
