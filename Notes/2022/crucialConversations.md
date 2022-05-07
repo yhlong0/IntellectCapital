@@ -27,5 +27,14 @@
 17. Villain Stories: It's all your fault
 18. Helpless Stories: there's nothing else I can do
 19. In Victim Stories we exaggerate our own innocence, in Villain Stories we over emphasize the other person's guilt or stupidity. Helpless Stories look forward to explain why we can't do anything to change our situation. 
+20. I know this is difficult and ask for permission to explore those areas, and if she/he is willing, we continue. If not, I apologize for upsetting her/him and ask her/him to tell me when she/he is ready to talk about it.
+21. Despite your worst suspicions, you shouldn't violate respect. In a similar vein, you shouldn't kill safety with threats and accusations. 
+        - share your facts
+        - tell your story
+        - ask for others' paths
+        - talk tentatively
+        - encourage testing
+
+
 
 
