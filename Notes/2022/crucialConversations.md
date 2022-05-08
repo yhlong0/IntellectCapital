@@ -34,7 +34,8 @@
         - ask for others' paths
         - talk tentatively
         - encourage testing
-
-
+22. When people do express an opinion contrary to yours, thank them for their honesty.
+23. Devil's Advocate: If you can't get others to disagree, then disagree with yourself. Let people know that all ideas are open to question.
+24. Exercise patience, don't nag, don't lose hope and then go to violence. Every time you become aggressive or insulting, you give your spouse additional evidence that crucial conversations do nothing but cause harm. 
 
 
