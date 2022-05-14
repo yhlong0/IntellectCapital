@@ -17,5 +17,13 @@
 4. Only invest what you could afford to lose without that loss having any effect on your daily life in the foreseeable future.
 5. Whether the Index(Dow Jones/SPY/NASDQA) average was 1000, 2000 or 3000 today, you'd be better off having owned great company.
 6. Any idiot could run this company, because sooner or later any idiot probably is going to be running it.
-7. 
+7. A quick way to tell if a stock is overpriced is to compare the price line to the earnings line
+8. 5 ways increase earnings:
+    - reduce costs
+    - raise prices
+    - expand into new markets
+    - sell more of its product in the old markets
+    - revitalize, close, or otherwise dispose of a losing operation.
+
+
 
