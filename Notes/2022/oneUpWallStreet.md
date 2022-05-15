@@ -24,6 +24,7 @@
     - expand into new markets
     - sell more of its product in the old markets
     - revitalize, close, or otherwise dispose of a losing operation.
-
-
+9. Debt reduction is another sign of prosperity, When cash increases relative to debt, it's an improving balance sheet.
+10. In general, a p/e ratio that's half the growth rate is very positive(10% growth rate, p/e = 5), and one that's twice the growth rate is very negative(Tesla 50% growth rate, p/e = 100)
+11. Balance sheet asset value, the closer you get to a finished product, the less predictable the resale value. You know how much cotton is worth, but who can be sure about an orange cotton shirt? You know what you can get for a bar of metal, but what is it worth as a floor lamp?
 
