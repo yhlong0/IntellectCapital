@@ -27,4 +27,8 @@
 9. Debt reduction is another sign of prosperity, When cash increases relative to debt, it's an improving balance sheet.
 10. In general, a p/e ratio that's half the growth rate is very positive(10% growth rate, p/e = 5), and one that's twice the growth rate is very negative(Tesla 50% growth rate, p/e = 100)
 11. Balance sheet asset value, the closer you get to a finished product, the less predictable the resale value. You know how much cotton is worth, but who can be sure about an orange cotton shirt? You know what you can get for a bar of metal, but what is it worth as a floor lamp?
+12. Use cash flow to evaluate stocks, $20 stock with $2 per share in annual cash flow has a 10 to 1 ratio, which is standard. $4 per share which is terrific, $10 per share, mortgage your house and buy all the shares you can find. 
+13. In the recovery, company has thin margin, low profit will increase more percentage. This explains why depressed enterprises on the edge of disaster can become very big winners on the rebound. 
+    - $100 sales, $88 cost, $12 profit -> price up 10%, cost up 5% -> $110 sales, $92 cost, $17.6 profit, $12 -> $17.6, 50% gain
+    - $100 sales, $98 cost, $2 profit -> price up 10%, cost up 5% -> $110 sales, $102 cost, $7.1 profit, $2 -> $7, tripple gain
 
