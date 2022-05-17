@@ -31,4 +31,6 @@
 13. In the recovery, company has thin margin, low profit will increase more percentage. This explains why depressed enterprises on the edge of disaster can become very big winners on the rebound. 
     - $100 sales, $88 cost, $12 profit -> price up 10%, cost up 5% -> $110 sales, $92 cost, $17.6 profit, $12 -> $17.6, 50% gain
     - $100 sales, $98 cost, $2 profit -> price up 10%, cost up 5% -> $110 sales, $102 cost, $7.1 profit, $2 -> $7, tripple gain
-
+14. Sell the winners and hold on to their losers or sell their loser and hold on to their winner, both strategies fail because they're tied to the current movement of the stock price as an indicator of the company's fundamental value.
+15. Try to avoid the company has paid so much for its acquisitions that the balance sheet has deteriorated from no debt and millions in cash to no cash and millions in debt.
+16. Frankly, I've never been able to predict which stocks will go up tenfold, or which will go up fivefold. I try to stick with them as long as the story's intact, hoping to be pleasantly surprised. The success of a company isn't the surprise, but what the shares bring often is.
