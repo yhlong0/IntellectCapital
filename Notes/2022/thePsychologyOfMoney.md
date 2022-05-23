@@ -22,4 +22,8 @@
 20. Saving for a specific goal makes sense in a a predictable world. But ours isn't. Saving is a hedge against life's inevitable ability to suprise the hell out of you at the worst possible moment. 
 21. The intangible benefits(free time, opportunity to make investment in future) of money can be far more valuable and capable of increasing your happiness than the tangible things.
 22. Savings in the bank that earn 0% interest might actually generate an extraordinary return if they give you the flexibility to take a job with a lower salary but more purpose, or wait for investment opportunities that come when those without flexibility turn desperate. 
-23. 
+23. If something has 95% odds of being right, the 5% odds of being wrong means you will almost certainly experience the downside at some point in your life. If the cost of the downside is ruin, the 95% upside won't be appealing.
+24. Leverage taking on debt to make your money go further--pushes routine risks into something capable of producing ruin. 
+25. The biggest single point of failure with money is a sole reliance on a paycheck to fund short-term spending needs, with no savings to create a gap between what you think you expenses are and what they might be in the future. 
+26. The most important part of every plan is planning on your plan not going according to plan.
+27. 
