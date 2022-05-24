@@ -26,4 +26,6 @@
 24. Leverage taking on debt to make your money go further--pushes routine risks into something capable of producing ruin. 
 25. The biggest single point of failure with money is a sole reliance on a paycheck to fund short-term spending needs, with no savings to create a gap between what you think you expenses are and what they might be in the future. 
 26. The most important part of every plan is planning on your plan not going according to plan.
-27. 
+27. Saving money is the gap between your ego and your income, and wealth is what you don't see. So wealth is created by suppressing what you could buy today in order to have more stuff or more options in the future. No matter how much you earn, you will never build wealth unless you can put a lid on how much fun you can have with your money right now, today.
+28. Independence, to me, doesn't mean you;ll stop working. It means you only do the work you like with people you like at the times you want for as long as you want. 
+29. 
