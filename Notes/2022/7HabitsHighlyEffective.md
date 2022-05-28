@@ -5,4 +5,7 @@
 3. True independence of character empowers us to act rather than be acted upon. It frees us from our dependence on circumstances and other people and is a worthy, liberating goal.
 4. As Eleanor Roosevelt observed, "No one can hurt you without your consent." In the words of Gandhi, "They cannot take away our self respect if we do not give it to them." It is our willing permission, our consent to what happens to us, that hurts us far more than what happens to us in the first place. 
 5. Three central values in life--the experiential, or that which happens to us; the creative, or that which we bring into existence; and the attitudinal or our response in difficult circumstances such as terminal illness. 
-6. 
+6. Proactive people focus their efforts in the Circle of Influence. They work on the things they can do something about. Reactive people, on the other hand, focus their efforts in the Circle of Concern. They focus on the weakness of other people, the problems in the environment, and circumstances over which they have no control. Their focus results in blaming and accusing attitudes, reactive language, and increased feelings of victimization. 
+7. Look at the weaknesses of others with compassion, not accusation. It's not what they're not doing or should be doing that's the issue. The issue is your own chosen response to the situation and what you should be doing.
+8. Begin with the end in mind is to begin today with the image, picture, or paradigm of the end of your life as your frame of reference or the criterion by which everything else is examined. 
+9. Management is doing things right, leadership is doing the right things.
