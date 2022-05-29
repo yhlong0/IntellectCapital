@@ -9,3 +9,4 @@
 7. Look at the weaknesses of others with compassion, not accusation. It's not what they're not doing or should be doing that's the issue. The issue is your own chosen response to the situation and what you should be doing.
 8. Begin with the end in mind is to begin today with the image, picture, or paradigm of the end of your life as your frame of reference or the criterion by which everything else is examined. 
 9. Management is doing things right, leadership is doing the right things.
+10. When we are dependent on the person with whom we are in conflict, both need and conflict are compounded.
