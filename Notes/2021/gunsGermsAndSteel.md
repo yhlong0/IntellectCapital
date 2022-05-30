@@ -10,7 +10,7 @@
 8. 植物需要依靠动物传播，所以它们进化出水果，让动物来吃。但是种子却不会被动物的消化系统破坏，另外种子很苦，也可以避免动物去吃。水果在种子不成熟前，果肉绿酸，难吃。等种子成熟以后，红甜美味吸引动物。
 9. Seedlessness provide a good example of how human selection can completely reverse the original evolved function of a wild fruit. 
 10. Some fruit and nut trees had the drawback of not starting to yield food until a least three years after planting. This prevent them domesticated early by human. 同理，当养成了种植习惯，才有可能开始种植有长期回报的植物。
-11. Some societies will be more open to innovation, and some will be more resistant. The ones that do adopt new crops, livestock, or technology may thereby be enabled to nourish themmselves better and to outbreed, displace, conquer, or kill offf societies resisting innovation. 
+11. Some societies will be more open to innovation, and some will be more resistant. The ones that do adopt new crops, livestock, or technology may thereby be enabled to nourish themmselves better and to outbreed, displace, conquer, or kill off societies resisting innovation. 
 12. "Happy families are all alike; every unhappy family is unhappy in its own way." -- Anna Karenina
 13. In order to be happy, a marriage must succeed in many different respects: sexual attraction, agreement about money, child discipline, religion, and other vital issues. Failure in any one of those essential respects can doom a marriage even if it has all the other ingredients needed for happiness. 
 14. To be domesticated, a candidate wild species must possess many characteristics. Lack of any single required characteristic dooms efforts at domestication, just as it dooms efforts at building a happy marriage.
