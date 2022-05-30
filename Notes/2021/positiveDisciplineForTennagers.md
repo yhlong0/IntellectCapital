@@ -6,7 +6,7 @@
 4. Connecting before correcting
 5. Respect yourself and show your teen that you have needs and wants and a life to live. Remember that you are an important person too. We find that parents think they should give up their needs and their lives until the kid are gone. If you parent that way, your teens will probably think the world revolves around them, even more than they already do.
 6. When use reward/punish method, you are controlling your kids. Teen won't learn responsibilities. They learn not to get caught, to manipulate for bigger rewards, or to refuse compliance when the reward/punishment no longer matters. 
-7. The permissive style of parenting, short-term parenting robs teenagers of learning the life skills of self-reliance(依赖) and resiliency. Instead of learning that they can survive pain and disappointment, and even elarn from it, children grow up extremely self-centered, convinced that the world and their parents owe them something and they are entitled to whatever they want. 
+7. The permissive style of parenting, short-term parenting robs teenagers of learning the life skills of self-reliance(依赖) and resiliency. Instead of learning that they can survive pain and disappointment, children grow up extremely self-centered, convinced that the world and their parents owe them something and they are entitled to whatever they want. 
 8. We often equate mistakes with failure rather than with opportunities to learn.
 9. Four hints for effective follow through:
     - Keep comments simple, concise, and friendly. 
