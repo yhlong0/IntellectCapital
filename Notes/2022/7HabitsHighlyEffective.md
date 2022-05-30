@@ -10,3 +10,4 @@
 8. Begin with the end in mind is to begin today with the image, picture, or paradigm of the end of your life as your frame of reference or the criterion by which everything else is examined. 
 9. Management is doing things right, leadership is doing the right things.
 10. When we are dependent on the person with whom we are in conflict, both need and conflict are compounded.
+11. We are free to chooe our actions, based on our knowledge of correct principless, but we are not free to choosse the conssequencess of those actions. If you pick one end of the stick, you pick up the other.
