@@ -10,7 +10,7 @@
 8. We often equate mistakes with failure rather than with opportunities to learn.
 9. Four hints for effective follow through:
     - Keep comments simple, concise, and friendly. 
-    - In response to objections, ask, "Waht was our agreement?"
+    - In response to objections, ask, "What was our agreement?"
     - In response to further objections, shut your mouth and use nonverbal communication. Point to your watch, Smile knowingly, less is more, **the less you say, the more effective you will be**.
     - When your teen concedes, say "Thank you for keeping our agreement".
 10. Listening is the primary ingredient of communication, not talking, and it is the least developed parenting skill.
