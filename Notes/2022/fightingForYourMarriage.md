@@ -36,4 +36,4 @@
 23. When you hang on to resentment and bitterness, you put yourself at risk of divorce, People often walk away from debts they see no hope of paying off.
 24. The spouses see problems as "me against you" instead of "us against the problem"
 25. If you're trying to keep your marriage on track, don't bring up the topic of divorce, period.
-page 361
+
