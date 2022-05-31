@@ -11,3 +11,4 @@
 9. Management is doing things right, leadership is doing the right things.
 10. When we are dependent on the person with whom we are in conflict, both need and conflict are compounded.
 11. We are free to chooe our actions, based on our knowledge of correct principless, but we are not free to choosse the conssequencess of those actions. If you pick one end of the stick, you pick up the other.
+12. Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible. 
