@@ -12,3 +12,5 @@
 10. When we are dependent on the person with whom we are in conflict, both need and conflict are compounded.
 11. We are free to chooe our actions, based on our knowledge of correct principless, but we are not free to choosse the conssequencess of those actions. If you pick one end of the stick, you pick up the other.
 12. Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible. 
+13. Effective managment is putting first things first. While leadership decides what "first things" are, it is management that puts them first, day-by-day, moment-by-moment. Management is discipline, carrying it out.
+14. What one thing could you do in your personal and professional life that, if you did it on a regular basis, would make a tremendous positive difference in your life? Quadrant II(not urgent, important) activities have that kind of impact.
