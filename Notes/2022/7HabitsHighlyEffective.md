@@ -15,4 +15,4 @@
 13. Effective managment is putting first things first. While leadership decides what "first things" are, it is management that puts them first, day-by-day, moment-by-moment. Management is discipline, carrying it out.
 14. What one thing could you do in your personal and professional life that, if you did it on a regular basis, would make a tremendous positive difference in your life? Quadrant II(not urgent, important) activities have that kind of impact.
 15. When parents see their children's problem as opportunities to build the relationship instead of as negative, burdensome irritations, it totally changes the nature of parent-child interaction. Parents become more willing, even excited, about deeply understanding and helping their children. Here is a great opportunity for me to really help my child and to invest in our relationship. **Apply this kind of thought to spouse and work.**
-16. 
+16. So often the problem is in the system, not in the people. If you put good people in bad systems, you get bad results. 
