@@ -16,3 +16,7 @@
 14. What one thing could you do in your personal and professional life that, if you did it on a regular basis, would make a tremendous positive difference in your life? Quadrant II(not urgent, important) activities have that kind of impact.
 15. When parents see their children's problem as opportunities to build the relationship instead of as negative, burdensome irritations, it totally changes the nature of parent-child interaction. Parents become more willing, even excited, about deeply understanding and helping their children. Here is a great opportunity for me to really help my child and to invest in our relationship. **Apply this kind of thought to spouse and work.**
 16. So often the problem is in the system, not in the people. If you put good people in bad systems, you get bad results. 
+17. Most people do not listen with the intent to understand; they listen with the intent to reply.
+18. A father once told me, I can't understand my kid. He just won't listen to me at all. I thought that to understand another person, you needed to listen to him.
+19. We would like for you to write the contract the way you want it so that we can make sure we understand your needs and your concerns. We will respond to those needs and concerns. Then we can talk about pricing.
+20. 
