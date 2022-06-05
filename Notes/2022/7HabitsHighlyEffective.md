@@ -19,4 +19,4 @@
 17. Most people do not listen with the intent to understand; they listen with the intent to reply.
 18. A father once told me, I can't understand my kid. He just won't listen to me at all. I thought that to understand another person, you needed to listen to him.
 19. We would like for you to write the contract the way you want it so that we can make sure we understand your needs and your concerns. We will respond to those needs and concerns. Then we can talk about pricing.
-20. 
+
