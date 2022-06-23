@@ -25,4 +25,16 @@
 23. God helps them that help themselves.
 24. Don't throw stones at your neighbours, if your own windows are glass
 25. Good wives and good plantations are made by good husbands.
-26. 
+26. When you are tempted to buy any unnecessary housholdstuff, or any superfluous(多余) things, whether you will be willing to pay interest and interest upon interest for it as long as you live; and more if it grows worse by using.
+27. Well done is better than well said
+28. The worst wheel of the cart makes the most noise.
+29. If you wouldn't be forgotten as soon as you are dead and rotten, either write things worth reading, or do things worth the writing.
+30. Never sell virtue to purchase wealth, nor liberty to purchase power.
+31. Keep your eyes wide open before marriage, half shut afterwards.
+32. The ancients tell us what is best, but we must learn of the moderns what is fittest
+33. If you do what you should not, you must hear what you would not
+34. Time is an herb that cures all diseases
+35. Reading makes a full man, meditation a profound man, discourse(争辩) a clear man.
+36. Each year one vicious habit rooted out, In time might make the worst man good throughout
+37. An empty bag cannot stand upright
+38. Those who in quarrels interpose(插嘴), must often wipe a bloody nose. 
