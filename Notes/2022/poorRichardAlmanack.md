@@ -38,3 +38,7 @@
 36. Each year one vicious habit rooted out, In time might make the worst man good throughout
 37. An empty bag cannot stand upright
 38. Those who in quarrels interpose(插嘴), must often wipe a bloody nose. 
+39. Let your discontents be the secrets
+40. Be always ashamed to catch your self idle
+41. Lying rides on debt's back
+42. 
