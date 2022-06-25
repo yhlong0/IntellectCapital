@@ -41,4 +41,5 @@
 39. Let your discontents be the secrets
 40. Be always ashamed to catch your self idle
 41. Lying rides on debt's back
-42. 
+42. Have you somewhat to do tomorrow; do it today
+43. Who is strong? He that can conquer his bad habits.
