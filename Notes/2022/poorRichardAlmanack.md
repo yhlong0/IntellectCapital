@@ -43,3 +43,8 @@
 41. Lying rides on debt's back
 42. Have you somewhat to do tomorrow; do it today
 43. Who is strong? He that can conquer his bad habits.
+44. A full belly is the mother of all evil
+45. Beware of little expences, a small leak will sink a great ship
+46. Many complain of their memory, few of their judgment
+47. It's the easiest thing in the world for a man to deceive himself.
+48. 
