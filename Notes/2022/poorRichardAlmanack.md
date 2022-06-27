@@ -47,4 +47,8 @@
 45. Beware of little expences, a small leak will sink a great ship
 46. Many complain of their memory, few of their judgment
 47. It's the easiest thing in the world for a man to deceive himself.
-48. 
+48. Lost time is never found again
+49. When you're good to others, you are best to yourself
+50. Wise men learn by others harms; fools by their own.
+51. Content makes poor men rich; Discontent makes rich men poor.
+52. 
