@@ -51,4 +51,10 @@
 49. When you're good to others, you are best to yourself
 50. Wise men learn by others harms; fools by their own.
 51. Content makes poor men rich; Discontent makes rich men poor.
-52. 
+52. The art of getting riches consists very much in thrift. All Men are not equally qualified for getting money, but it is in the power of every one alike to practise this virtue.
+53. Glass, China, and Reputation are easily cracked and never well mended
+54. Procrastination is the thief of time
+55. Most people return small favours, acknowledge middling ones, and repay great ones with ingratitude
+56. The wise and brave dares own that he was wrong
+57. Purity of blood in ancient families is a mere joke.(1/2, 1/4, 1/8...)
+58. Hold your council before dinner, the full belly hates thinking as well as acting.
