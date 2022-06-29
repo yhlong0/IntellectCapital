@@ -58,3 +58,7 @@
 56. The wise and brave dares own that he was wrong
 57. Purity of blood in ancient families is a mere joke.(1/2, 1/4, 1/8...)
 58. Hold your council before dinner, the full belly hates thinking as well as acting.
+59. Anger is never without a reason, but seldom with a good one.
+60. Who is wise? He that learns from everyone. Who is powerful? He that governs his passions. Who is rich? He that is content. Who is that? Nobody.
+61. Love your enemies, for they tell you your faults
+62. Happiness depends more on the inward disposition(性情) of mind than on outward circumstances; and that he who cannot be happy in any state, can be so in no state. To be happy, they tell us we must be content.
