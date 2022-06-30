@@ -1,0 +1,9 @@
+# Emotional Intelligence for Sales Success
+
+1. We are what we repeatedly do
+2. When customer question why your price so high? Competitor is half your price. If you don't recognize this hot button, your emotional response can be quickly concede and offer a discount. **Move the conversation from price to value.**
+3. Slow down and analyze your business development activities. Figure out whether you are being productive or are just busy.
+4. It's important to remember that an interested prospect is just that --interested, not qualified. Is prospect's problem really big enough for him/her to switching vendors or him/her just need to have another conversation with current vendor. 
+5. Top salespeople don't live in the land of hope and denial. They test the reality of a potential opportunity to make sure they are running an appointment with prospects , not suspects. (if this prospect is just whining or really ready to make a change)
+6. All things being equal, people buy from people they like. All things not being quite equal, people still may buy from people they like.
+7. Walk a mile in another person's shoes without ever actually putting them on. 
