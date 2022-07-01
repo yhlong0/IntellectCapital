@@ -7,3 +7,4 @@
 5. Top salespeople don't live in the land of hope and denial. They test the reality of a potential opportunity to make sure they are running an appointment with prospects , not suspects. (if this prospect is just whining or really ready to make a change)
 6. All things being equal, people buy from people they like. All things not being quite equal, people still may buy from people they like.
 7. Walk a mile in another person's shoes without ever actually putting them on. 
+8. Seeking the truth during sales meetings should be the goal of every salesperson. Ask questions and come to a solution that makes the most sense for the customer, rather than simply try to land a deal and hit your quota. Same thing apply to lawyer, it is not who you charge more, it is seeking the truth and doing the right thing.
