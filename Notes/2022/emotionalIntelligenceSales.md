@@ -10,4 +10,7 @@
 8. Seeking the truth during sales meetings should be the goal of every salesperson. Ask questions and come to a solution that makes the most sense for the customer, rather than simply try to land a deal and hit your quota. Same thing apply to lawyer, it is not who you charge more, it is seeking the truth and doing the right thing.
 9. As a salespeople, you are equal level to prospects, stop making "I'm just checking in" calls, and start making "let me add value to your day" call.
 10. When Prospect don't have budget: "Mr. Prospect, most of our clients don’t have a budget. That's not unusual.(Empathy) However, other clients with similar challenges have invested between X and Y in order to eliminate the problem. Is that a range you are comfortable with?"
-11. 
+11. Your prospect always have some type of budget; otherwise, how can they tell you that your prices are too high?
+12. The importance of not being attached to the outcome of a negotiation, referring to the power of being willing to walk away.
+13. If I had only one dollar left to spend, I'd invest it in training and development for my people. This is a man who believe in lifelong learning.
+14. 
