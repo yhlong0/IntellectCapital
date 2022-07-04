@@ -13,4 +13,6 @@
 11. Your prospect always have some type of budget; otherwise, how can they tell you that your prices are too high?
 12. The importance of not being attached to the outcome of a negotiation, referring to the power of being willing to walk away.
 13. If I had only one dollar left to spend, I'd invest it in training and development for my people. This is a man who believe in lifelong learning.
-14. 
+14. The illiterate of the future are not those who cannot read or write. They are those who cannot learn, unlearn and relearn. 
+15. A top salesperson succeeds with good selling skills, while an effective sales manager must also excel at **teaching** the selling skills and knowledge that made him successful.
+16. 
