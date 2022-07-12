@@ -15,4 +15,11 @@
     - Double someone's order 
     - Include a copy of your favorite book/small gift with a handwritten note.
     - Package your products for shipping like a gift to your best friend.
-11. 
+11. If you grow your traffic a little and also increase your conversion rate a little while also increase the average sales price a little ... your business grows a lot.
+12. Upsell, offers a higher-level version or additional item upon purchase, would you like fries with that?
+13. Cross-sell, offers related item to customers making a purchase, other people making this same purchase also bought these things
+14. Sale after the sale, special offer made to customers immediately after a sale, this additional one time offer is only for customers
+15. The confirmation page that appears after an online purchase is one of the best and most underused places for an upsell offer. Right after a customer has purchased, they are highly inclined to purchase something else. Make a strong offer here, and your conversion rate can be 30 percent or higher.
+16. Low-paying buyers are the worst, we have far more complaints from people who pay $10 and expect the world than from those who pay $1000. High-end customers might not need too much guarantee.
+17. Hey, my service costs a lot of money because everything is customized. But if you just need a general solution, you can get this version for much less.
+18. Horizontal expansion involves going broader by serving more customers with different interests; vertical expansion involves going deeper by serving the same customers with different levels of need.
