@@ -23,3 +23,7 @@
 16. Low-paying buyers are the worst, we have far more complaints from people who pay $10 and expect the world than from those who pay $1000. High-end customers might not need too much guarantee.
 17. Hey, my service costs a lot of money because everything is customized. But if you just need a general solution, you can get this version for much less.
 18. Horizontal expansion involves going broader by serving more customers with different interests; vertical expansion involves going deeper by serving the same customers with different levels of need.
+19. Every morning, set aside forty-five minutes without internet access. Devote this time exclusively to activities that improve your business:
+    - Business development
+    - Offer development
+    - Fixing long-standing problems
