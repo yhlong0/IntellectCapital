@@ -19,4 +19,5 @@
     - Prepare the mind and be sensitive to chances other miss.
     - Become the best at what you do. Opportunity will seek you out.
 15. You have to do hard things to create your own meaning in life. Making money is a fine thing to choose, go struggle. **Money buys you freedom in the material world, it's not going to make you happy**, it's not going to solve your health problem, it's not going to make your family great, or make you fit, clam. But **it will solve a lot of external problems**. So get yourself rich first, then you want to be peaceful inside, like a monk, give up everything, go out in the woods by yourself to be free inside. 
-16. 
+16. You should never, ever fool anybody, and you are the easiest person to fool.
+17. Praise specifically, criticize generally.
