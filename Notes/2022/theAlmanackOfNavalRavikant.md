@@ -21,3 +21,8 @@
 15. You have to do hard things to create your own meaning in life. Making money is a fine thing to choose, go struggle. **Money buys you freedom in the material world, it's not going to make you happy**, it's not going to solve your health problem, it's not going to make your family great, or make you fit, clam. But **it will solve a lot of external problems**. So get yourself rich first, then you want to be peaceful inside, like a monk, give up everything, go out in the woods by yourself to be free inside. 
 16. You should never, ever fool anybody, and you are the easiest person to fool.
 17. Praise specifically, criticize generally.
+18. Should I marry this person, take this job, buy this house, move to this city... If you cannot decide, the answer is no. And the reason is modern society is full of options. We live on a planet of seven billion people and we are connected to everybody on the internet. There are hundreds of thousands of careers available to you. 
+19. If you have two choices to make, and they're relatively equal choices, take the path more difficult and more painful in the short term.
+20. Read what you love until you love to read. I don't want to read everything. I just want to read the 100 great books over and over again. Reading a book isn't a race--the better the book, the more slowly it should be absorbed. 
+21. There are a lot of junk books out there, if you read bad one at early stage, they become your foundation and the new correct thing would be hard to accept by you. To have the best foundation, you want to read hard science, basic math and etc. In those areas, there is no ambiguous.
+22. The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse. 
