@@ -36,4 +36,16 @@
 30. We are social creatures, we're externally programmed and driven. We don't know how to play and win these single-player games anymore. The reality is life is a single-player game. You're born alone. You're going to die alone. All of your interpretations, memories are alone. After three generations, you gone and nobody cares. 
 31. You have to go through your life replacing your thoughtless bad habits with good ones, making a commitment to be a happier person. At the end of the day, you are a combination of your habits and the people who you spend the most time with. 
 32. If I catch myself judging somebody(he is lazy, he is stupid), I can stop myself and say, What's the positive interpretation of this? I used to get annoyed about things. Now I always look for the positive side of it. It used to take a rational effort. It used to take a few seconds for me to come up with a positive. Now I can do it sub-second. 
-33. 
+33. You always have three choices: You can change it, you can accept it, or you can leave it. To change, it is a desire and cause you suffering until you successfully change it. So don't pick too many desires, just only pick one you want most. The one you should use most is "accept", few hacks to help "accept" things:
+     - look at previous suffering and how you get through it.
+     - When something annoyance, negative mind happen, what is the positive of this situation, you might be late for meeting, but you have chance to watch and enjoy the birds on the road.
+     - Tell yourself the universe is going to teach me something now, I get to listen and learn. 
+     - We all gonna die one day, once you embracing death, there is nothing you can't accept. 
+
+34. Life is a firefly blink in a night, there is no legacy, our children, works, civiliztion, solar system will be dust. You got chance to play a life game, so enjoy this fun game and interpret it in the most positive way. If you're not happy, you're not doing anyone any favors, you're wasting this incredibly small and precious time you have on this Earth. 
+35. Number one priority in life is your own physical and mental health. Because it is number one priority, you can never say you don't have time. In the morning, work out, and however long it takes is how long it takes. You do not start your day until you worked out. You don't care if the world is imploding and melting down, it can wait another thirty minutes until you are done working out. 
+36. Most of our suffering comes from avoidance, Tip-toeing your way in a cold shower suffer most. Once you're in, it's not suffering, it's just cold. Your body saying it's cold is different than your mind saying it's cold. Acknowledge it, accept it, but don't mentally suffer over it. Taking a cold shower for two minutes isn't going to kill you. 
+37. Try don't make any judgment, just accept everything for 10-15 minutes every day. You will end up in a very peaceful, grateful state.
+38. 
+     - 
+
