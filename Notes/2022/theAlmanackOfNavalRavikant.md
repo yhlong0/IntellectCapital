@@ -46,6 +46,11 @@
 35. Number one priority in life is your own physical and mental health. Because it is number one priority, you can never say you don't have time. In the morning, work out, and however long it takes is how long it takes. You do not start your day until you worked out. You don't care if the world is imploding and melting down, it can wait another thirty minutes until you are done working out. 
 36. Most of our suffering comes from avoidance, Tip-toeing your way in a cold shower suffer most. Once you're in, it's not suffering, it's just cold. Your body saying it's cold is different than your mind saying it's cold. Acknowledge it, accept it, but don't mentally suffer over it. Taking a cold shower for two minutes isn't going to kill you. 
 37. Try don't make any judgment, just accept everything for 10-15 minutes every day. You will end up in a very peaceful, grateful state.
-38. 
-     - 
+38. Impatience with actions, patience with results
+39. If you hurt other people because they have expectations of you, that's their problem. If they have an agreement with you, it's your problem. Other people are going to have lots of expectations out of life. The sooner you candash their expectations, the better. 
+40. Courage isn't charging into a machine gun nest. Courage is not caring what other people think. 
+41. I don't believe in any short-term thinking or doing business with somebody think in a short-term manner. All benefits in life come from compound interest, whether in money, relationships, love, health or habits. Only be around people you know you will to be around for the rest of your life. Only work on things you know have long-term payout. 
+42. Anger is a hot coal you hold in your hand while waiting to throw it at somebody.
+43. 
+    
 
