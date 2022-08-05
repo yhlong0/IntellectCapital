@@ -16,5 +16,5 @@
 10. Buyers and sellers share the burden of taxes and a tax burden falls more heavily on the side of the market that is less elastic. A new luxury tax on yachts might cause rich people buy other stuff or golf, take a vacation. However, the yachts factory, middle workers are suffer more of the tax burden. 
 11. Deadweight losses(Tax issue), Mike clean Mei's house for $100, Mike opportunity cost $80, Mei's time opportunity cost $120, thus total $40 surplus. When you add $50 tax for cleaning services. There is no price for deal to happen, socity total lost $40 surplus, everyone become worse. Tax prevent buyers and seller from realizing some of the gains from trade. 
 12. The Laffer Curve indicate the heavy tax, more deadweight loss and less tax revenue. the little tax, less deadwight loss, little revenue. Somewhere in the middle might be the best. 
-![lafferCurve](lafferCurve.jpg)
+![lafferCurve](lafferCurve.jpeg)
 14. 
