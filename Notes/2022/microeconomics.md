@@ -26,3 +26,11 @@
     - Infant industry need temporary trade restrictions. China Internet companies. It is difficult to implement in practice, governement need to decide which industries will eventually be profitable. "picking winners" is extraordinarily difficult. It's hard to remove the reward or protection once those infant grow up, because they have more influence on the government. Infant should willing to suffer short term losses, instead of rely on protection.
     - Unfair-competition, sales thing cheaper than average cost, this is like government subsidy the other countries consumers. Be careful of Air Bus, Boeing, government subsidy them and monoploy in the world will create advantage in long term. 
     - The protetion as a bargaining chip, trade restrictions can be useful when bargain with our trading partners. Threat of a trade restrction can help remove a trade restriction already imposed by a foreign government. The problem with this is that threat may not work. If it doesn't work and still carry out its threat, this reduce its own economic welfare. If back down from its threat, it lose prestige in international affairs. 
+18. The different kinds of goods: excludable(private or public)? rival in consumption(one person use of the good, reduce another person's ability to use it)?
+19. Important Public Goods, determining the appropriate level of government support is difficult, because the benefits are hard to measure. The person decide funds have little expertise.
+    - National Defense
+    - Basic Research
+    - Fighting Poverty
+20. The reason for tragedy of the commons(pollution, over graze) is that social and private incentives differ.
+    
+
