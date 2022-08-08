@@ -32,5 +32,6 @@
     - Basic Research
     - Fighting Poverty
 20. The reason for tragedy of the commons(pollution, over graze) is that social and private incentives differ.
+21. Why does the commercial value of ivory threaten the elephant, while the commercial value of beef protects the cow? Elephants are a common resource, whereas cows are a private good. 
     
 
