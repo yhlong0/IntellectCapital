@@ -33,5 +33,11 @@
     - Fighting Poverty
 20. The reason for tragedy of the commons(pollution, over graze) is that social and private incentives differ.
 21. Why does the commercial value of ivory threaten the elephant, while the commercial value of beef protects the cow? Elephants are a common resource, whereas cows are a private good. 
+22. Sunk costs, you place a $15 value on a newly released movie. You buy a ticket for $10, you lose the ticket, should you buy another ticket? Ignore the ticket you lost, if ticket still sell for $10 > your value $15, then you should buy it.
+23. Monopolistically competitive industries are monopolistic in some ways and competitive in others, many firms sell products that are similar but not identical. Novels, movies
+24. oligopoly:寡头垄断, few firms, tennis balls, cigarettes.
+25. Monopoly: one firm, tap water, cable TV
+26. Perfect competition: many firms, identical products, wheat, milk.
+27. 
     
 
