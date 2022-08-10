@@ -38,6 +38,6 @@
 24. oligopoly:寡头垄断, few firms, tennis balls, cigarettes.
 25. Monopoly: one firm, tap water, cable TV
 26. Perfect competition: many firms, identical products, wheat, milk.
-27. 
+27. 405 page
     
 
