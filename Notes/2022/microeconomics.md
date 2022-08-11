@@ -38,6 +38,7 @@
 24. oligopoly:寡头垄断, few firms, tennis balls, cigarettes.
 25. Monopoly: one firm, tap water, cable TV
 26. Perfect competition: many firms, identical products, wheat, milk.
-27. 405 page
+27. Liberalism(maximin criterion), income distribution a person would consider fair if that person did not know whether he would end up at the top bottom or middle of the distribution.
+28. 449 page
     
 
