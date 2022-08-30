@@ -11,3 +11,6 @@
 4. An imperative language tells the computer to perform certain operations in a certain order, line by line, evaluating conditions, loop and etc.
 5. A declarative query language, you just specify the pattern of the data you want(the final goal), but not how to achieve that goal. 
 6. For writes, it's hard to beat the performance of simply appending to a file, any kind of index usually slow down writes, because the index also needs to be updated every time data is written. 
+7. Sorted String Table(SSTable), key-value pair like prometheus counter, each key only appears once within merged segment file. First, append to the file(useful for recovery), merge the segment data is final data. 
+8. Log-structured merged tree, LSM-Tree is typically faster for writes, whereas B-trees are thought to be faster for reads.
+9. 
