@@ -15,5 +15,5 @@
 8. Log-structured merged tree, LSM-Tree is typically faster for writes, whereas B-trees are thought to be faster for reads.
 9. Transaction processing system(OLTP) vs Analytic system(OLAP)/Data Warehousing -> Column Oriented Storage(parquet) -> Column compression use bitmap.
 10. Encoding and decoding. When you write data to a file or send it over the network, you have to encode it, also known as serialization or marshalling, reverse is called decoding(parsing, deserialization, unmarshalling.)
-11. Binary encoding(facebook Thrift, google Protocol Buffers) can reduce the size. 
+11. Binary encoding(facebook Thrift, google Protocol Buffers, Avro) can reduce the size. 
 12. 
