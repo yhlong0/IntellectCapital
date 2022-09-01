@@ -16,4 +16,17 @@
 9. Transaction processing system(OLTP) vs Analytic system(OLAP)/Data Warehousing -> Column Oriented Storage(parquet) -> Column compression use bitmap.
 10. Encoding and decoding. When you write data to a file or send it over the network, you have to encode it, also known as serialization or marshalling, reverse is called decoding(parsing, deserialization, unmarshalling.)
 11. Binary encoding(facebook Thrift, google Protocol Buffers, Avro) can reduce the size. 
-12. 
+12. RPC drawbacks, local function call is predictable, the network request may lost, network slow and etc. It may return without a result, due to timeout, and you simply don't know whether request got through or not. If you retry a failed network request, that requests are actually getting through, only the responses are getting lost. The execution time might vary a lot due to network congestion. 
+13. The main focus of RPC frameworks is on requests between services owned by the same organization, within the same datacenter. 
+14. A message broker advantages:
+    - act as a buffer
+    - auto redeliver messages if failed before, prevent message from being lost.
+    - sender doesn't need to know ip address or port number of the recipient
+    - one message to be sent to several recipients.
+    - decouples the sender from recipient, the sender just publishes message and doesn't care who consumes them. 
+15. message broker compare to RPC, the communication is usually one way, a sender doesn't expect to receive a reply. 
+16. Database replication, leaders and followers
+    - if synchronous follower crashed, network fault, the write cannot be processed. The leader must block all writes and wait. It is impractical for all followers to be synchronous, it usually one of the followers is synchronous and the others are asynchronous. 
+    - failover, one followers need to be promoted to be the new leader, clients need to be reconfigured to send their writes to the new leader, the other followers need to start consuming data changes from the new leader. When old leader back online, he need to step down as a follower and recognize the new leader, deal with data mismatch. 
+    - 
+    -  vs asynchronous 
