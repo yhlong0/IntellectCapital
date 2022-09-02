@@ -29,4 +29,4 @@
     - if synchronous follower crashed, network fault, the write cannot be processed. The leader must block all writes and wait. It is impractical for all followers to be synchronous, it usually one of the followers is synchronous and the others are asynchronous. 
     - failover, one followers need to be promoted to be the new leader, clients need to be reconfigured to send their writes to the new leader, the other followers need to start consuming data changes from the new leader. When old leader back online, he need to step down as a follower and recognize the new leader, deal with data mismatch. 
     - 
-    -  vs asynchronous 
+
