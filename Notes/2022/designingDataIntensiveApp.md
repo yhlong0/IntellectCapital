@@ -28,5 +28,7 @@
 16. Database replication, leaders and followers
     - if synchronous follower crashed, network fault, the write cannot be processed. The leader must block all writes and wait. It is impractical for all followers to be synchronous, it usually one of the followers is synchronous and the others are asynchronous. 
     - failover, one followers need to be promoted to be the new leader, clients need to be reconfigured to send their writes to the new leader, the other followers need to start consuming data changes from the new leader. When old leader back online, he need to step down as a follower and recognize the new leader, deal with data mismatch. 
-    - 
+17. Monotonic reads means that if one user makes several reads in sequence, they will not read older data after having previously read newer data.
+18. Use cases for multi leader replication -> multi-datacenter operation, better performance, tolerance of datacenter outages and network problem, however need to handling write conflicts. 
+19. Leaderless Replication, (e.g. AWS Dynamo, Casssandra), no failover, read/write parallel from multiple nodes. Quorums(法定人数) for reading and writing. write or read = nodes/2 + 1 
 
