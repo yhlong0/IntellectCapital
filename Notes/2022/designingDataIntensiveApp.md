@@ -30,5 +30,7 @@
     - failover, one followers need to be promoted to be the new leader, clients need to be reconfigured to send their writes to the new leader, the other followers need to start consuming data changes from the new leader. When old leader back online, he need to step down as a follower and recognize the new leader, deal with data mismatch. 
 17. Monotonic reads means that if one user makes several reads in sequence, they will not read older data after having previously read newer data.
 18. Use cases for multi leader replication -> multi-datacenter operation, better performance, tolerance of datacenter outages and network problem, however need to handling write conflicts. 
-19. Leaderless Replication, (e.g. AWS Dynamo, Casssandra), no failover, read/write parallel from multiple nodes. Quorums(法定人数) for reading and writing. write or read = nodes/2 + 1 
+19. Leaderless Replication, (e.g. AWS Dynamo, Casssandra), no failover, read/write parallel from multiple nodes, are generally optimized for usse cases that can tolerate eventual consistency. Quorums(法定人数) for reading and writing. write = read = nodes/2 + 1 
+20. For defining concurrency, exact time doesn't matter, if two operations are both unaware of each other, we call it concurrency. 
+21. 
 
