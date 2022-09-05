@@ -32,5 +32,5 @@
 18. Use cases for multi leader replication -> multi-datacenter operation, better performance, tolerance of datacenter outages and network problem, however need to handling write conflicts. 
 19. Leaderless Replication, (e.g. AWS Dynamo, Casssandra), no failover, read/write parallel from multiple nodes, are generally optimized for usse cases that can tolerate eventual consistency. Quorums(法定人数) for reading and writing. write = read = nodes/2 + 1 
 20. For defining concurrency, exact time doesn't matter, if two operations are both unaware of each other, we call it concurrency. 
-21. 
+21. CAP theorem: consistency, availability, partition tolerance. When you have a distributed system(partition), it is never safe from network failures, thus network partitioning generally has to be tolerated. If some nodes are not available or there is network communication issue between the nodes, you have to choose between consistency and availability. "two out of three" concept can be somewhat misleading because system designers need only to sacrifice consistency or availability in the presence of partitions
 
