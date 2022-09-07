@@ -36,4 +36,6 @@
 22. The advantage of a global(term-partitioned) index over a document-partitioned index is that it can make reads more efficient: rather than doing scatter/gather over all partitions, a client only needs to make a request to the partition containing the term that it wants. However, the downside of a global index is that writes are slower and more complicated. 
 23. Fixed number of partitions: create many more partitions than there are nodes, and assign several partitions to each node, if a node is added to the cluster, the new node can steal a few partitions from every existing node. 
 24. ZooKeeper, many distributed data systems rely on a separate coordination service to keep track cluster metadata, each node registers itself in ZooKeeper, and ZooKeeper maintains the mapping of partitions to nodes. When a partition changes ownership, or a node is added or removed, it can also notifies the routing tier so that it can keep its routing information up to date. 
+25. A transaction is a way for an application to group several reads and writes together into a logical unit. 
+26. Durability mean that the data has been successfully copied to some number of nodes. In order to provide a durability guarantee, a database must wait until these writes or replications are complete before reporting a transaction as successfully committed. 
 
