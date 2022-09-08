@@ -38,4 +38,5 @@
 24. ZooKeeper, many distributed data systems rely on a separate coordination service to keep track cluster metadata, each node registers itself in ZooKeeper, and ZooKeeper maintains the mapping of partitions to nodes. When a partition changes ownership, or a node is added or removed, it can also notifies the routing tier so that it can keep its routing information up to date. 
 25. A transaction is a way for an application to group several reads and writes together into a logical unit. 
 26. Durability mean that the data has been successfully copied to some number of nodes. In order to provide a durability guarantee, a database must wait until these writes or replications are complete before reporting a transaction as successfully committed. 
+27. 
 
