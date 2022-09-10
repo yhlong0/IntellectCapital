@@ -39,4 +39,5 @@
 25. A transaction is a way for an application to group several reads and writes together into a logical unit. 
 26. Durability mean that the data has been successfully copied to some number of nodes. In order to provide a durability guarantee, a database must wait until these writes or replications are complete before reporting a transaction as successfully committed. 
 27. Executing transactions serially is implemented in VoltDB, Redis. A system designed for single-threaded execution can sometimes perform better than a system that supports concurrency, because it can avoid the coordination overhead of locking. 
+28. Linearizability: the basic idea is to make a system appear as if there were only one copy of the data, and all operations on it are atomic. With this guarantee, even though there may be multiple replicas in reality, the application does not need to worry about them. 
 
