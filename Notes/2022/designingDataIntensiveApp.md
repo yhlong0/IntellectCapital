@@ -42,4 +42,5 @@
 28. Linearizability: the basic idea is to make a system appear as if there were only one copy of the data, and all operations on it are atomic. With this guarantee, even though there may be multiple replicas in reality, the application does not need to worry about them. However, linearizability is slow and this is true all the time, not only during a network fault. Linearizability implies/ensures causality(因果) and it is not the only way of preserving causality, A system can be causally consistent without incurring the performance hit of making it linearizable. In fact, causal consistency is the strongest possible consistency model that does not slow down due to network delays, and remains available in the face of network failures. 
 29. The best-known fault-tolerant consensus algorithms are Viewstamped Replication(VSR), Paxos, Raft and Zab.
 30. check these useful linux command awk, sed, sort, uniq, xargs
+31. sushi principle: raw data is better
 
