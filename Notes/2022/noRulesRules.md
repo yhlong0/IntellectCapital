@@ -17,4 +17,5 @@
     - The higher you get in an organization, the less feedback you receive, and the more likely you are to "come to work naked like emperor's new clothes" or make errors that's obvious to everyone but you. 
 6. **Remove controls**
     - the value of creative work should not be measured by time. You want to give a promotion not because he/she works like crazy, but because he/she is making a huge impact. 
+    - leader model taking big vacations
     - 
