@@ -16,6 +16,19 @@
     - A new device show your car current speed and give warning will help a lot reduce the speed in school zone and etc. Feedback is important.
     - The higher you get in an organization, the less feedback you receive, and the more likely you are to "come to work naked like emperor's new clothes" or make errors that's obvious to everyone but you. 
 6. **Remove controls**
+7. Vacation:
     - the value of creative work should not be measured by time. You want to give a promotion not because he/she works like crazy, but because he/she is making a huge impact. 
-    - leader model taking big vacations
+    - leader model taking big vacations, however, leader needs to set context, understand the important work and arrange their work before vacation, always act in the best interests of the company
+    - never do anything that makes it harder for others to achieve their goals
+    - do whatever you can to achieve your own goals
+8. Giving employees more freedom led them to take more ownership and behave more responsibly, they even started throwing out the milk in the refrigerator when it got sour
+9. Travel and expense:
+    - When I saw how senior management spends their time(set rules for travel expense), I lost confidence in the company. 
+    - Spend company money as if it were your own and act in company's best interest.
+    - Before you spend any money imagine that you will be asked to stand up in front of CFO or your own boss and explain why. If you can explain comfortably why that purchase is in the company's best interest, then no need to ask, go ahead and buy it. But if you'd feel a little uncomfortable, skip the purchase, check in with your boss, or buy something cheaper. 
+    - lack of process speeds everything up.
+    - some employees actually spend less when the expense policy is lifted. 
+10. Abuse the freedom and you're out -- plus you'll be used as an example to others for what not to do.
+11. Pay top of personal market:
+    - Divided jobs into operational and creative roles
     - 
