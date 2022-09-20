@@ -30,5 +30,16 @@
     - some employees actually spend less when the expense policy is lifted. 
 10. Abuse the freedom and you're out -- plus you'll be used as an example to others for what not to do.
 11. Pay top of personal market:
-    - Divided jobs into operational and creative roles
+    - Divided jobs into operational and creative roles, creative job can out perform 10-100x.
+    - Increase pay to top of the market, not bonus pool, to keep the talents 
+    - Employee should know his value better, call recruiter and share the info with boss.
+    - Bonus are bad for flexibility, get 200k for sure vs 150k + 50K bonus, people will like the first. Also no KPI associate with bonus, they might achieve more than what you expected.
+    - If compensation is based on specific financial performance metrics(increase operating profit 5%), people might not do something lost in short term which increase five years competitive. Wrong incentive conflict with long term goal. 
+    - If that talent people is important and you don't have enough money to pay him, get ride of the mediocre one.
+12. Open the book 
+    - employees are adult, no need umbrella to protect them.
+    - it is company's job to treat you like an adult and give you all the info(re-org, financial statement and etc), people can make better decision themselves. If you know you might get lay off, you can better decide whether to buy the house or not. 
+    - boss should avoid close office door, lock drawer, he should approach employee and talk to them, instead of asking them come to your office. 
+    - after fire someone, be candor, no need to spin or make it looks good. 
+    - when you screw up, whisper wins and shout mistakes
     - 
