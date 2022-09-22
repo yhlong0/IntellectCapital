@@ -41,5 +41,9 @@
     - it is company's job to treat you like an adult and give you all the info(re-org, financial statement and etc), people can make better decision themselves. If you know you might get lay off, you can better decide whether to buy the house or not. 
     - boss should avoid close office door, lock drawer, he should approach employee and talk to them, instead of asking them come to your office. 
     - after fire someone, be candor, no need to spin or make it looks good. 
-    - when you screw up, whisper wins and shout mistakes
-    - 
+    - when you screw up, whisper wins and shout mistakes, sunshining a leader's error is to encourage everyone to think of making mistakes as normal, take risks when success is uncertain, build trust. 
+13. The pratfall effect: Awesome person make small mistake increase your appeal, mediocre people's mistake low their appeal. Leader need to build trust in his competency before shouting your mistakes. 
+13. No Decision Making Approvals needed
+    - Your job is not to please your boss, do something your boss will approve. It's to do what is right/best for the business.
+    - share all the context of your decision, done the groundwork.
+    - if someone comes to you(leader) with a proposal you think is going to fail, ask yourself if you paid top of the market.he is a stunning employee, has good judgment, make positive impact.
