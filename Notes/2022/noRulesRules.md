@@ -47,3 +47,8 @@
     - Your job is not to please your boss, do something your boss will approve. It's to do what is right/best for the business.
     - share all the context of your decision, done the groundwork.
     - if someone comes to you(leader) with a proposal you think is going to fail, ask yourself if you paid top of the market.he is a stunning employee, has good judgment, make positive impact.
+    - Farm for dissent or socialize the idea
+    - For a big idea, test it out.
+    - As the informed captain, make your bet.
+    - If it succeeds, celebrate. If it fails, sunshine it. Ask what you learned, manager need to expresss interest in the takeaways, but no condemnation. don't make a big deal about it.
+14. Netflix does not operate in a safety-critical market, like medicine or nuclear power. In some industries, preventing error is essential. We are in a creative market. Our big threat in the long run is not making a mistake, it's lack of innovation.
