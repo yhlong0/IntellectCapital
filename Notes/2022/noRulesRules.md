@@ -52,4 +52,7 @@
     - As the informed captain, make your bet.
     - If it succeeds, celebrate. If it fails, sunshine it. Ask what you learned, manager need to expresss interest in the takeaways, but no condemnation. don't make a big deal about it.
 14. Netflix does not operate in a safety-critical market, like medicine or nuclear power. In some industries, preventing error is essential. We are in a creative market. Our big threat in the long run is not making a mistake, it's lack of innovation.
-15. 
+15. Professional sports team vs family. Best team player, not because you are a family member so we need to be nice with you or take care your stuff. 
+16. When fire someone just adequate performance, give a generous severance package. The cost for keeping such people are higher, and give couple months salary avoid sue the company later. They can plan their future better. 
+17. Employee ranking system is bad and you must let go of X percent your people will cause people sabotage each other(one employee doesn't have to lose for the other to win). Keeper test(ask your boss, if you were thinking of leaving, how hard he would work to change your mind.) is better and no fixed number of slots. However this will cause fear, suggestion: don't focus on things you fear, focus on learning, teamwork and accomplishment.
+18. 
