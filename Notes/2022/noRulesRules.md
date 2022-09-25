@@ -55,4 +55,6 @@
 15. Professional sports team vs family. Best team player, not because you are a family member so we need to be nice with you or take care your stuff. 
 16. When fire someone just adequate performance, give a generous severance package. The cost for keeping such people are higher, and give couple months salary avoid sue the company later. They can plan their future better. 
 17. Employee ranking system is bad and you must let go of X percent your people will cause people sabotage each other(one employee doesn't have to lose for the other to win). Keeper test(ask your boss, if you were thinking of leaving, how hard he would work to change your mind.) is better and no fixed number of slots. However this will cause fear, suggestion: don't focus on things you fear, focus on learning, teamwork and accomplishment.
-18. 
+18. You provide all the info/context so your team members make great decisions.(declarative language vs imperative language, line by line).
+19. How to teach kids not drinking and drive? One way you could monitor everything, check where he go, with whom, put tracker for his phone and etc. Another way is bring him to the kitchen show different type/amount alcohol and discuss how much will cause tipsy, drunk or black out, show video and let him understand severity of the dangers. Then he can control himself better. 
+20. For error prevention, lead with control, for innovation lead with context. 
