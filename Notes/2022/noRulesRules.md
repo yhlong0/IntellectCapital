@@ -52,3 +52,4 @@
     - As the informed captain, make your bet.
     - If it succeeds, celebrate. If it fails, sunshine it. Ask what you learned, manager need to expresss interest in the takeaways, but no condemnation. don't make a big deal about it.
 14. Netflix does not operate in a safety-critical market, like medicine or nuclear power. In some industries, preventing error is essential. We are in a creative market. Our big threat in the long run is not making a mistake, it's lack of innovation.
+15. 
