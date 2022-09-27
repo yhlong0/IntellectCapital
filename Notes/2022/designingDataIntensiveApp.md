@@ -42,5 +42,12 @@
 28. Linearizability: the basic idea is to make a system appear as if there were only one copy of the data, and all operations on it are atomic. With this guarantee, even though there may be multiple replicas in reality, the application does not need to worry about them. However, linearizability is slow and this is true all the time, not only during a network fault. Linearizability implies/ensures causality(因果) and it is not the only way of preserving causality, A system can be causally consistent without incurring the performance hit of making it linearizable. In fact, causal consistency is the strongest possible consistency model that does not slow down due to network delays, and remains available in the face of network failures. 
 29. The best-known fault-tolerant consensus algorithms are Viewstamped Replication(VSR), Paxos, Raft and Zab.
 30. check these useful linux command awk, sed, sort, uniq, xargs
-31. sushi principle: raw data is better
+31. Sushi principle: raw data is better
+32. For pub/sub model consider two questions: what happens if producers send faster than consumers can process them(drop, buffer in a queue, backpressure). What happens if nodes crash or offline, are any messages lost(durability)?
+33. Message brokers vs databases:
+    - database usually keep the data until it is explicitly deleted. Message broker not for long-term data storage
+    - database support secondary indexes and various ways of searching for data. Message brokers support subscribing to a subset of topics matching some pattern. 
+    - query database, the result is a point-in-time snapshot. Message broker will keep notify you when data changes. 
+34. When multiple consumers read messages in the same topic, two main patterns are used: load balancing or Fan-out
+35. Even if the message broker tries to preserve the order of messages, the combination of load balancing with redelivery inevitably leads to messages being reordered. 
 
