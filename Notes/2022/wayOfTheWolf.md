@@ -33,7 +33,7 @@ Uranus
 10. Where their pain lies, what's keeping them up at night?
 11. Looping: take each individual objection and use it as an opportunity to further increase a prospect's level of certainty without breaking rapport and seamlessly transition into a close.
 12. First 4 seconds, make you're a person worth listening to: 
-  - Sharp as a tack, get to the point quickly, not wast the prospect's time
+  - Sharp as a tack, get to the point quickly, not waste the prospect's time
   - Enthusiastic as hell
   - An expert in your field, learn everything about your industry, products, have a solution to their problem, 
   - Be an asset to them over the long-term
