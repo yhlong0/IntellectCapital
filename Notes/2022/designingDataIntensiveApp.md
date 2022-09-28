@@ -50,4 +50,5 @@
     - query database, the result is a point-in-time snapshot. Message broker will keep notify you when data changes. 
 34. When multiple consumers read messages in the same topic, two main patterns are used: load balancing or Fan-out
 35. Even if the message broker tries to preserve the order of messages, the combination of load balancing with redelivery inevitably leads to messages being reordered. 
+36. 
 
