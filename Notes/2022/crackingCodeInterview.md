@@ -18,9 +18,7 @@
 7. Tell me about a xxx: Situation -> Action -> Result
 8. O(x!) > O(2^x) > O(x^2) > O(xlog x) > O(x) > O(log x)
 9. 
-10. 
 
 
 
-page 31
-page 45
+page 59
