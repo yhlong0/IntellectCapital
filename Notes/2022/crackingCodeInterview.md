@@ -17,8 +17,10 @@
 6. **Focus on Yourself, Not your team**
 7. Tell me about a xxx: Situation -> Action -> Result
 8. O(x!) > O(2^x) > O(x^2) > O(xlog x) > O(x) > O(log x)
-9. 
+
+
 
 
 
 page 59
+page 64
