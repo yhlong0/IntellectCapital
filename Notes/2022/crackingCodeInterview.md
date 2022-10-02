@@ -17,10 +17,13 @@
 6. **Focus on Yourself, Not your team**
 7. Tell me about a xxx: Situation -> Action -> Result
 8. O(x!) > O(2^x) > O(x^2) > O(xlog x) > O(x) > O(log x)
+9. Need to know: 
+    - Data Structures: linked lists, tree, tries, graphs, stack, queue, heap, vector/arraylists, hash table
+    - Algorithms: Breadth-First Search, Depth-First Search, Binary Search, Merge Sort, Quick Sort
+    - Concepts: Bit Manipulation, Memory(Stack vs Heap), Recursion, Dynamic Programming, Big O Time & Space
+10. Problem-solving flowchart: Listen -> Example -> Brute Force(state a naive algorithm and **its runtime**)->Optimize(**B**ottlenecks, **U**nnecessary Work, **D**uplicated Work) -> Walk Through your approach in detail -> Implement(keep talking) -> Test(code review, small test cases, edge cases, fix bug)
 
 
 
-
-
-page 59
-page 64
+page 86
+page 
