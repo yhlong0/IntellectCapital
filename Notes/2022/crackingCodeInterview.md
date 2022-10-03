@@ -22,8 +22,16 @@
     - Algorithms: Breadth-First Search, Depth-First Search, Binary Search, Merge Sort, Quick Sort
     - Concepts: Bit Manipulation, Memory(Stack vs Heap), Recursion, Dynamic Programming, Big O Time & Space
 10. Problem-solving flowchart: Listen -> Example -> Brute Force(state a naive algorithm and **its runtime**)->Optimize(**B**ottlenecks, **U**nnecessary Work, **D**uplicated Work) -> Walk Through your approach in detail -> Implement(keep talking) -> Test(code review, small test cases, edge cases, fix bug)
+11. Keep Interviewing at least once a year, even if you aren't actively looking for a new job. This will keep your skill fresh and what opportunities/salaries are out there. 
+12. Tree traversal(always left to right, if root is in the mid, it is in-order, if root is begining, it is pre-order)
+    - in-order: left->root->right
+    - pre-order: root->left->right
+    - post-order: left->right->root
+13. Heap: 
+    - implement with array, root is smallest/biggest number.
+    - insert, insert at the last position, bubble up
+    - remove min/max, swap with the last, bubble down.
 
 
-
-page 86
+page 120
 page 
