@@ -40,6 +40,12 @@
     - NOT/Negation, ~5 => -5(JS will be -6, need to plus one)
     - Arithmetic Shift(<<, >>) 2 >> 1 => 1 (approxmite equal to divide by 2), 2 << 1 => 4 (approxmite equal to double)
     - Logical right shift(>>>), add 0 to the signed bit, shift everything to right. -1 >>> 1 => 2147483647 = 0111...111
-
+17. Sorting and Searching
+    - Bucket sort/Radix sort, e.g. sort million people by age. (age 1 - 100 as bucket) O(bucket * n)
+    - Bubble sort, start at begining, swap two elements. O(n^2), Memory O(1)
+    - Selection sort, scan the array, find smallest one, O(n^2), Memory O(1)
+    - Merge sort, O(n log(n))
+    - Quick sort, average O(n log(n)), worst O(n^2), Memory O(log(n))
+    
 page 148
 page 398 system design. 
