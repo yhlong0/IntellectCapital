@@ -28,7 +28,8 @@
     - in-order: left->root->right
     - pre-order: root->left->right
     - post-order: left->right->root
-15. Heap: 
+15. BFS -> queue, DFS -> [stack](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm#:~:text=Depth%20First%20Search%20(DFS)%20algorithm,F%20and%20lastly%20to%20C.) (push a node to stack, while there is neighbor can be visited, keep push to the stack. Once it reach end, pop the node, check other neighbor)
+16. Heap: 
     - implement with array, root is smallest/biggest number.
     - insert, insert at the last position, bubble up
     - remove min/max, swap with the last, bubble down.
