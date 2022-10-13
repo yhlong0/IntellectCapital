@@ -28,8 +28,7 @@
     - in-order: left->root->right
     - pre-order: root->left->right
     - post-order: left->right->root
-15. BFS -> queue, DFS -> [stack](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm#:~:text=Depth%20First%20Search%20(DFS)%20algorithm,F%20and%20lastly%20to%20C.) (push a node to stack, while there is neighbor can be visited, keep push to the stack. Once it reach end, pop the node, check other neighbor)
-16. Heap: 
+15. Heap: 
     - implement with array, root is smallest/biggest number.
     - insert, insert at the last position, bubble up
     - remove min/max, swap with the last, bubble down.
@@ -41,12 +40,18 @@
     - NOT/Negation, ~5 => -5(JS will be -6, need to plus one)
     - Arithmetic Shift(<<, >>) 2 >> 1 => 1 (approxmite equal to divide by 2), 2 << 1 => 4 (approxmite equal to double)
     - Logical right shift(>>>), add 0 to the signed bit, shift everything to right. -1 >>> 1 => 2147483647 = 0111...111
-17. Sorting and Searching
+17. Sorting 
     - Bucket sort/Radix sort, e.g. sort million people by age. (age 1 - 100 as bucket) O(bucket * n)
     - Bubble sort, start at begining, swap two elements. O(n^2), Memory O(1)
     - Selection sort, scan the array, find smallest one, O(n^2), Memory O(1)
     - Merge sort, O(n log(n))
     - Quick sort, average O(n log(n)), worst O(n^2), Memory O(log(n))
-    
+18. Searching 
+    - BFS -> queue 
+    - DFS:  
+        - [stack](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm#:~:text=Depth%20First%20Search%20(DFS)%20algorithm,F%20and%20lastly%20to%20C.) (push a node to stack, while there is neighbor can be visited, keep push to the stack. Once it reach end, pop the node, check other neighbor)
+        - Recursive, dfs(node) {stop condition, dfs(nextNode)}
+
+
 page 148
 page 398 system design. 
