@@ -47,7 +47,7 @@
     - Merge sort, O(n log(n))
     - Quick sort, average O(n log(n)), worst O(n^2), Memory O(log(n))
 18. Searching 
-    - BFS -> queue 
+    - BFS -> send first to queue, while queue is not empty, pop a item from the queue, find everything around this item, send to queue. 
     - DFS:  
         - [stack](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm#:~:text=Depth%20First%20Search%20(DFS)%20algorithm,F%20and%20lastly%20to%20C.) (push a node to stack, while there is neighbor can be visited, keep push to the stack. Once it reach end, pop the node, check other neighbor)
         - Recursive, dfs(node) {stop condition, dfs(nextNode)}
