@@ -16,3 +16,4 @@
 11. Central limit theorem: chose a sample size greater than 30, take repeated samples, calculate mean for each sample, at the end most of the sample means will be very close to the mean and distributed as a normal distribution around the mean. The original data from which the samples are being drawn doesn't have to have a normal distribution in order for the sample means to be distributed normally. 
 12. Thousands people take Marathon by bus, and one bus is missing, you happen found one broken bus at road side with average weight 200 lbs, the chance of this bus is the marathon missing bus is super low. 
 13. Your midterm exam score really bad and final exam score really high, professor will suspect you cheating, because from statistics this is highly unlikely. However, statistics cannot prove anything with certainty. 
+14. 
