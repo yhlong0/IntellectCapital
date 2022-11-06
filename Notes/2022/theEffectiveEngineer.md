@@ -17,4 +17,7 @@
     - By shifting to higher-leverage activities(opportunity cost)
 
 6. Optimizing for learning is a high-leverage activity for the effective engineer. Learning follows an exponential growth curve. Knowledge gives you a foundation, enabling you to gain more knowledge even faster. 
-7. 
+7. When companies pay you for cushy and unchallenging 9-to-5 jobs, what they are actually doing is paying you to accept a much lower intellectual growth rate. When you recognize that intelligence is compounding, the cost of that missing long-term compounding is enormous.
+8. Google "20% time" rule, where engineers spend the equivalent of one day a week on a side project to make the company better. To invest in your own growth, you should carve out your own 20% time. It's more effective to take it in one- or two-hour chunks each day rather than in one full day each week.
+9. Jump fealess into code you don't know.
+10. Focus on the important and non-urgent, we're inundated every day with urgent requests demanding our attention: meetings, emails, phone calls, bugs, pager duty alerts, the next deadline. Some of these requests are important; others aren't. If we're not careful, our default script is to respond immediately to whatever urgent issues come our way. We let life's daily interruptions, rather than our priorities, dictate our schedules. 
