@@ -21,3 +21,6 @@
 8. Google "20% time" rule, where engineers spend the equivalent of one day a week on a side project to make the company better. To invest in your own growth, you should carve out your own 20% time. It's more effective to take it in one- or two-hour chunks each day rather than in one full day each week.
 9. Jump fealess into code you don't know.
 10. Focus on the important and non-urgent, we're inundated every day with urgent requests demanding our attention: meetings, emails, phone calls, bugs, pager duty alerts, the next deadline. Some of these requests are important; others aren't. If we're not careful, our default script is to respond immediately to whatever urgent issues come our way. We let life's daily interruptions, rather than our priorities, dictate our schedules. 
+11. If you have to do something manually more than twice, then write a tool for the third time.
+12. The important of CICD, initially without invest time to CICD, person A will be faster, however as time goes, CICD will save more time for deployment in future, especially when more people join the project, the time saving is more. **Time-saving tools pay off large dividends** 
+13. Fast tools get used more frequently and enable new development workflow that previously weren't possible. 
