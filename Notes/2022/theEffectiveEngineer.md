@@ -24,3 +24,5 @@
 11. If you have to do something manually more than twice, then write a tool for the third time.
 12. The important of CICD, initially without invest time to CICD, person A will be faster, however as time goes, CICD will save more time for deployment in future, especially when more people join the project, the time saving is more. **Time-saving tools pay off large dividends** 
 13. Fast tools get used more frequently and enable new development workflow that previously weren't possible. 
+14. The next time you find yourself repeatedly going through the same motions when you're fixing a bug or iterating on a feature, pause. Take a moment to think through whether you might be able to tighten tat testing loop. It could save you time in the long run. 
+15. 
