@@ -25,4 +25,5 @@
 12. The important of CICD, initially without invest time to CICD, person A will be faster, however as time goes, CICD will save more time for deployment in future, especially when more people join the project, the time saving is more. **Time-saving tools pay off large dividends** 
 13. Fast tools get used more frequently and enable new development workflow that previously weren't possible. 
 14. The next time you find yourself repeatedly going through the same motions when you're fixing a bug or iterating on a feature, pause. Take a moment to think through whether you might be able to tighten tat testing loop. It could save you time in the long run. 
-15. 
+15. Google at begining also use click through rate metrics to track if search result is useful or not, However, this is not a good metric, user might click bunch of them, but none of them are useful, and that's probably also the reason they click a lot to search for the useful thing. The best metrics to track user happiness is the top one "long click". This occurs when someone clicks a search result and doesn't return to the search page, or stays on the result page for a long time. 
+16. 
