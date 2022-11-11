@@ -29,3 +29,4 @@
 16. Don't delay, get feedback. Figure out what's working, that's far better than tring to build something and then trust that you got everything right--because you can't get everything right.
 17. A "minimum viable product" (MVP). that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. 
 18. The strategy of faking the full implementation of an idea to validate whether it will work is extreamly powerful. 
+19. 
