@@ -29,4 +29,9 @@
 16. Don't delay, get feedback. Figure out what's working, that's far better than tring to build something and then trust that you got everything right--because you can't get everything right.
 17. A "minimum viable product" (MVP). that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. 
 18. The strategy of faking the full implementation of an idea to validate whether it will work is extreamly powerful. 
-19. 
+19. The most common dysfunction is that the team starts behaving like two teams and these two groups will only work on tasks on their side of the board. 
+20. Make accurate time estimation:
+    - Decompose the project into grannular tasks
+    - Think as probability distributions, not best-case scenarios, 50 % likelihood we can deliver 4 weeks, 90% chance we can deliver it within 8 weeks. 
+    - Let the person doing the actual task make the estimate
+    - If a problem turns out to be harder than expected, it's better to find out and adjust the target date sooner rather than later. 
