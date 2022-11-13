@@ -35,3 +35,4 @@
     - Think as probability distributions, not best-case scenarios, 50 % likelihood we can deliver 4 weeks, 90% chance we can deliver it within 8 weeks. 
     - Let the person doing the actual task make the estimate
     - If a problem turns out to be harder than expected, it's better to find out and adjust the target date sooner rather than later. 
+21.
