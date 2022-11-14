@@ -35,4 +35,9 @@
     - Think as probability distributions, not best-case scenarios, 50 % likelihood we can deliver 4 weeks, 90% chance we can deliver it within 8 weeks. 
     - Let the person doing the actual task make the estimate
     - If a problem turns out to be harder than expected, it's better to find out and adjust the target date sooner rather than later. 
-21.
+21. Idempotent: produces the same results regardless of whether it's run once or multiple times. It therefore can be retried as often as necessary without unintended side effects.
+22. Netflix Chaos Monkey: randomly kills services in its own infrastructure during regular work hours, engineers can identify architectural weaknesses while they're in the office rather than having to deal with unexpected and untimely emergencies on the weekends or in the middle of the night. The best defense against major unexpected failures is to fail often. 
+23. You are a senior engineer if you're making a whole team better, You're a principle engineer if you're making the whole company better, and you're distinguished if you're improving the industry.
+24. Image you have a magic wand that can make every single person in your company succeed at their job by 120%. What would happen? If everyone knocked their job out of the park, the company would probably be a huge success and even if you did nothing else, you'd be sept along in the tide of success of everyone around you. **Investing in other people's success is important**
+25. Assume you had a 20-day stretch where you interviewed one engineer per day. On avergae, you spent two hours of every day that month talking with a candidate, writing up feedback, and defriefing on whether to make an offer. It was exhausting. But if those 40 hours result in even just one additional hire, the 2,000+ hours of output that he or she would contribute per year would more than justify the cost. 
+26.  
