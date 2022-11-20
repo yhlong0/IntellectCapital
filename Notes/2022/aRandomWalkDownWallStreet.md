@@ -8,3 +8,6 @@
 6. The stock market is not a voting mechanism but a weighing mechanism. Valuation metrics have not changed. Eventually every stock can only be worth the present value of the cash flow it is able to earn for the benefit of investors.
 7. There are special risks involved in buying "growth stock" when the market has already recognized the growth and has bid up the PE to a hefty premium over that accorded more run-of-the-mill stocks. If the growth does not materialize and earnings in fact go down or even grow more slowly than expected, you will take a very unpleasant bath. the grow stock double benefits can become double damages. 
 8. The "cycles or momentum" in the stock charts are no more true cycles than the runs of luck or misfortune of the coin toss.(Use coin toss, you can generate all kinds of stock graph.)
+9. Pro forma earnings are often called "earnings before all the bad stuff"
+
+
