@@ -11,5 +11,6 @@
 9. Pro forma earnings are often called "earnings before all the bad stuff"
 10. Beta, the key analytical tool of the capital-asset pricing model(CAPM), is not a useful single measure to capture the relationship between risk and return.
 11. Inflation may benefit the prices of common stocks in the natural resource industries. 
+12. Overconfidence, Biased Judgments, Herding, Loss Aversion, Pride and Regret(difficult to admit I made a bad stock decision), 
 
 
