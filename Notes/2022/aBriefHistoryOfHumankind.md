@@ -21,3 +21,4 @@
     - 200 The Industrial Revolution.
     
 2. The evolution should select for larger brains may seem to us like a no-brainer. We are so enamoured of our high intelligence that we assume that when it comes to cerebral power, more must be better. But if that were the case, the feline family would also have produced cats who could do calculus. Why is genus Homo the only one in the entire animal kingdom to have come up with such massive thinking machines? Bigger brain also has cost, energy cost, stand up make back pain.
+3. Gather Hunter eat more health and diversify. Once we enter argiculter, we start eating rice all the time. for gather hunter you eat whatever you get. Also, you don't work that hard, 30hrs a week. 
