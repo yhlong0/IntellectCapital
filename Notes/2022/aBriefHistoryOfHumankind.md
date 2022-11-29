@@ -29,5 +29,5 @@
 8. It is impossible to organise an army/police/astrounant/doctors(whoever have to risk their life) solely by coercion. At least some of the commanders and soldiers must truly believe in something be it God, honour, motherland, manhood or money. 
 9. Romanticism tells us that in order to make the most of human potential we must have as many different experiences as we can. Open ourselves to a wide spectrum of emotions, relastionships, cuisines, music. Break free from our daily routine, go travelling, where we can 'experience' the culture, the smells, the tastes.
 10. Consumerism tells us that in order to be happy we must consume as many products and services as possible. If we feel that something is missing or not quite right, then we probably need to buy a product or a service. Every television commercial is another little legend about how consuming some product or service will make life better. The tourism industry does not sell flight tickets and hotel bedrooms. It sells experiences. 
-11. Money is a system of mutual trust, it is the most universal and most efficient system of mutual trust ever devised. Easy for transcations. 
+11. Money is a system of mutual trust, it is the most universal and most efficient system of mutual trust ever devised(Intrinsic value). Easy for transcations and store.
 
