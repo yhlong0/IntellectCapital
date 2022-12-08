@@ -39,5 +39,12 @@
     - The acquisition of new powers
 16. Ancient traditions of knowledge admitted only two kind of ignorance. First, an individual might be ignorant of something important. To obtain the necessary knowledge, all he needed to do was ask somebody wiser. There was no need to discover something that nobody yet knew. Ask the local priest. Second, an entire tradition might be ignorant of unimportant things. Whatever the great gods or the wise people of the past did not bother to tell us was unimportant. If a peasant wanted to know how spiders weave their webs, it was pointless to ask priest, there was no anser to this question in any of the Christian Scriptures. **That did not mean that Christianity was deficient.** Rather it meant that understanding how spiders weave their webs was unimportant. After all, God knew perfectly well how spiders do it. If this were a vital piece of information, necessary for human prosperity and salvation(得救/拯救), God would have included a comprehensive explanation in the Bible.
 17. Most scientific studies are funded because somebody believes they can help attain some political, economic or religious goal. 
-18. 
+18. Previously people think get rich is earn money from other people, it is zero sum game. You could cut the pie in many different ways, but it never got any bigger. That's why many cultures concluded that making bundles of money was sinful.
+19. Trust in the future -> Credit -> Paying contractors -> New Bakeries -> Cakes that pay back loans
+20. Scientific Revolution, we admit our ignorance and invest resources in research, it is same concept for economy, geo discovery,technological inventions can increase the sum total of human production. I can be wealthy without your becoming poor.
+21. What Adam Smith says is greed is good and by becoming richer I benefit everybody. Think economy as a "win-win", in which my profits are also your profits, not only can we enojoy a bigger slice of pie, but the increase in your slice depends upon the increase in my slice. 
+22. The profits of production must be reinvested in increasing production.
+23. Banks and governments print money, but ultimatedly, it is the scientists who foot the bill. 
+24. Capitalism: credit finance new discoveries -> discoveries led to colonies -> colonies provided profits -> profits built trust -> trust translated into more credit. 
+25. 
 
