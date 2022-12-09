@@ -46,5 +46,5 @@
 22. The profits of production must be reinvested in increasing production.
 23. Banks and governments print money, but ultimatedly, it is the scientists who foot the bill. 
 24. Capitalism: credit finance new discoveries -> discoveries led to colonies -> colonies provided profits -> profits built trust -> trust translated into more credit. 
-25. 
+25. Markets by themselves offer no protection against fraud, theft and violence. It is the job of political systems to ensure trust by legislating scanctions against cheats and to establish and support police forces, courts and jails which will enforce the law. When kings fail to do their jobs and regulate the markets(French King, mississippi bubble), it leads to loss of trust, dwindling credit and economic depression.  
 
