@@ -47,4 +47,9 @@
 23. Banks and governments print money, but ultimatedly, it is the scientists who foot the bill. 
 24. Capitalism: credit finance new discoveries -> discoveries led to colonies -> colonies provided profits -> profits built trust -> trust translated into more credit. 
 25. Markets by themselves offer no protection against fraud, theft and violence. It is the job of political systems to ensure trust by legislating scanctions against cheats and to establish and support police forces, courts and jails which will enforce the law. When kings fail to do their jobs and regulate the markets(French King, mississippi bubble), it leads to loss of trust, dwindling credit and economic depression.  
+26. At heart, the industrial revolution has been a revolution in energy conversion.
+27. Instead of eating little, which will lead to economic contraction, people eat too much and then buy diet products -- contributing to economic growth twice over.
+28. In medieval Europe, aristocrats(贵族)spent their money carelessly on extravagant luxuries, where as peasants lived frugally, minding every penny. Today, the tables have turned. The rich take great care managing their assets and investments, while the less well heeled go into debt buying cars and televisions they don't really need. 
+29. 人类从不必担心能源危机，缺乏材料和能源总会被解决。太阳的能量人就只使用了非常少的一部分，更别提潮汐，风能等等。然而环境的恶化可能会真正威胁人类。全球变暖，污染会导致人类和自然的权利斗争，人会试图发明，改变生态系统，这也许会导致更多意想不到的副作用。然后人会想出更多办法去对付副作用，也许会导致更混乱的状况。
+30. 
 
