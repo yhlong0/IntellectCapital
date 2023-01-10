@@ -32,7 +32,7 @@
 19. Having a weekly meeting time outweigh any negatives.
 20. Those who are happiest in life are those who take time to give to others, especially in terms of helping others.
 21. Five core values: commitment, respect, intimacy, honesty, and forgiveness
-22. Forgiveness is a decision to give up your right to get even with, or hold in debt. Give up all claim to punshi, resentment.
+22. Forgiveness is a decision to give up your right to get even with, or hold in debt. Give up all claim to punish, resentment. 原谅是放弃所有试图报复，需要补偿，持续憎恨等不公平的心态。
 23. When you hang on to resentment and bitterness, you put yourself at risk of divorce, People often walk away from debts they see no hope of paying off.
 24. The spouses see problems as "me against you" instead of "us against the problem"
 25. If you're trying to keep your marriage on track, don't bring up the topic of divorce, period.
