@@ -8,7 +8,7 @@
 6. Clam yourself before communicatiing to another. When you are put off, the first five munites are usually the most volatile. If you can train yourself to stuff the knee-jerk response, you will save yourself hours of backpedaling, back-scratching, and brownnosing(拍马屁) down the road. 
 7. For in the way you judge, you will be judged and by your standard of measure, it will be measured to you.
 8. We all have an innate, unquenchable dire to know we are valued, to know we matter. Yet affirming this in each other is among the most challenging things to do in our day and age. 
-9. If you ami to influence people to change, repeatedly pointing out his rap sheet will do you little good. If instead you begin to remind him of what he could be, with his own history of goodness, of success of insight, even if only a brief history--something inside him would have cause to awaken. 
+9. If you aim to influence people to change, repeatedly pointing out his rap sheet will do you little good. If instead you begin to remind him of what he could be, with his own history of goodness, of success of insight, even if only a brief history--something inside him would have cause to awaken. 
 10. Housemaid knew that one of the calf's core desires was food. Once she tapped into that desire(use a finger as nip), the calf willingly followed. Emerson and his son merely thought about what they desired.
 11. Asking thoughtful questions of every new person he met which he didn't know very well.
 12. Rule of thumb is to make sure the linear thread of the message trends upward. Always begin and end the message on a positive note rather than on a pessimistic or detached one.
