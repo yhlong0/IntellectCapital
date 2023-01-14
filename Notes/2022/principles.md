@@ -2,7 +2,7 @@
 
 1. It isn't easy to be confident that your opinions are right. In the markets, you can do a huge amount of work and still be wrong.
 2. Bad opinions can be very costly. Most people come up with opinions and there's no cost to them. Not so in the market.
-3. The consensus is often wrong, so I have to be an independent thinker. To make anymoney, you have to be right when everyone eles is wrong.
+3. The consensus is often wrong, so I have to be an independent thinker. To make any money, you have to be right when everyone eles is wrong.
 4. Each group there are differences and they are intended to paint a picture of the world the way they'd like it to be rather than the way it really is.
 5. The desire to evolve, to get better is humanity's most pervasive driving force. Enjoy your job, a craft, sport comes from the innate satisfaction of getting better, it is the evolution and not the reward itself that matters to us. Our lives are not satisfied by obtaining our goals rather than by striving for them. 
 6. Many people made a lot of money who never made making a lot of money their primary goal. Instead, they simply engaged in the work that they were doing, produced what society wanted, and got rich doing it. There are many people who really wanted to make a lot of money but never produced what the society wanted and they didn't make a lot of money. Making money really is what you can give to other people
