@@ -27,7 +27,7 @@
 14. The next time you find yourself repeatedly going through the same motions when you're fixing a bug or iterating on a feature, pause. Take a moment to think through whether you might be able to tighten tat testing loop. It could save you time in the long run. 
 15. Google at begining also use click through rate metrics to track if search result is useful or not, However, this is not a good metric, user might click bunch of them, but none of them are useful, and that's probably also the reason they click a lot to search for the useful thing. The best metrics to track user happiness is the top one "long click". This occurs when someone clicks a search result and doesn't return to the search page, or stays on the result page for a long time. 
 16. Don't delay, get feedback. Figure out what's working, that's far better than tring to build something and then trust that you got everything right--because you can't get everything right.
-17. A "minimum viable product" (MVP). that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. 
+17. "minimum viable product" (MVP) is a version of a new product which allows team to collect the maximum amount of validated learning about customers with the least effort. 
 18. The strategy of faking the full implementation of an idea to validate whether it will work is extreamly powerful. 
 19. The most common dysfunction is that the team starts behaving like two teams and these two groups will only work on tasks on their side of the board. 
 20. Make accurate time estimation:
