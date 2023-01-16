@@ -8,10 +8,10 @@
 6. Hire competent professionals. 
 7. When you create a formal entity(not sole proprietorship), you will obtain a Tax ID number and eventually be able to establish credit and borrow funds solely in the name of your company.
 8. When choose type of entities, consider below:
-  - filling fees and setup costs
-  - annual maintenance fees and services
-  - any state entity taxes on gross or net income
-  - tax return preparation and services throughout the year
+    - filling fees and setup costs
+    - annual maintenance fees and services
+    - any state entity taxes on gross or net income
+    - tax return preparation and services throughout the year
 
 
 8. Sole Proprietorship(no protection for your asset)
@@ -21,9 +21,9 @@ Profit: $75,000
 Self-Employ Tax: $11,475(15.3%)
 
 8. LLC, 
-  - protect your asset
-  - does not save taxes in and of itself, however, you can have an LLC taxed as an S or C corporation if appropriate.
-  - if you own rental property, an LLC should be a serious and important consideration.
+    - protect your asset
+    - does not save taxes in and of itself, however, you can have an LLC taxed as an S or C corporation if appropriate.
+    - if you own rental property, an LLC should be a serious and important consideration.
 10. S corp
 Sales: $100,000
 Expenses: $25,000
@@ -40,16 +40,16 @@ Savings: $5,967
 15. Don't feel awkward and inadequate when consulting older people, they might had more life experience, but clients look for advice not because of my age, but because of my education and experience. **It's not the years, it's the mileage**
 16. Track expenses, everything related to the purchase and management of the property is a tax write-off
 17. Partner checklist:
-  - Who are authorized to do what on behalf of the company
-  - Duties and responsibilities of each partner, there should be predetermined consequences for partners not completing their duties.
-  - Contributions of capital, what amount, when, how many times
-  - Rights to distributions, profits, compensation and losses.
-  - Unanimous vote requirements.
-  - Dissolution or exit strategy
-  - A buy-sell provision or separate buy-sell agreement
-  - Expulsion provision, when a partner can be forced out of the business
-  - Noncompete provision
-  - Miscellaneous provisions  
-19. 256
+    - Who are authorized to do what on behalf of the company
+    - Duties and responsibilities of each partner, there should be predetermined consequences for partners not completing their duties.
+    - Contributions of capital, what amount, when, how many times
+    - Rights to distributions, profits, compensation and losses.
+    - Unanimous vote requirements.
+    - Dissolution or exit strategy
+    - A buy-sell provision or separate buy-sell agreement
+    - Expulsion provision, when a partner can be forced out of the business
+    - Noncompete provision
+    - Miscellaneous provisions  
+
 
 
