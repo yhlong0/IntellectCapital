@@ -7,3 +7,4 @@
 5. A financially irresponsible person doesn't become a millionaire by winning $1 million. He merely becomes a financially irresponsible person with $1 million, and eventually the lucky money will be gone. A person becomes a millionaire by becoming the sort of person who "deserves" $1 million. 
 6. Many people spend more time maintaining their house and car than they do their health. Too many forget that they live in their body first and their home second. To be at home in the world is first to be at home in the body. After all, where else are you going to live? Hence, taking care of the body should take prioirty over taking care of the rest of the world. 
 7. The lack of complex social structure has led to neighborhoods where each household has their own power mower that they use for 15 minutes a week to mow their postage stampsized lawn. 
+8. 
