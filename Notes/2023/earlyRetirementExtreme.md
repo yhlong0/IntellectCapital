@@ -10,4 +10,8 @@
 8. We like measure experience using number of years, however, working in the same place for five years doesn't imply five years of experience. If you've been doing exactly the same thing day in and day out for five years, and it only took a day to learn, you have one day's experience, five years over. 
 9. In a world of scarcity, ancient time hunting gather, if you don't eat whatever you have quickly, it will gone. Instant gratification is the optimal strategy. In a world of abundance, eat as much as you can -> diabetes, obesity, spend many use credit card, get loan, delayed gratification is the optimal strategy. 
 10. The human brain seems to be almost incapable of dealing with problems that have multiple causes. For instance, what is the cause of a financial crisis? It usually has at least ten different causes, However, short video trying to use one compelling reason to explain something complicated, that is not good for you. 
-11. 
+11. Serve yourself rather than having others serve you. Instead, help them.
+12. The total cost of stuff is much larger than its initial sticker price(space it needs, maintenance, one extra bedroom cost 50k). Despite this, and perhaps due to short-sightedness, owning many things is often confused with a high quality of life. 
+13. The most expensive tool in the box is the one you never use. 
+14. Annual cost = (Your cost - Used price) / (Years in service or how many times you use it)
+15. Buy a food processor for $75, sell it for $15 three years later give you $20/year. However, if it was only used 15 times during the 3 years, $4/use. That's one expensive food processor. 
