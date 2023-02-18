@@ -15,4 +15,5 @@
 13. The most expensive tool in the box is the one you never use. 
 14. Annual cost = (Your cost - Used price) / (Years in service or how many times you use it)
 15. Buy a food processor for $75, sell it for $15 three years later give you $20/year. However, if it was only used 15 times during the 3 years, $4/use. That's one expensive food processor. 
-16. 
+16. Draw a histogram, hourly, daily, monthly, semiannually, annually+, don't be surprised if you use fewer than three percent of your possessions daily and 90%+ of all possessions less than annually. This is a normal consumer pattern, but a waste of space and money.
+17. Is your money best spent on an extra bedroom or five years of freedom?
