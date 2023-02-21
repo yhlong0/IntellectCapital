@@ -17,4 +17,9 @@
 15. Buy a food processor for $75, sell it for $15 three years later give you $20/year. However, if it was only used 15 times during the 3 years, $4/use. That's one expensive food processor. 
 16. Draw a histogram, hourly, daily, monthly, semiannually, annually+, don't be surprised if you use fewer than three percent of your possessions daily and 90%+ of all possessions less than annually. This is a normal consumer pattern, but a waste of space and money.
 17. Is your money best spent on an extra bedroom or five years of freedom?
+18. The golden rule of volunteering is that the volunteer gets to do it his way. If you want to eat better for less, volunteer to cook. If you want to save money on cleaning supplies, create you own, this take leadership abilities, but if not you then who? None of this guarantees success, but maybe just someday your spouse will solve it using one of your solutions.
+19. Children don't spend a lot of money; rather, their parent do, beyond basic need, all they need is love, learning, activity and responsibilities. 
+20. Net savings = lifetime income - lifetime expenses, a person's contribution to society. It is hard to spend money useful, effecient.
+21. Three things determine your retirement: Saving rate, amount of money you have now, investing return rate. If you only save 10%, you need to work 9 years to relax 1 year. If you save 75%, with 6-7% investing return rate, after 5 years, you accumulate money for not working 15 years, 15 years funds * 7% = 1 year fund. Higher saving rate also means lower spending(what you need + what you want).
+22. 
 
