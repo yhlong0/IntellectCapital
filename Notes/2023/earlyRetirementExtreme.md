@@ -21,5 +21,5 @@
 19. Children don't spend a lot of money; rather, their parent do, beyond basic need, all they need is love, learning, activity and responsibilities. 
 20. Net savings = lifetime income - lifetime expenses, a person's contribution to society. It is hard to spend money useful, effecient.
 21. Three things determine your retirement: Saving rate, amount of money you have now, investing return rate. If you only save 10%, you need to work 9 years to relax 1 year. If you save 75%, with 6-7% investing return rate, after 5 years, you accumulate money for not working 15 years, 15 years funds * 7% = 1 year fund. Higher saving rate also means lower spending(what you need + what you want).
-22. 
+
 
