@@ -21,5 +21,8 @@
 19. Children don't spend a lot of money; rather, their parent do, beyond basic need, all they need is love, learning, activity and responsibilities. 
 20. Net savings = lifetime income - lifetime expenses, a person's contribution to society. It is hard to spend money useful, effecient.
 21. Three things determine your retirement: Saving rate, amount of money you have now, investing return rate. If you only save 10%, you need to work 9 years to relax 1 year. If you save 75%, with 6-7% investing return rate, after 5 years, you accumulate money for not working 15 years, 15 years funds * 7% = 1 year fund. Higher saving rate also means lower spending(what you need + what you want).
+22. Accumulate money that you don't need to work for 15 years, then you probably can retire.
+23. Asset management skill won't make much sense when you have little money. e.g. $2,000, 4% => $80, 6% => $120, if you spend few hours of learning, it's not big change. However, if you have 200,000, 4% => 8,000, 6% => $12,000, which is a very nice return for a few hours of effort. **While working for money until assets exceed income by a factor 25 or more(500k * 2% => 8k)**
+24. 
 
 
