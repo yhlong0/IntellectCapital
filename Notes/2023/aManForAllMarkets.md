@@ -15,6 +15,12 @@
 13. The reporter usually make errors that he thought statistical noise meant something. Then offer explanations for insignificant price changes is a recurrent event in financial reporting. The reporters often don't know whether a fluctuation is statistically common or rare. People tend to make the error of seeing patterns or explanations when there aren't any. The plethora of worthless pattern-based trading methods, and much of story-based investing.
 14. Every stock market system with an edge is necessarily limited in the amount of money it can use and still produce extra returns. One reason is that buying undervalued securities tends to raise the price, reducing or eliminating the mispricing, and selling short overpriced securities tends to lower the price, once again shrinking the mispricing. Thus, opportunities for beating the market are limited in size by how trading them affects market prices. 
 15. Tax-exempt investors ought to consider swapping their active investments in equities into a broad no-load index fund, unless they have strong reasons to believe their current investments give them a significant edge. In my experience, superior stock-picking ability is rare, which means almost everyone should make the switch. 
-16. 
-
+16. What it takes to beat the market?
+    - Get good information early. How do you know if your information is good enough or early enough? If you are not sure, then it probably isn't. Earliest traders gain the most and their continued trading tends to reduce or eliminate the mispricing.
+    - Be a disciplined rational investor. Follow logic and analysis rather than sales pitches, whims, or emotion.
+    - Find a superior method of analysis. Statistical arbitrage, card counting at blackjack
+17. The lesson of leverage is this: Assume that the worst imaginable outcome will occur and ask whether you can tolerate it. If the answer is no, then reduce your borrowing.
+18. Bond issuer pay S&P, Moody's and Fitch to rate their bond, because paid by their customers, these rating agency were suppose rating objectively, in a blatant conflict of interest.
+19. As home price climbed in 2006, many owner turned their houses into piggy banks. Having borrowed almost 100 percent of market value in many cases, they were underwater as soon as prices declined slightly. They then owed more than their houses were worth. 
+20. 
 
