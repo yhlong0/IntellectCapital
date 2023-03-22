@@ -11,6 +11,9 @@
     2. List 3500+ companies sort by earnings yield from high to low(1 - 3500).
     3. Combine the rankings, sort from low to high. 
 8. The opportunity to invest profits at high rates of return is very valuable. 
-9. page 72
+9. For those few investors who are capable of estimating normal earnings several years into the future and placing on buinesses, owning just a handful of bargain-priced stocks is the best way to go.
+10. Adding 5 - 7 stocks to our portfolio every few months until we reach 20-30 stocks. Thereafter, as stock reach one-year holding mark, we will replace only the 5-7 stocks that have been held for one year. (after 3-4 months, generate a new list by myself, compare with old list, to a little adjustment, sell the one not in the list, add the new one. make sure each stock occupay same percentage. total amount money/number of stocks)
+11. When comparing magic formula to S&P 500, it turns out that much of the outperformance comes during the up months. Low PB stock probably go down less during bear market, investor sense less protection from a recent high earning companies. In any event, losing a little less in down markets and making a lot more in up markets would be a pretty good deal.
+12. 
 
 
