@@ -18,4 +18,11 @@
 11. Concentrate on the dollar amount that's being negotiated. Don't think percentages. 
 12. Objections are buying signals. Indifference is the opposite of love. In real estate, the serious buyers were the ones who were saying "kitchen not as big as we like, Hate that wall paper." Those were the ones who would buy.
 13. Don't offer to split the difference, let other side suggest split and you continue neogitate use the mid as new start point. Well, I guess this is just not going to fly. It seems like such a shame, when we've both spent so much time working on this. It seems like such a shame that it's not going to go together, when we're only $2000 apart. Let's splitting the difference. Oh, you'd come up to the MID, is that what I hear you saying? Mid sounds a lot better. Let me talk to my family and see how they feel about it. I'll tell them you came up to MID, I'll get back to you tomorrow. 
-14. page 111
+14. let other side suggest split the difference, you put them in a position of compromise. Then you can reluctantly agree to his proposal, making him feel that he won.
+15. Don't let other people give you their problems. "We don't have it in the budget." Test the problem for validity right away. "Well, who would have the authority to exceed the budget?", "When does your budget year end?", "September", "So you would have it in the budget on October 1st?"
+16. Trade-Off Gambit: Anytime the other side ask you for a concession in the negotiations, you should automatically ask for something in return. "If I did that for you, what would you do for me?" If you get something in return, even if it's not of equal value, you're a negotiator.
+17. Don't do equal size concession, total 10,000, $2500 * 4 times. Avoid making the last concession a big one. Don't create a pattern of expectations in the other person's mind. Make first concession just cinch the deal, after that, make any future concessions smaller and smaller. 50 -> 60 -> 65 -> 67.5
+18. Timing is more important than the size of the concession, the size can be ridiculously small and still be effective. 
+19. Always congratulate the other person when you get through negotiating, no matter how poorly you think he or she did. 
+20. 
+21. 
