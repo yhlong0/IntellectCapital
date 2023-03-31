@@ -5,4 +5,5 @@
 3. Read books are far less valuable than unread ones. The library should contain as much of what you do not know.
 4. Categorizing always produces reduction in true complexity. It is a manifestation of the black swan generator, any reduction of the world around us can have explosive consequences since it rules out some sources of uncertainty; it drives us to a misunderstanding of the fabric of the world.
 5. I was totally incompetent in predicting market prices, but others did not know it, or did not know that they were taking massive risks. Most traders were just "picking pennies in front of a streamroller". Exposing themselves to the high-impact rare event yet sleeping like babies, unaware of it.
-6. 
+6. When people invent gramophone, the best singer could earn much more with less effort, however, the process of unfairness not started with gramophone(留声机), the evolution is scalable, the DNA that wins will reproduce itself, like a bestselling book or a successful record, and become pervasive. Other DNA will vanish. 
+7. From the standpoint of the turkey, the nonfeeding of the one thousand and first day is a Black Swan. For the butcher, it is not, since its occurrence is expected. So you can see here that the Black Swan is a sucker's problem. 
