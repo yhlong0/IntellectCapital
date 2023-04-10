@@ -1,7 +1,7 @@
 # Machine Learning Simplified
 
-[map1](machineLearningMap.webp)
-[map1](machineLearningMap2.jpeg)
+![map1](machineLearningMap.webp)
+![map1](machineLearningMap2.jpeg)
 
 1. AI > Machine Learning > Supervised Machine Learning (predict a categorical target variable or a numerical target variable)
 2. Supervised Machine Learning: to make predictions about unknown quantities given known quantities, such as predicting a house's sale price based on its location and square footage. Supervised ML does this by learning from, or discovering patterns in, past data. 
