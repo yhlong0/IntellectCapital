@@ -20,4 +20,5 @@
 11. Underfit: learning a trivially simple model, use not enough data or features, get roughly the same score for training and test.
 ![overfitVsUnderfit](overfitVsUnderfit.jpg)
 ![overfitVsUnderfit2](overfitVsUnderfit2.jpg)
+![misclassified](misclassified.jpg)
 11. 
