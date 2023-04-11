@@ -1,7 +1,8 @@
 # Machine Learning Simplified
 
 ![map1](machineLearningMap.webp)
-![map1](machineLearningMap2.jpeg)
+![map2](machineLearningMap2.jpeg)
+![map3](machineLearningMap3.jpeg)
 
 1. AI > Machine Learning > Supervised Machine Learning (predict a categorical target variable or a numerical target variable) + UnSupervised Machine Learning + Deep Learning and Neural Nets + Reinforcement Learning + Ensemble Methods 
 2. Supervised Machine Learning: to make predictions about unknown quantities given known quantities, such as predicting a house's sale price based on its location and square footage. Supervised ML does this by learning from, or discovering patterns in, past data. 
@@ -14,5 +15,6 @@
 6. Deep Learning: are very complex supervised/unsupervised ML models that perform very complicated tasks in areas where more advanced or faster analysis is required. They have produced impressive results on image recognition tasks. They are not universally better than other ML methods, required huge amounts of training data, computational cost, a lot of tinkering. In many cases, simpler and traditional ML models actually perform better. 
 7. Unsupervised Learning: solves a complementary set of problems to supervised ML that do not require human input labels and generate distinctive groups or clusters of data points. 
 8. Data extraction -> Data Preparation -> Model Building -> Model Deployment
-9. 
-
+9. Overfitting: Although you got a very low error on the training set(0% wrong) you got a higher error on the test set(60% wrong). so we need controlling model complexity, 
+10. Underfit: learning a trivially simple model, use not enough data or features, get roughly the same score for training and test.
+![overfitVsUnderfit](overfitVsUnderfit.jpeg)
