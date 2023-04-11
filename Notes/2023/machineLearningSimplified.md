@@ -16,7 +16,7 @@
 7. Unsupervised Learning: solves a complementary set of problems to supervised ML that do not require human input labels and generate distinctive groups or clusters of data points. 
 8. Data extraction -> Data Preparation -> Model Building -> Model Deployment
 ![pipeline](pipeline.jpg)
-10. Overfitting: Although you got a very low error on the training set(0% wrong) you got a higher error on the test set(60% wrong). so we need controlling model complexity, 
+10. Overfit: Although you got a very low error on the training set(0% wrong) you got a higher error on the test set(60% wrong). so we need controlling model complexity, 
 11. Underfit: learning a trivially simple model, use not enough data or features, get roughly the same score for training and test.
 ![overfitVsUnderfit](overfitVsUnderfit.jpg)
 ![overfitVsUnderfit2](overfitVsUnderfit2.jpg)
