@@ -19,6 +19,6 @@
 10. Overfit: Although you got a very low error on the training set(0% wrong) you got a higher error on the test set(60% wrong). so we need controlling model complexity, 
 11. Underfit: learning a trivially simple model, use not enough data or features, get roughly the same score for training and test.
 ![overfitVsUnderfit](overfitVsUnderfit.jpg)
-![overfitVsUnderfit2](overfitVsUnderfit2.jpg)
 ![misclassified](misclassified.jpg)
+![overfitVsUnderfit2](overfitVsUnderfit2.jpg)
 11. 
