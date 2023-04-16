@@ -21,7 +21,18 @@
 ![overfitVsUnderfit](overfitVsUnderfit.jpg)
 ![misclassified](misclassified.jpg)
 ![overfitVsUnderfit2](overfitVsUnderfit2.jpg)
-11. 
+11. Hyperparameters are parameters of a machine learning model that are not learned from data, but are set before training and can significantly affect the model's performance. Examples include learning rate, regularization strength, number of hidden layers in a neural network, number of decision trees in a random forest, kernel type and parameter values in support vector machines, etc.
+12. A **residual** is the difference between the observed value and the value that the model predicts for that observation. residual = observed value - predict Value
+13. Gradient Descent Algorithm:
+    1. Sum of Squared Residuals(SSR) = r1^2 + r2^2 + ....
+    2. The best model produced the lowest value of the cost function, minCost = min(r1^2 + r2^2 + ... rn^2) = min((observedValue1 - predictValue1)^2 + (observedValue2 - predictValue2)^2 + ... (observedValueN - predictValueN)^2)
+    3. Caluclate the derivative of the cost function (对cost function求导。假设参数只有a)
+    ![gradientDescent1](gradientDescent1.jpg)
+    ![gradientDescent2](gradientDescent2.jpg)
+    5. Initializes the parameter a = 0, the slope of the curve = derivativeCostFunction(0)
+    6. a-new = a-current - derivativeCostFunction(0) * learning rate
+    7. Step Size = derivativeCostFunction(0) * learning rate, when step size is super small, stop the learning. 
+
 
 
 
