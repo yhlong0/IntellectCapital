@@ -40,7 +40,7 @@
     ![gradientDescent8](gradientDescent8.jpg)    
     9. Multiple parameteres costing function("a" and "b")
     ![gradientDescent4](gradientDescent4.jpg)
-    
+    ![gradientDescent9](gradientDescent9.jpg)    
 14. Selecting a complex model and overfitting on the training data can still cause poor performance on the test data, even if you have large and diverse training data. Overfitting occurs when a model learns the noise or random fluctuations in the training data, rather than the underlying patterns or relationships. As a result, the model may perform very well on the training data, but poorly on new, unseen data. While having a large and diverse training dataset can help to reduce the risk of overfitting, it is not a guarantee. In fact, a complex model may be more likely to overfit on a large dataset, as it has more capacity to memorize noise and random fluctuations. To avoid overfitting, it is important to use regularization techniques such as early stopping, dropout, or weight decay. These techniques can help to prevent the model from memorizing noise and improve its ability to generalize to new data.
 15. Unbalanced data, distort prediction, for example, less data for expensive house, below are couple ways to deal with it:
     1. Collect more data
