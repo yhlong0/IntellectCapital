@@ -21,6 +21,7 @@
 ![overfitVsUnderfit](overfitVsUnderfit.jpg)
 ![misclassified](misclassified.jpg)
 ![overfitVsUnderfit2](overfitVsUnderfit2.jpg)
+![overfitVsUnderfit3](overfitVsUnderfit3.jpg)
 11. Hyperparameters are parameters of a machine learning model that are not learned from data, but are set before training and can significantly affect the model's performance. Examples include learning rate, regularization strength, number of hidden layers in a neural network, number of decision trees in a random forest, kernel type and parameter values in support vector machines, etc.
 12. A **residual** is the difference between the observed value and the value that the model predicts for that observation. residual = observed value - predict Value
 13. Gradient Descent Algorithm:
