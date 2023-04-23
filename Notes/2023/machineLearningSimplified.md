@@ -57,9 +57,15 @@
     2. Reducible error: our choice of model, hyperparameters
     3. Bias Error: the average error over different training sets, can be decreased by making model more complex, better features or new features, indicates the extent to which the model **underfits** the data.
     4. Variance error: how sensitive the model is to randomness in the training set, can be decreased by collecting and labling more training data, drop irrelevant features, indicates the extent to which the model **overfits** the data.
-    ![modelError](modelError.jpg)  
-21. Selecting a complex model and overfitting on the training data can still cause poor performance on the test data, even if you have large and diverse training data. Overfitting occurs when a model learns the noise or random fluctuations in the training data, rather than the underlying patterns or relationships. As a result, the model may perform very well on the training data, but poorly on new, unseen data. While having a large and diverse training dataset can help to reduce the risk of overfitting, it is not a guarantee. In fact, a complex model may be more likely to overfit on a large dataset, as it has more capacity to memorize noise and random fluctuations. To avoid overfitting, it is important to use regularization techniques such as early stopping, dropout, or weight decay. These techniques can help to prevent the model from memorizing noise and improve its ability to generalize to new data.
-22. Unbalanced data, distort prediction, for example, less data for expensive house, below are couple ways to deal with it:
+    ![modelError](modelError.jpg) 
+20. Validation Methods
+    ![validationMethods](validationMethods.jpg) 
+    1. The cross-validation methods generally produce better estimates of generalization error at the expense of increased computational cost.
+    2. The hold out validation has two shortcomings for small datasets, losing data for model training, skewed training and test sets. 
+    ![validationCost](validationCost.jpg) 
+21. 
+22. Selecting a complex model and overfitting on the training data can still cause poor performance on the test data, even if you have large and diverse training data. Overfitting occurs when a model learns the noise or random fluctuations in the training data, rather than the underlying patterns or relationships. As a result, the model may perform very well on the training data, but poorly on new, unseen data. While having a large and diverse training dataset can help to reduce the risk of overfitting, it is not a guarantee. In fact, a complex model may be more likely to overfit on a large dataset, as it has more capacity to memorize noise and random fluctuations. To avoid overfitting, it is important to use regularization techniques such as early stopping, dropout, or weight decay. These techniques can help to prevent the model from memorizing noise and improve its ability to generalize to new data.
+23. Unbalanced data, distort prediction, for example, less data for expensive house, below are couple ways to deal with it:
     1. Collect more data
     2. Undersampling majority class, oversampling minority class
     3. Cost-sensitive learning, assign different costs to misclassifying samples in each class
