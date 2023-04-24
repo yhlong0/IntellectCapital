@@ -63,9 +63,18 @@
     1. The cross-validation methods generally produce better estimates of generalization error at the expense of increased computational cost.
     2. The hold out validation has two shortcomings for small datasets, losing data for model training, skewed training and test sets. 
     ![validationCost](validationCost.jpg) 
-21. 
-22. Selecting a complex model and overfitting on the training data can still cause poor performance on the test data, even if you have large and diverse training data. Overfitting occurs when a model learns the noise or random fluctuations in the training data, rather than the underlying patterns or relationships. As a result, the model may perform very well on the training data, but poorly on new, unseen data. While having a large and diverse training dataset can help to reduce the risk of overfitting, it is not a guarantee. In fact, a complex model may be more likely to overfit on a large dataset, as it has more capacity to memorize noise and random fluctuations. To avoid overfitting, it is important to use regularization techniques such as early stopping, dropout, or weight decay. These techniques can help to prevent the model from memorizing noise and improve its ability to generalize to new data.
-23. Unbalanced data, distort prediction, for example, less data for expensive house, below are couple ways to deal with it:
+21. Feature Selection
+    1. Filter methods: identify irrelevant features based solely on the features, a feature that has the same value for each data point has no predictive value, a feature with many similar values(low variance) will probably have low predictive power.
+        1. Univariate score: A relevance score can be computed for each feature individually without looking at other features.
+            1. Variance score: (x_1 - x_avg) ^ 2)  + (x_2 - x_avg) ^ 2 + .... (x_n - x_avg) ^ 2 / n, if all values were identical, the variance would be zero. provide no information.
+            2. Chi-squared score: to test the independence of two events. we are interested in testing the independence between a feature variable and the target variable.
+        2. Multivariate score: looks at interactions among features, to remove features that are highly correlated with each other.
+            1. Correlation-based feature selection
+            2. Fisher Score
+    3. Search methods: identify features that are directly relevant to the prediction problem. Define a search for the K best features outside of the specific learning algorithm. Out of all possible sets of K features, find the set of K features that gives the best performance.
+    4. Embedded Methods: utilize prediction accuracy to select features, they do so within the algorithm, add a penalized learning objective that auto does feature selection. e.g. L1-penalized linear regress.
+23. Selecting a complex model and overfitting on the training data can still cause poor performance on the test data, even if you have large and diverse training data. Overfitting occurs when a model learns the noise or random fluctuations in the training data, rather than the underlying patterns or relationships. As a result, the model may perform very well on the training data, but poorly on new, unseen data. While having a large and diverse training dataset can help to reduce the risk of overfitting, it is not a guarantee. In fact, a complex model may be more likely to overfit on a large dataset, as it has more capacity to memorize noise and random fluctuations. To avoid overfitting, it is important to use regularization techniques such as early stopping, dropout, or weight decay. These techniques can help to prevent the model from memorizing noise and improve its ability to generalize to new data.
+24. Unbalanced data, distort prediction, for example, less data for expensive house, below are couple ways to deal with it:
     1. Collect more data
     2. Undersampling majority class, oversampling minority class
     3. Cost-sensitive learning, assign different costs to misclassifying samples in each class
