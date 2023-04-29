@@ -69,8 +69,8 @@
             1. Variance score: (x_1 - x_avg) ^ 2)  + (x_2 - x_avg) ^ 2 + .... (x_n - x_avg) ^ 2 / n, if all values were identical, the variance would be zero. provide no information.
             2. Chi-squared score: to test the independence of two events. we are interested in testing the independence between a feature variable and the target variable.
         2. Multivariate score: looks at interactions among features, to remove features that are highly correlated with each other.
-            1. Correlation-based feature selection
-            2. Fisher Score
+            1. Correlation-based feature selection: calculate the correlation between each feature in the dataset and a target variable, identify subsets of features that are highly correlated with the class but are uncorrelated with each other. 
+            2. Fisher Score: find a subset of features, such that in the data space spanned by the selected features, the distances between data points in different classes are as large as possible, while the distances between data points in the same class are as small as possible. 
     3. Search methods: identify features that are directly relevant to the prediction problem. Define a search for the K best features outside of the specific learning algorithm. Out of all possible sets of K features, find the set of K features that gives the best performance.
     4. Embedded Methods: utilize prediction accuracy to select features, they do so within the algorithm, add a penalized learning objective that auto does feature selection. e.g. L1-penalized linear regress.
 23. Selecting a complex model and overfitting on the training data can still cause poor performance on the test data, even if you have large and diverse training data. Overfitting occurs when a model learns the noise or random fluctuations in the training data, rather than the underlying patterns or relationships. As a result, the model may perform very well on the training data, but poorly on new, unseen data. While having a large and diverse training dataset can help to reduce the risk of overfitting, it is not a guarantee. In fact, a complex model may be more likely to overfit on a large dataset, as it has more capacity to memorize noise and random fluctuations. To avoid overfitting, it is important to use regularization techniques such as early stopping, dropout, or weight decay. These techniques can help to prevent the model from memorizing noise and improve its ability to generalize to new data.
@@ -80,3 +80,9 @@
     3. Cost-sensitive learning, assign different costs to misclassifying samples in each class
     4. Ensemble method, combine multiple models
     5. Algorithm-specific techniques: decision trees and SVM can deal with imbalanced data. 
+25. Missing data
+    1. delete
+    2. fill the missing values with a 'good' guess, use other data to infer what might missing, use mean or median to replace the missing data. 
+26. Outliers, many ML algorithms are sensitive to severe outliers, on the other hand, outliers sometimes reveal insights into important, though unexpected, properties of our dataset that we might not otherwise notice. If more than 3 standard deivation, it is outliers
+27. 
+    
