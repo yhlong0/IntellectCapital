@@ -84,5 +84,11 @@
     1. delete
     2. fill the missing values with a 'good' guess, use other data to infer what might missing, use mean or median to replace the missing data. 
 26. Outliers, many ML algorithms are sensitive to severe outliers, on the other hand, outliers sometimes reveal insights into important, though unexpected, properties of our dataset that we might not otherwise notice. If more than 3 standard deivation, it is outliers
-27. 
+27. One-hot encoding, instead of 0 for none, 1 for car, 2 for truck, you can create three columns, each column is 0/1 to represent Vehicle_none, Vehicle_car, Vehicle_truck.
+28. Standardization, change all numbers between one standard dievation. Normalization, change everything between 0 and 1. Try both and see which one works better. 
+29. Instead of using age, feature binning create a three categories, young, middle, old. Although the binning process throws away information, it preventing overfitting.
+30. Oversampling the minority class.
+![oversampling](oversampling.jpg) 
+31. SMOTE algorithm
+![smote](smote.jpg) 
     
