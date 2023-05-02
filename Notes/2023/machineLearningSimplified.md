@@ -90,5 +90,5 @@
 30. Oversampling the minority class.
 ![oversampling](oversampling.jpg) 
 31. SMOTE algorithm
-![smote](smote.jpg) 
+![smote1](smote1.jpg) 
     
