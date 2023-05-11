@@ -16,3 +16,7 @@
     - What will be our biggest challenge to getting Production ready, or deploy code to production
     - What are your biggest frustrations about how team is currently run?
     - What is the best thing I can do for you?
+7. You are destined to fail, no matter how good you get at avoiding mistakes, you will always have errors on something as complex as a submarine. You might reduce the number and severity, but there will never be zero. Focusing on avoiding mistakes takes our focus away from becoming truly exceptional. 
+8. Information is channeled up the chain of command to decision makers, instead push it down to where the information lived. Don't move information to authority, move authority to the information. 
+9. Change your own thinking and hope this leads to new behavior, or change your behavior and hope this lead to new thinking.
+10. 
