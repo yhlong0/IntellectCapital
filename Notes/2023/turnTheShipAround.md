@@ -19,4 +19,7 @@
 7. You are destined to fail, no matter how good you get at avoiding mistakes, you will always have errors on something as complex as a submarine. You might reduce the number and severity, but there will never be zero. Focusing on avoiding mistakes takes our focus away from becoming truly exceptional. 
 8. Information is channeled up the chain of command to decision makers, instead push it down to where the information lived. Don't move information to authority, move authority to the information. 
 9. Change your own thinking and hope this leads to new behavior, or change your behavior and hope this lead to new thinking.
-10. 
+10. A little rudder far from the rocks is a lot better than a lot of rudder close to the rocks.
+11. Start saying, "Captain, I intend to ..."
+12. Instead of manage everything more carefully, check team more frequently, more early. The leader should divest the control and has team be aligned with the goal of the organization.
+13. 
