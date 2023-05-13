@@ -22,4 +22,5 @@
 10. A little rudder far from the rocks is a lot better than a lot of rudder close to the rocks.
 11. Start saying, "Captain, I intend to ..."
 12. Instead of manage everything more carefully, check team more frequently, more early. The leader should divest the control and has team be aligned with the goal of the organization.
-13. 
+13. Embrace the inspectors, ask them "I've been having a problem with this. What have you seen other do to solve it?" Inspection teams will find this attitude remarkable and inspectors can be viewed as a mechanism.
+14. Take Deliberate Action, once you so used to a thing or action, you won't engage your brain before you did, you just executing a procedure. Point, Say it, then execute it.
