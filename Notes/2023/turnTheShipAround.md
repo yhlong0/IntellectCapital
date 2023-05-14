@@ -23,4 +23,7 @@
 11. Start saying, "Captain, I intend to ..."
 12. Instead of manage everything more carefully, check team more frequently, more early. The leader should divest the control and has team be aligned with the goal of the organization.
 13. Embrace the inspectors, ask them "I've been having a problem with this. What have you seen other do to solve it?" Inspection teams will find this attitude remarkable and inspectors can be viewed as a mechanism.
-14. Take Deliberate Action, once you so used to a thing or action, you won't engage your brain before you did, you just executing a procedure. Point, Say it, then execute it.
+14. Take Deliberate Action, once you so used to a thing or action, you won't engage your brain before you did, you just executing a procedure. Point, Say it, then execute it. Your guys made the same number of mistakes, but the mistakes never happened because of deliberate action. Either they were corrected by the operator himself or by a teammate.
+15. We found that when people know they will be asked questions they study their responsibilities ahead of time.
+16. Repeat the same message day after day, meeting after meeting, event after event. Old habits are not easy to die, even people are emotionally on board with the change. 
+17. 
