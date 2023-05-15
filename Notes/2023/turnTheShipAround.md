@@ -26,4 +26,10 @@
 14. Take Deliberate Action, once you so used to a thing or action, you won't engage your brain before you did, you just executing a procedure. Point, Say it, then execute it. Your guys made the same number of mistakes, but the mistakes never happened because of deliberate action. Either they were corrected by the operator himself or by a teammate.
 15. We found that when people know they will be asked questions they study their responsibilities ahead of time.
 16. Repeat the same message day after day, meeting after meeting, event after event. Old habits are not easy to die, even people are emotionally on board with the change. 
-17. 
+17. Many org have inspiring early starts and somehow "lose their way" at some later point. Use your legacy for inspiration is a mechanism for clarity. 
+18. Immediate Recognition to reinforce desired behaviors, have awards that are abundant with no limit. 
+19. We'd say "There is no 'they' on Santa Fe", push the boundary to the skin of the ship. 
+20. What it takes for a young employee to say "Boss, you're wrong.". Encourage a questioning attitude over blind obedience. 
+    1. Will your people follow an order that isn't correct?
+    2. Do you want obedience or effectiveness?
+    3. Have you built a culture that embraces a questioning attitude
