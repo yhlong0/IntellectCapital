@@ -6,4 +6,6 @@
 4. Trust is the foundation of the team, if team members lack of debate or interactions during the meetings, it might because of the trust issue.
 5. Teamwork begins by building trust. And the only way to do that is to overcome our need for invulnerability. 
 6. There will always be someone hard to deal with or not follow the ground rule. For the critical rule, don't afraid confront that person and show other team members you care about this rule and repeat to address this if someone not following. e.g. Everyone need to review the PRs, no one use laptop during the meetings. 
-7. page 84
+7. Individual's ego sometimes hurt the team, you need everyone is focus on defined goal/success or results. No matter how good an individual on the team, if the team loses, everyone loses. Just like basketball team.
+8. Break everyone into groups of 2-3 and asked each group to propose a list of results categories that might serve as the team's scoreboard. Don't quantify any of this yet, just create the categories. 
+9. page 91
