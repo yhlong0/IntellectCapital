@@ -8,4 +8,8 @@
 6. There will always be someone hard to deal with or not follow the ground rule. For the critical rule, don't afraid confront that person and show other team members you care about this rule and repeat to address this if someone not following. e.g. Everyone need to review the PRs, no one use laptop during the meetings. 
 7. Individual's ego sometimes hurt the team, you need everyone is focus on defined goal/success or results. No matter how good an individual on the team, if the team loses, everyone loses. Just like basketball team.
 8. Break everyone into groups of 2-3 and asked each group to propose a list of results categories that might serve as the team's scoreboard. Don't quantify any of this yet, just create the categories. 
-9. page 91
+9. Politics is when people choose their words and actions based on how they want others to react rather than based on what they really think.
+10. Absence of trust -> fear of conflict. If people holding back their opinions and honest concerns, the false kind of harmony is a bad thing. Team should will to argue effectively about an issue and then walk away with no collateral damage.
+11. Absence of trust(Invulnerability) -> Fear of conflict(Artificial Harmony) -> Lack of commitment(Ambiguity) -> Avoid of accountability(Low Standards) -> Inattention to results(status and Ego) 
+12. 
+13. page 97
