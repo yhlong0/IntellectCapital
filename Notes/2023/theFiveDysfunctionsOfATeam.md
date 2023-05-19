@@ -11,5 +11,5 @@
 9. Politics is when people choose their words and actions based on how they want others to react rather than based on what they really think.
 10. Absence of trust -> fear of conflict. If people holding back their opinions and honest concerns, the false kind of harmony is a bad thing. Team should will to argue effectively about an issue and then walk away with no collateral damage.
 11. Absence of trust(Invulnerability) -> Fear of conflict(Artificial Harmony) -> Lack of commitment(Ambiguity) -> Avoid of accountability(Low Standards) -> Inattention to results(status and Ego) 
-12. 
+12. It's not easy to hold anyone accountable, not even your own kids. An easy person, a so helpful person, or someone get defensive. You need to challenging each other about what you are doing, how you are spending your time, whether you are making enough progress. This is not lack of trust, trust doesn't mean you don't need to push, trust is when a team member does push, you're doing it because they care about the team and you have to push in a way that doesn't piss people off. Push with respect and assume other person is probably doing the right thing. But push anyway and never hold back. 
 13. page 97
