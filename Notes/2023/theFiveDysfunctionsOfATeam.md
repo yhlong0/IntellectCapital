@@ -16,4 +16,4 @@
 14. When multiple important people left the teams, how do you think the upper manager/the board is going to react? Your job is not to avoid confrontation with the board, you job is to build an executive team that can make this company work.
 15. not to rub salt in someone's wounds.
 16. 
-17. page 201
+17. page 218
