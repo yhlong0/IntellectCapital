@@ -8,6 +8,17 @@
 6. Why deep learning thrive now? 
     1. Hardware: gaming market subsidized supercomputing/GPU for AI application.
     2. Datasets: internet make more data and data is easy to get.  
-    3. Algorithmic advances: 
-8. page 45
-9. page 69
+    3. Algorithmic advances:
+        1. Better activation functions for neural layers
+        2. Better weight-initialization schemes
+        3. Better optimization schemes, such as RMSProp and Adam
+7. Tensor is a container for data, almost always numerical data. 
+    1. Number of axes(rank), matrix has two axes, ndim
+    2. Shape, describes how many dimensions the tensor has along each axis, scalar -> (), matrix -> (3, 5), 3D -> (3, 3, 5)
+    3. Data type, float32, uint8, float 64
+    4. Housing data, Vector data, 2D, (samples, features), (1000, 3), 1000 housing data，every data has three features, bedroom, bathroom, price
+    5. Image data, 4D, (samples, height, width, channels), (500, 28, 28, 3), 500 images, 28 pixels, RGB -> [Red 200, Green 100, Blue 75]
+    6. 
+
+9. page 60
+10. page 69
