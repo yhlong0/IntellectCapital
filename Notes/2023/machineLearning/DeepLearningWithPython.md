@@ -18,7 +18,5 @@
     3. Data type, float32, uint8, float 64
     4. Housing data, Vector data, 2D, (samples, features), (1000, 3), 1000 housing data，every data has three features, bedroom, bathroom, price
     5. Image data, 4D, (samples, height, width, channels), (500, 28, 28, 3), 500 images, 28 pixels, RGB -> [Red 200, Green 100, Blue 75]
-    6. 
-
 9. page 60
 10. page 69
