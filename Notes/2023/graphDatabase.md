@@ -5,5 +5,5 @@
 3. "What products did a customer buy" is relatively cheap compared to "Which customers bought this product?", "Which customers buying this product also bought that product" quickly become prohibitively expensive as the degree of recursion increases. 
 4. To figure out which system down(app, vm, server, db, load balancer) causing user not able to use the system. `MATCH (user:User)-[*1..5]-(asset:Asset) WHERE user.name = 'User 3' AND asset.status = 'down'` This will cover a lot of relationships, user->app, user->app->db, user->app->vm->server and etc.
 5. MERGE, ensuring that if some of which already exist, avoid duplication. 
-6. Labels are first class citizens of the property graph model, we can index nodes with a User label, or add constrain all nodes with a customer label have a unique email property value. 
+6. Labels are first class citizens of the property graph model, we can index nodes with a User label and property values to support efficient node lookup(`CREATE INDEX ON :NodeLabel(name)`), or add constrain all nodes with a customer label have a unique email property value(`CREAET CONSTRAINT ON (c:Country) ASSERT c.name IS UNIQUE`). 
 7. 
