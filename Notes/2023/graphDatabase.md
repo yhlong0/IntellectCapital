@@ -6,4 +6,6 @@
 4. To figure out which system down(app, vm, server, db, load balancer) causing user not able to use the system. `MATCH (user:User)-[*1..5]-(asset:Asset) WHERE user.name = 'User 3' AND asset.status = 'down'` This will cover a lot of relationships, user->app, user->app->db, user->app->vm->server and etc.
 5. MERGE, ensuring that if some of which already exist, avoid duplication. 
 6. Labels are first class citizens of the property graph model, we can index nodes with a User label and property values to support efficient node lookup(`CREATE INDEX ON :NodeLabel(name)`), or add constrain all nodes with a customer label have a unique email property value(`CREAET CONSTRAINT ON (c:Country) ASSERT c.name IS UNIQUE`). 
-7. 
+7. The `WITH` clause allows us to chain together several matches, with the results of the previous query part being **piped** into the next
+8. Our everyday use of language might led us to focus on the verb "emailed" rather than the email itself. Instead created a emailed relationship, we need a email node.
+9. In a graph, to add new facts or compositions, we tend to add new nodes and relationships rather than change the model in place. Adding to the graph using new kinds of relationships will not affect any existing queries. 
