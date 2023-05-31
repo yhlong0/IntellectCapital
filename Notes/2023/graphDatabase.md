@@ -18,4 +18,5 @@
     - which app, services, customers in the network will be affected if a particular network element(routers, switches) fails?
     - Is there redundancy throughout the network for the most important customers?
 15. Do not overuse labels. You should use labels wisely in your data model. They should be used if it will help with most of your use cases. A best practice is to limit the number of labels for a node to 4. Label vs properties => `MATCH (n:US) RETURN n` vs `MATCH (n:Person) WHERE n.country = 'US' RETURN n`, in Cypher, you cannot parameterize labels so keeping the country as a property makes the Cypher code more flexible.
-16. 
+16. Semantically orthogonal labels: labels should have nothing to do with one another. e.g. Person, Organization, Event vs Animal, Mammal, Dog. **You want to avoid labeling your nodes to represent hierarchies**, Create more nodes to represent hierarchies. 
+17. 
