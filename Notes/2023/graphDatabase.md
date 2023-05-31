@@ -17,3 +17,5 @@
     - which parts of the network(vm, routers, switches, fiber) do important customers depends on?
     - which app, services, customers in the network will be affected if a particular network element(routers, switches) fails?
     - Is there redundancy throughout the network for the most important customers?
+15. Do not overuse labels. You should use labels wisely in your data model. They should be used if it will help with most of your use cases. A best practice is to limit the number of labels for a node to 4. Label vs properties => `MATCH (n:US) RETURN n` vs `MATCH (n:Person) WHERE n.country = 'US' RETURN n`, in Cypher, you cannot parameterize labels so keeping the country as a property makes the Cypher code more flexible.
+16. 
