@@ -19,4 +19,6 @@
     - Is there redundancy throughout the network for the most important customers?
 15. Do not overuse labels. You should use labels wisely in your data model. They should be used if it will help with most of your use cases. A best practice is to limit the number of labels for a node to 4. Label vs properties => `MATCH (n:US) RETURN n` vs `MATCH (n:Person) WHERE n.country = 'US' RETURN n`, in Cypher, you cannot parameterize labels so keeping the country as a property makes the Cypher code more flexible.
 16. Semantically orthogonal labels: labels should have nothing to do with one another. e.g. Person, Organization, Event vs Animal, Mammal, Dog. **You want to avoid labeling your nodes to represent hierarchies**, Create more nodes to represent hierarchies. 
-17. 
+17. Should you put a state property for location Node, or should you create a node to hold all state and build a relationship is depends on how you query your data. If you have a need to filter by state, create a seperate state node will reduce the number of nodes you need to find for the initial state. 
+18. Relationships are cheap you can use it to build fast query, if you want to know person `acted_in` movies in 1995, you can create a special relationship `acted_in_1995` to quickly get all the data.
+19. 
