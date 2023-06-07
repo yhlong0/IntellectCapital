@@ -22,6 +22,8 @@
 10. Unsupervised learning is the bread and butter of data analytics, and it's often a necessary step in better understanding a dataset before attempting to solve a supervised-learning problem. Dimensionality reduction and clustering are well-known categories of unsupervised learning.
 11. Self-supervised learning: supervised learning without human-annotated labels, without any humans in the loop, using heuristic algorithm. For example, Autoencoder given past frames, trying to predict the next frame, or the next word in a text. The distinction between supervised, self-supervised, and unsupervised learning can be blurry sometimes.
 12. Reinforcement learning: an agent receives information about its environment and learns to choose actions that will maximize some reward. For instance, a neural network that looks at a video game screen and outputs game actions in order to maximize its score can be trained via reinforcement learning. 
-13. 
-14. page 118
-15. page 124
+13. If you expecting missing values in the test data, but the network was trained on data without any missing values, the network won't have learned to ignore missing values! In this situation, you should artificially generate training samples with missing entries: copy some training samples and drop some of the features that you expect are likely to be missing in the test data.
+14. Calculate the model capacity by layers * filters(ask chatgpt for detail calculation) to get a trainable parameters. Compare this with training set to know if you are overfit. 
+15. Small network starts overfitting later than powerful network, and its performance(loss validation) degrades more slowly once it starts overfiting(degrades after more epochs).
+16. page 129
+17. page 153
