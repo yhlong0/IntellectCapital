@@ -18,15 +18,22 @@
     3. Data type, float32, uint8, float 64
     4. Housing data, Vector data, 2D, (samples, features), (1000, 3), 1000 housing data，every data has three features, bedroom, bathroom, price
     5. Image data, 4D, (samples, height, width, channels), (500, 28, 28, 3), 500 images, 28 pixels, RGB -> [Red 200, Green 100, Blue 75]
-9. When you design your layer, you need to consider the number of output class, each layer can only access information present in the output of the previous layer. If one layer drops some information relevant to the classification problem, this information can never be recovered by later layers(onformation bottleneck).
-10. Unsupervised learning is the bread and butter of data analytics, and it's often a necessary step in better understanding a dataset before attempting to solve a supervised-learning problem. Dimensionality reduction and clustering are well-known categories of unsupervised learning.
-11. Self-supervised learning: supervised learning without human-annotated labels, without any humans in the loop, using heuristic algorithm. For example, Autoencoder given past frames, trying to predict the next frame, or the next word in a text. The distinction between supervised, self-supervised, and unsupervised learning can be blurry sometimes.
-12. Reinforcement learning: an agent receives information about its environment and learns to choose actions that will maximize some reward. For instance, a neural network that looks at a video game screen and outputs game actions in order to maximize its score can be trained via reinforcement learning. 
-13. If you expecting missing values in the test data, but the network was trained on data without any missing values, the network won't have learned to ignore missing values! In this situation, you should artificially generate training samples with missing entries: copy some training samples and drop some of the features that you expect are likely to be missing in the test data.
-14. Calculate the model capacity by layers * filters(ask chatgpt for detail calculation) to get a trainable parameters. Compare this with training set to know if you are overfit. 
-15. Small network starts overfitting later than powerful network, and its performance(loss validation) degrades more slowly once it starts overfiting(degrades after more epochs).
-16. Dropout: inspired by a fraud-prevention mechanism used by banks, the tellers kept changing or got moved around a lot, this avoid cooperation between employees to fraud the bank, randomly removing a different subset of neurons on each example would prevent conspiracies and thus reduce overfitting. Introducing noise in the output values of a layer can break up happenstance patterns that aren't significant, which the network will start memorizing if no noise is present. 
-17. When you see that the model's performance on the validation data begins to degrade, you've achieved overfiting. 
-18. 
-19. page 144
-20. page 164
+9. **Convolutional layers**(feature extraction) -> Pooling layers(down sampling) -> Flatten layer(3D to 1D) -> Dense layer(s)(classifier)
+10. **Pooling layers**(Max pooling / average pooling): 
+     - Dimensionality reduction, reduce spatial dimensions, reduce the computational cost. particularly useful in deep networks with many layers. 
+     - Can provide a form of translation invariance, robust to small changes or shifts in the input image.
+     - Providing a form of abstraction of the input, prevent overfitting, regularization. 
+11. **Flatten layer**: convolution and pooling layers output is a 3D tensor(height, width, channels), but the dense layers expect input in one dimension(a vector). The flatten layer is used to transition between these two parts of the network, reshapes the 3D output tensor into a 1D tensor.
+12. **Dense layer**: use features from convolutional and pooling layers to perform actual classification. Each neuron in a dense layers has fully connected to previous layer, which is why they also known as fully connected layers. Several dense layer continues the pattern recognition task, the final dense layer often equals the number of target classes. 
+13. When you design your layer, you need to consider the number of output class, each layer can only access information present in the output of the previous layer. If one layer drops some information relevant to the classification problem, this information can never be recovered by later layers(onformation bottleneck).
+14. Unsupervised learning is the bread and butter of data analytics, and it's often a necessary step in better understanding a dataset before attempting to solve a supervised-learning problem. Dimensionality reduction and clustering are well-known categories of unsupervised learning.
+15. Self-supervised learning: supervised learning without human-annotated labels, without any humans in the loop, using heuristic algorithm. For example, Autoencoder given past frames, trying to predict the next frame, or the next word in a text. The distinction between supervised, self-supervised, and unsupervised learning can be blurry sometimes.
+16. Reinforcement learning: an agent receives information about its environment and learns to choose actions that will maximize some reward. For instance, a neural network that looks at a video game screen and outputs game actions in order to maximize its score can be trained via reinforcement learning. 
+17. If you expecting missing values in the test data, but the network was trained on data without any missing values, the network won't have learned to ignore missing values! In this situation, you should artificially generate training samples with missing entries: copy some training samples and drop some of the features that you expect are likely to be missing in the test data.
+18. Calculate the model capacity by layers * filters(ask chatgpt for detail calculation) to get a trainable parameters. Compare this with training set to know if you are overfit. 
+19. Small network starts overfitting later than powerful network, and its performance(loss validation) degrades more slowly once it starts overfiting(degrades after more epochs).
+20. Dropout: inspired by a fraud-prevention mechanism used by banks, the tellers kept changing or got moved around a lot, this avoid cooperation between employees to fraud the bank, randomly removing a different subset of neurons on each example would prevent conspiracies and thus reduce overfitting. Introducing noise in the output values of a layer can break up happenstance patterns that aren't significant, which the network will start memorizing if no noise is present. 
+21. When you see that the model's performance on the validation data begins to degrade, you've achieved overfiting. 
+22. 
+23. page 144
+24. page 164
