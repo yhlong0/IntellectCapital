@@ -44,5 +44,5 @@
 29. Dropout: inspired by a fraud-prevention mechanism used by banks, the tellers kept changing or got moved around a lot, this avoid cooperation between employees to fraud the bank, randomly removing a different subset of neurons on each example would prevent conspiracies and thus reduce overfitting. Introducing noise in the output values of a layer can break up happenstance patterns that aren't significant, which the network will start memorizing if no noise is present. 
 30. When you see that the model's performance on the validation data begins to degrade, you've achieved overfiting. 
 31. 
-32. page 166
+32. page 176
 33. page 206
