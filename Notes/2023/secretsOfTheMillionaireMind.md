@@ -1,0 +1,8 @@
+# Secrets of the Millionaire Mind
+
+1. If you're not doing as well as you'd like, all that means is there's something you don't know. You thought you knew pretty well everything, but your bank account said something different. So you better began to listen, how rich people think.
+2. If things aren't going well in your outer life, it's because things aren't going well in your inner life. 
+3. Have you noticed how some people have a lot of money and then lose it? On the outside it looks like bad luck, bad economy, a lousy partner, whatever, on the inside, if you come into big money when you're not ready for it on the inside, the chances are your wealth will be short-lived and you will lose it.
+4. Money is a result, wealth is a result, health is a result, illness is a result, your weight is a result. We live in a world of cause and effect. 
+5. Have you ever heard someone assert that a lack of money was a bit of a problem? A lack of money is never, ever a problem. A lack of money is merely a symptom of what is going on underneath.  
+6. When you see other people make a lot of money and you come up with negative thought, resentment about the person, before the energy took you over, cancel the thought, drown out that voice of resentment. Turn around and say you rock! you should've got more money, good for you, you're incredible and you deserve it. The problem is not other people got rich, the problem is you, your opinions make no difference to rich people's happiness or wealth, but rich people do make a difference to your happiness and wealth. Thoughts enter your mind and be empowering or disempowering to your happiness and success. 
