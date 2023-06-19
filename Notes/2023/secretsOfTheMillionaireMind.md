@@ -9,3 +9,4 @@
 7. Never have a ceiling on your income, if you choose to get paid for your time, you are pretty much killing your chances for wealth. Talk to your boss, get paid by specific result, commission. percentage of revenue. 
 8. If you want to create wealth, it is imperative that you believe that you are at the steering wheel of your life, especially your financial life. 
 9. Never complain, because you complain that your life is so crappy, shut up.. and don't stand near me! Negative energy is infectious, **I promise for the next month, to not complain at all, not just out loud, but in my head as well**. don't blame others, no need to justifying or give execuse. 
+10. If your goal is to be comfortable, chances are you'll never get rich. But if your goal is to be rich, chances are you'll end up mighty comfortable.
