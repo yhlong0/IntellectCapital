@@ -10,4 +10,8 @@
 8. If you want to create wealth, it is imperative that you believe that you are at the steering wheel of your life, especially your financial life. 
 9. Never complain, because you complain that your life is so crappy, shut up.. and don't stand near me! Negative energy is infectious, **I promise for the next month, to not complain at all, not just out loud, but in my head as well**. don't blame others, no need to justify or give excuses. 
 10. If your goal is to be comfortable, chances are you'll never get rich. But if your goal is to be rich, chances are you'll end up mighty comfortable.
-11. 
+11. The purpose of our lives is to add value to the people of this generation and those that follow.
+12. If you want to get rich, focus on making, keeping, and investing your money. If you want to be poor, focus on spending your money.
+13. Don't bother trying to get negative people to change, That's not your job. Your job is to use what you've learned to better yourself and your life. Be the model, be successful, be happy, then maybe--they'll see the light in you and want some of it. Energy is contagious. If you can remain true to your values while others around you are full of doubt and even condemnation, you'll grow faster and stronger. Practice reframing other people's negativity as a reminder of how not to be. The more negative they are, the more reminders you have. Don't tell them this, just do it without condemning them for how they are. If you begin to judge, criticize and put them down for who they are and what they do, then you are no better than them.
+14. Birds of a feather flock together.
+15. 
