@@ -15,4 +15,5 @@
 13. Don't bother trying to get negative people to change, That's not your job. Your job is to use what you've learned to better yourself and your life. Be the model, be successful, be happy, then maybe--they'll see the light in you and want some of it. Energy is contagious. If you can remain true to your values while others around you are full of doubt and even condemnation, you'll grow faster and stronger. Practice reframing other people's negativity as a reminder of how not to be. The more negative they are, the more reminders you have. Don't tell them this, just do it without condemning them for how they are. If you begin to judge, criticize and put them down for who they are and what they do, then you are no better than them.
 14. Birds of a feather flock together.
 15. The size of the problem is never the issue--what matters is the size of you! If you have a big problem in your life, all that means is that you are being a small person! Stop focusing on the size of your problems and start focusing on the size of you!
-16. 
+16. Any money you find or receive should enthusiastically be celebrated. "I'm a money magnet, Thank you!" This goes for money you find on the ground, for money you get as a gift, the universe is set up to support you(outside) and give you more money if your mind believes you are a money magnet(inside).
+17. 
