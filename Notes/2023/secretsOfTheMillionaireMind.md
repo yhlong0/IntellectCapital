@@ -16,4 +16,8 @@
 14. Birds of a feather flock together.
 15. The size of the problem is never the issue--what matters is the size of you! If you have a big problem in your life, all that means is that you are being a small person! Stop focusing on the size of your problems and start focusing on the size of you!
 16. Any money you find or receive should enthusiastically be celebrated. "I'm a money magnet, Thank you!" This goes for money you find on the ground, for money you get as a gift, the universe is set up to support you(outside) and give you more money if your mind believes you are a money magnet(inside).
-17. 
+17. When it comes to money, people in our society typically ask, "How much do you make?" Seldom do you hear the question "What is your net worth?"
+18. Poor people work hard and spend all their money, which results in their having to work hard forever. Rich people work hard, save, and then invest their money so they never have to work hard again.
+19. Get off the salary treadmill and ask to be paid based fully or partially on your performance.
+20. Don't wait to buy real estate, buy real estate and wait.
+21. Rich people act in spite of fear, poor people let fear stop them. Thoughts lead to feelings, feelings lead to actions, actions lead to results. There are tons of tools(affirmations, visualizations, meditations), but none of them on its own is going to bring you real money. Thoughts and feelings are inner world, results are the outer world. Action is the "bridge" between the inner world and the outer world. 
