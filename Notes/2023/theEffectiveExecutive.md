@@ -13,4 +13,8 @@
 7. Focus on opportunities rather than problems. Problems have to be taken care of, but problem-solving does not produce results. It prevents damage. Exploiting opportunities produces results.
 8. During the war, if these men don't know what to do when they run into an enemy in the jungle, I'm too far away to tell them. My job is to make sure they know. What they do depends on the situation which only they can judge. The responsibility is always mine, but the decision lies with whoever is on the spot.
 9. The executive's time tends to belong to everybody else.
-10. 
+10. The truly important events on the outside are not the trends. They are changes in the trends.
+11. Delegation in management, It is wrong that somebody else ought to do "my work", the laziest manager is the best manager, it is not only nonsense, it is immoral. The executive needs enough time to do the things he considers important, wants to do, and is committed to doing. The only way he can get to the important things is by pushing on others anything that can be done by them at all.
+12. Learn to say "no" if an activity contributes nothing to one's own organization, to oneself.
+13. Ask other people what do I do that wastes your time without contributing to your effectiveness.
+14. A workforce may indeed be too small for the task, and the work then suffers, if it gets done at all. But much more common is the workforce that is too big for effectiveness, the workforce that spends an increasing amount of its time "interacting" rather than working.
