@@ -8,7 +8,8 @@
 6. Don't buy a company that loses money in a down cycle.
 7. Don't buy a company that buybacks and has no sales growth.
 8. Don't buy a company that has a high ROE where the top line isn't at least 10 percent.
-9. 
+9. Undervaluation is defined by short-term accounting metrics - low price-to-book, low price-to-cash flow, low price-earnings.
+10. 
 
 
 
