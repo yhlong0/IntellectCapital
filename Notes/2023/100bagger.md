@@ -9,7 +9,10 @@
 7. Don't buy a company that buybacks and has no sales growth.
 8. Don't buy a company that has a high ROE where the top line isn't at least 10 percent.
 9. Undervaluation is defined by short-term accounting metrics - low price-to-book, low price-to-cash flow, low price-earnings.
-10. Stick with the owner-operators, founder holds the majority of the stock. 
+10. Stick with the owner-operators, the founder holds the majority of the stock.
+11. High gross margins are the most important single factor of long-run performance. A company started with a high gross profit margin, it tended to keep it. Conversely, when it started off with a low gross profit margin, it tended to stay there as well. For SG & A(selling, general, and administrative = overhead), are volatile, A good turnaround candidate would be a high gross profit margin and high operating cost(a low operating margin). The operating cost is easier to fix than the gross profit margin. The higher the gross margin relative to the competition, the better.
+12. Investors tend to like to "buy more lobsters as the price goes up."
+13. Best to keep management at a distance, reading conference-call transcripts is better than listening to them. Read several quarters at a time to look for disappearing initiatives, and changes in language. Pay attention, are questions ever evaded? Which ones?
 
 
 
