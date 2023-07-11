@@ -13,6 +13,14 @@
 11. High gross margins are the most important single factor of long-run performance. A company started with a high gross profit margin, it tended to keep it. Conversely, when it started off with a low gross profit margin, it tended to stay there as well. For SG & A(selling, general, and administrative = overhead), are volatile, A good turnaround candidate would be a high gross profit margin and high operating cost(a low operating margin). The operating cost is easier to fix than the gross profit margin. The higher the gross margin relative to the competition, the better.
 12. Investors tend to like to "buy more lobsters as the price goes up."
 13. Best to keep management at a distance, reading conference-call transcripts is better than listening to them. Read several quarters at a time to look for disappearing initiatives, and changes in language. Pay attention, are questions ever evaded? Which ones?
+14. A messy, indecipherable disclosures are clues to stay away.
+15. When looking at it economic GDP forecast, the consensus always forecasts a middle ground. However, the extremes are where you make(or lose) a lot of money. Consensus forecasts aren't worth much, whether right or not.
+16. Over the course of an investing life, stuff is going to happen, both good and bad, that no one saw coming. Instead of playing the guessing game, focus on the opportunities in front of you.
+17. In essence, hunting for 100-baggers is completely independent of whatever is happening in the market.
+18. General markets tend to come back strongly in periods subsequent to price crashes. That was the case in 1932, 1937, 1962, 1974-75, 1980-82, 1987, 2001-2002, 2007-2008. But here's the hitch, not all stocks are likely to come back.
+     1. Overpriced stock
+     2. Permanent impairment, a firm goes out of business, a significant loss, or no longer capable of doing what it once was.
+     3. Subject to massive dilution during the meltdown, the company issues a bunch of new shares to raise money to cover losses or pay back debt. It's like adding water to your beer and sharing it. 
 
 
 
