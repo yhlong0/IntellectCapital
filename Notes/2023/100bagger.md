@@ -20,7 +20,9 @@
 18. General markets tend to come back strongly in periods subsequent to price crashes. That was the case in 1932, 1937, 1962, 1974-75, 1980-82, 1987, 2001-2002, 2007-2008. But here's the hitch, not all stocks are likely to come back.
      1. Overpriced stock
      2. Permanent impairment, a firm goes out of business, a significant loss, or no longer capable of doing what it once was.
-     3. Subject to massive dilution during the meltdown, the company issues a bunch of new shares to raise money to cover losses or pay back debt. It's like adding water to your beer and sharing it. 
+     3. Subject to massive dilution during the meltdown, the company issues a bunch of new shares to raise money to cover losses or pay back debt. It's like adding water to your beer and sharing it.
+19. 2008 was a good fortune in disguise that allowed investors to pick up new holdings on the cheap. It's good to have cash and not be afraid to buy when things look bad.
+20. You only have so much time and so many resources to devote to stock research. Focus your effort on the biggest game: The elephants. When looking for the biggest game, be not tempted to shoot at anything small. 
 
 
 
