@@ -22,7 +22,10 @@
      2. Permanent impairment, a firm goes out of business, a significant loss, or no longer capable of doing what it once was.
      3. Subject to massive dilution during the meltdown, the company issues a bunch of new shares to raise money to cover losses or pay back debt. It's like adding water to your beer and sharing it.
 19. 2008 was a good fortune in disguise that allowed investors to pick up new holdings on the cheap. It's good to have cash and not be afraid to buy when things look bad.
-20. You only have so much time and so many resources to devote to stock research. Focus your effort on the biggest game: The elephants. When looking for the biggest game, be not tempted to shoot at anything small. 
+20. You only have so much time and so many resources to devote to stock research. Focus your effort on the biggest game: The elephants. When looking for the biggest game, be not tempted to shoot at anything small.
+21. If a company doubles its sales, but also doubles the shares outstanding, that's no good. You want to **focus on growth in sales and earnings per share**.
+22. Let's say you pay 50 times earnings for a company that generated $1 in earnings last year. Think what you need to happen to make it a 100-bagger. You need earnings to go up a hundredfold and you need the price-earning ratio to stay where it is at 50. If the PE falls to 25, then you need earnings to raise 200-fold.
+23. 
 
 
 
