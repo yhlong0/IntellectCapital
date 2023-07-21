@@ -18,3 +18,4 @@
 7. It's easy to make a list of chores we expected the child to do and the way we expected them to be done, but what would the child really be learning? Was our ultimate goal to teach him how to make a bed perfectly, or was it something deeper--teaching him how to navigate living in a shared space with others? And if the latter, why would I focus on a well-made bed?
 8. 
 9.  page 130
+10.  page 145
