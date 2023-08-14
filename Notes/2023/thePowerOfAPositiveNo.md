@@ -15,4 +15,5 @@
 10. If the other's reaction to our No is to hurt or threaten us, our first instinct may be to hurt them back, A more effective strategy is to neutralize the impact of their behavior, don't hit Zen master back, just take away the stick, simply remove their ability to attack you. Difficult customer who makes an unreasonable demand, if you say no, the customer gets angry and goes over your head to your boss. Speak to your boss in advance and explain, and ask your boss to refer the customer politely back to you. And give your customer your boss number.
 11. Never take a person's dignity, it is worth everything to them and nothing to you. People could be a jerk or criminals, but for your own sake, safety, and interest, at least respect them as a human(hostage negotiators).
 12. How to respect? Listen to understand, not to refute. Ask clarifying questions, acknowledge the other's point of view, let them know you value them, and surprise them with recognition.
-13. 
+13. Stick to the facts, Avoid words: should, always, everything. When situation X happens, I feel Y.., Because I want or need Z.
+14. 
