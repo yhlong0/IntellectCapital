@@ -16,4 +16,10 @@
 11. Never take a person's dignity, it is worth everything to them and nothing to you. People could be a jerk or criminals, but for your own sake, safety, and interest, at least respect them as a human(hostage negotiators).
 12. How to respect? Listen to understand, not to refute. Ask clarifying questions, acknowledge the other's point of view, let them know you value them, and surprise them with recognition.
 13. Stick to the facts, Avoid words: should, always, everything. When situation X happens, I feel Y.., Because I want or need Z.
-14. 
+14. I make it a personal policy never to lend money to friends.
+15. When people invite you to a party, I have another commitment or plan.
+16. **Not now**, when customers ask to build a feature, if not now, when? I can't say, we'll have to see. If you need an answer right now, the answer is No.
+17. I prefer to decline rather than do a poor job.
+18. When two kids fight, "Hold on/Whoa/Wait a minute!/Timeout"
+19. As you close one door, open another, invent options for mutual gain. Suggest a problem-solving process, if ... then, not now, later,
+20. Make your request clear, feasible, and respectful.
