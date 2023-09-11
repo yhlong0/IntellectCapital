@@ -7,4 +7,8 @@
 5. If you think you can or you think you can't, well, you're right.
 6. Early-stage passion doesn't look like late-stage passion. We usually imagine LeBron James hard-scowling his way to some backboard rattling(篮板抖动的声音) thunder dunk, or Einstein wild-haired at the blackboard, brain rattling off(快速回忆，回想) equations. Actually, for LeBron, early-stage passion looked like a little kid standing in front of a big hoop, trying to get his shots to drop. On the front end, passion is nothing more than multiple curiosities coupled with a few wins. 
 7. The ultimate goal may be to "get obsessed, stay obsessed," but our journey begins with "get curious, stay curious."
-8. Passion isn't always pleasant. Quite often, passion feels like frustration on the inside and looks like obsession from the outside. You must learn to tolerate an enormous amount of anxiety and overwhelm. Passion doesn't make us gritty, it makes us able to tolerate all the negative emotions produced by grit. 
+8. Passion isn't always pleasant. Quite often, passion feels like frustration on the inside and looks like obsession from the outside. You must learn to tolerate an enormous amount of anxiety and overwhelm. Passion doesn't make us gritty, it makes us able to tolerate all the negative emotions produced by grit.
+9. At the elite level, talent and ability are mostly equal. The difference is in the head. High performance is 90 percent mental. And most of that mental edge comes from being able to control your thoughts.
+10. There are only two kinds of thoughts, those that constrict us or those that expand us. This sucks. I can't handle this. Why is my life so unfair. They shrink your options and abilities. Positive thoughts move in the other direction. I choose to be here. I've got this.
+11. A daily gratitude practice alters the brain's negativity bias. It essentially trains to take in more positive information.
+12. 
