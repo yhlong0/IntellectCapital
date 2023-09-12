@@ -11,4 +11,4 @@
 9. At the elite level, talent and ability are mostly equal. The difference is in the head. High performance is 90 percent mental. And most of that mental edge comes from being able to control your thoughts.
 10. There are only two kinds of thoughts, those that constrict us or those that expand us. This sucks. I can't handle this. Why is my life so unfair. They shrink your options and abilities. Positive thoughts move in the other direction. I choose to be here. I've got this.
 11. A daily gratitude practice alters the brain's negativity bias. It essentially trains to take in more positive information.
-12. 
+12. Fear is a fantastic motivator. This is why learning to treat fear as a challenge to rise toward rather than a threat to be avoided can make such a profound difference in our lives.
