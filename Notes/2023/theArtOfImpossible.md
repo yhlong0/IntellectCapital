@@ -9,6 +9,8 @@
 7. The ultimate goal may be to "get obsessed, stay obsessed," but our journey begins with "get curious, stay curious."
 8. Passion isn't always pleasant. Quite often, passion feels like frustration on the inside and looks like obsession from the outside. You must learn to tolerate an enormous amount of anxiety and overwhelm. Passion doesn't make us gritty, it makes us able to tolerate all the negative emotions produced by grit.
 9. At the elite level, talent and ability are mostly equal. The difference is in the head. High performance is 90 percent mental. And most of that mental edge comes from being able to control your thoughts.
-10. There are only two kinds of thoughts, those that constrict us or those that expand us. This sucks. I can't handle this. Why is my life so unfair. They shrink your options and abilities. Positive thoughts move in the other direction. I choose to be here. I've got this.
+10. There are only two kinds of thoughts, those that constrict us or those that expand us. This sucks. I can't handle this. Why is my life so unfair? They shrink your options and abilities. Positive thoughts move in the other direction. I choose to be here. I've got this.
 11. A daily gratitude practice alters the brain's negativity bias. It essentially trains to take in more positive information.
 12. Fear is a fantastic motivator. This is why learning to treat fear as a challenge to rise toward rather than a threat to be avoided can make such a profound difference in our lives.
+13. It's our attempt to avoid the fear that's so uncomfortable. But once you actually put your full attention on the sensation of fear, it dissipates. Look at fear as excitement or as an emotion designed to help you focus. 
+14. 
