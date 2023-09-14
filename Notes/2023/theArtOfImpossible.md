@@ -13,4 +13,4 @@
 11. A daily gratitude practice alters the brain's negativity bias. It essentially trains to take in more positive information.
 12. Fear is a fantastic motivator. This is why learning to treat fear as a challenge to rise toward rather than a threat to be avoided can make such a profound difference in our lives.
 13. It's our attempt to avoid the fear that's so uncomfortable. But once you actually put your full attention on the sensation of fear, it dissipates. Look at fear as excitement or as an emotion designed to help you focus. 
-14. 
+14. Traning to be at your best when you're at your worst requires practicing under conditions of extreme duress. The second half involves training your weaknesses. Even if you practice under pressure, there will always be a few weak links in that chain. And these potential fail points become actual fail points once the pressure gets turned up. 
