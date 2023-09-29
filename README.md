@@ -1,5 +1,5 @@
 # Investment
-Useful investment resources 
+The best investment you can make is in yourself
 
 1. [Ideas](./ideas.md)
 2. [Mottos](./mottos.md)
