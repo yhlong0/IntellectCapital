@@ -1,7 +1,7 @@
 # IntellectCapital
 The best investment you can make is in yourself
 
-1. [Book Notes](./notes)
+1. [Book Notes](./Notes)
 2. [Ideas](./ideas.md)
 3. [Mottos](./mottos.md)
 4. [Knowledge Base](./kb.md)
