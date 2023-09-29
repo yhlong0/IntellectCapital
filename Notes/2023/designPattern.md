@@ -52,7 +52,6 @@ public class Main {
         processor.executePayment(200.00);
     }
 }
-
-
 ```
+When you have a group of behaviors would change depending on context(all ducks make sounds, but different sounds). Instead of putting methods in superclass and child inherited then overriding them one by one, some of the overrides would be the same(wood duck and steel duck both not making sounds). Strategy Pattern is good for solving this.
 2. 
