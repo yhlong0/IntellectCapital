@@ -5,8 +5,10 @@
     - Encapsulate what varies
     - Favor Composition over Inheritance
     - Program to interfaces, not implementation
-3. OO Patterns: Strategy Pattern,
-4. Strategy Pattern: Defining an interface, abstract class (Strategy) that represents a family of behaviors or methods(Algorithms). Concrete implementations of this interface represent specific behaviors, functions, or methods. By programming to the interface rather than to a specific implementation, you can switch out one behavior for another at runtime without changing the calling code.
+    - Strive for loosely coupled designs between objects that interact
+    - Class should be closed for modification but open for extension.
+    - 
+3. Strategy Pattern: Defining an interface, abstract class (Strategy) that represents a family of behaviors or methods(Algorithms). Concrete implementations of this interface represent specific behaviors, functions, or methods. By programming to the interface rather than to a specific implementation, you can switch out one behavior for another at runtime without changing the calling code.
 ```java
 // Define the Strategy(interface)
 public interface PaymentStrategy {
@@ -60,4 +62,108 @@ public class Main {
 }
 ```
 When you have a group of behaviors would change depending on context(all ducks make sounds, but different sounds). Instead of putting methods in superclass and child inherited then overriding them one by one, some of the overrides would be the same(wood duck and steel duck both not making sounds). Strategy Pattern is good for solving this.
-5. 
+5. Observer Pattern: defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically. 
+```csharp
+// Observer interface
+public interface IObserver
+{
+    void Update(float temperature, float humidity, float pressure);
+}
+
+// Subject interface
+public interface ISubject
+{
+    void RegisterObserver(IObserver o);
+    void RemoveObserver(IObserver o);
+    void NotifyObservers();
+}
+
+public class WeatherStation : ISubject
+{
+    private List<IObserver> observers;
+    private float temperature;
+    private float humidity;
+    private float pressure;
+
+    public WeatherStation()
+    {
+        observers = new List<IObserver>();
+    }
+
+    public void RegisterObserver(IObserver o)
+    {
+        observers.Add(o);
+    }
+
+    public void RemoveObserver(IObserver o)
+    {
+        observers.Remove(o);
+    }
+
+    public void NotifyObservers()
+    {
+        foreach (var observer in observers)
+        {
+            observer.Update(temperature, humidity, pressure);
+        }
+    }
+
+    public void MeasurementsChanged()
+    {
+        NotifyObservers();
+    }
+
+    public void SetMeasurements(float temperature, float humidity, float pressure)
+    {
+        this.temperature = temperature;
+        this.humidity = humidity;
+        this.pressure = pressure;
+        MeasurementsChanged();
+    }
+}
+
+public class CurrentConditionsDisplay : IObserver
+{
+    private float temperature;
+    private float humidity;
+    private ISubject weatherStation;
+
+    public CurrentConditionsDisplay(ISubject weatherStation)
+    {
+        this.weatherStation = weatherStation;
+        weatherStation.RegisterObserver(this);
+    }
+
+    public void Update(float temperature, float humidity, float pressure)
+    {
+        this.temperature = temperature;
+        this.humidity = humidity;
+        Display();
+    }
+
+    public void Display()
+    {
+        Console.WriteLine($"Current conditions: {temperature}F degrees and {humidity}% humidity");
+    }
+}
+
+// ... You can create more displays like `StatisticsDisplay`, `ForecastDisplay`, etc.
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        WeatherStation weatherStation = new WeatherStation();
+
+        CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherStation);
+
+        weatherStation.SetMeasurements(80, 65, 30.4f);  // This should update the `currentDisplay` automatically
+        // ... Add more measurements and displays as needed
+    }
+}
+```
+6. Decorator Pattern: Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality. 
+7. page 126
+
+
+
