@@ -162,8 +162,74 @@ class Program
     }
 }
 ```
-6. Decorator Pattern: Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality. 
-7. page 126
+6. Decorator Pattern: Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+```csharp
+public abstract class Coffee
+{
+    public abstract double Cost();
+}
+
+public class SimpleCoffee : Coffee
+{
+    public override double Cost()
+    {
+        return 5.0;
+    }
+}
+
+public abstract class CoffeeDecorator : Coffee
+{
+    protected Coffee _coffee;
+    
+    public CoffeeDecorator(Coffee coffee)
+    {
+        _coffee = coffee;
+    }
+    
+    public override double Cost()
+    {
+        return _coffee.Cost();
+    }
+}
+
+// Implement concrete decorators (add-ons for the coffee)
+public class MilkDecorator : CoffeeDecorator
+{
+    public MilkDecorator(Coffee coffee) : base(coffee) { }
+
+    public override double Cost()
+    {
+        return _coffee.Cost() + 2.0;
+    }
+}
+
+public class SugarDecorator : CoffeeDecorator
+{
+    public SugarDecorator(Coffee coffee) : base(coffee) { }
+
+    public override double Cost()
+    {
+        return _coffee.Cost() + 1.0;
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        Coffee simpleCoffee = new SimpleCoffee();
+
+        Coffee milkCoffee = new MilkDecorator(simpleCoffee);
+        Console.WriteLine($"Cost of milk coffee: {milkCoffee.Cost()}");
+
+        Coffee sugarMilkCoffee = new SugarDecorator(milkCoffee);
+        Console.WriteLine($"Cost of sugar milk coffee: {sugarMilkCoffee.Cost()}");
+    }
+}
+
+```
+7. 
+8. page 126
 
 
 
