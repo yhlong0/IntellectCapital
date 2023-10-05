@@ -228,9 +228,168 @@ public class Program
 }
 
 ```
-7. 
-8. page 126
-9. page 155
+7. The Factory Pattern: to provide an interface for creating objects but allowing subclasses to alter the type of objects that will be created.
+    - Simple Factory: a simple way to encapsulate the logic for object creation, if you ever need to make changes to the creation logic (e.g., add a new type of pizza), you won’t have to modify the code everywhere the objects are being created, just the factory.
+    - Factory Method Pattern: define an interface for creating objects, but it's derived class to implement the method and decide which class to instantiate. In other words, instead of calling a constructor directly to create an object, a method is used to create the object, and subclasses decide which class to instantiate.
+```csharp
+# simple factory
+
+public class Pizza
+{
+    public string Type { get; set; }
+    // ... other properties and methods like Bake, Cut, Box etc.
+}
+
+public class NYPizza : Pizza
+{
+    public NYPizza()
+    {
+        Type = "New York Style Pizza";
+    }
+    // ... other specific properties or methods for NY Pizza
+}
+
+public class CaliforniaPizza : Pizza
+{
+    public CaliforniaPizza()
+    {
+        Type = "California Style Pizza";
+    }
+    // ... other specific properties or methods for California Pizza
+}
+
+public class SimplePizzaFactory
+{
+    public Pizza CreatePizza(string type)
+    {
+        Pizza pizza = null;
+        if (type == "NY")
+        {
+            pizza = new NYPizza();
+        }
+        else if (type == "California")
+        {
+            pizza = new CaliforniaPizza();
+        }
+        return pizza;
+    }
+}
+
+public class PizzaStore
+{
+    SimplePizzaFactory factory;
+
+    public PizzaStore(SimplePizzaFactory factory)
+    {
+        this.factory = factory;
+    }
+
+    public Pizza OrderPizza(string type)
+    {
+        Pizza pizza;
+
+        pizza = factory.CreatePizza(type);
+
+        // These are hypothetical methods that every Pizza might have
+        pizza.Prepare();
+        pizza.Bake();
+        pizza.Cut();
+        pizza.Box();
+
+        return pizza;
+    }
+}
+
+var factory = new SimplePizzaFactory();
+var store = new PizzaStore(factory);
+
+Pizza myNYPizza = store.OrderPizza("California");
+Console.WriteLine($"Ordered a {myPizza.Type}");
+
+Pizza myCAPizza = store.OrderPizza("NY");
+Console.WriteLine($"Ordered a {myPizza.Type}");
+
+# Factory Method Pattern
+
+public abstract class Pizza
+{
+    public string Name { get; set; }
+    // ... other properties and methods like Prepare, Bake, Cut, Box
+}
+
+public class NYCheesePizza : Pizza
+{
+    public NYCheesePizza()
+    {
+        Name = "New York Style Cheese Pizza";
+    }
+}
+
+public class CaliforniaCheesePizza : Pizza
+{
+    public CaliforniaCheesePizza()
+    {
+        Name = "California Style Cheese Pizza";
+    }
+}
+
+public abstract class PizzaStore
+{
+    public Pizza OrderPizza(string type)
+    {
+        Pizza pizza = CreatePizza(type);
+        pizza.Prepare();
+        pizza.Bake();
+        pizza.Cut();
+        pizza.Box();
+        return pizza;
+    }
+
+    // This is the Factory Method
+    protected abstract Pizza CreatePizza(string type);
+}
+
+public class NYPizzaStore : PizzaStore
+{
+    protected override Pizza CreatePizza(string type)
+    {
+        if (type == "cheese")
+        {
+            return new NYCheesePizza();
+        }
+        // You can expand for other types like "pepperoni", "clam", etc.
+        return null;
+    }
+}
+
+public class CaliforniaPizzaStore : PizzaStore
+{
+    protected override Pizza CreatePizza(string type)
+    {
+        if (type == "cheese")
+        {
+            return new CaliforniaCheesePizza();
+        }
+        // Expand for other types
+        return null;
+    }
+}
+
+# Using the Factory:
+var nyStore = new NYPizzaStore();
+Pizza pizza1 = nyStore.OrderPizza("cheese");
+Console.WriteLine($"Ordered a {pizza1.Name}\n");
+
+var californiaStore = new CaliforniaPizzaStore();
+Pizza pizza2 = californiaStore.OrderPizza("cheese");
+Console.WriteLine($"Ordered a {pizza2.Name}\n");
+
+
+```
+
+
+9. page 126
+10. page 155
 
 
 
