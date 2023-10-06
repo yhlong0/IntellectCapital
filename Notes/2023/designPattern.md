@@ -231,6 +231,7 @@ public class Program
 7. The Factory Pattern: to provide an interface for creating objects but allowing subclasses to alter the type of objects that will be created.
     - Simple Factory: a simple way to encapsulate the logic for object creation, if you ever need to make changes to the creation logic (e.g., add a new type of pizza), you won’t have to modify the code everywhere the objects are being created, just the factory.
     - Factory Method Pattern: define an interface for creating objects, but it's derived class to implement the method and decide which class to instantiate. In other words, instead of calling a constructor directly to create an object, a method is used to create the object, and subclasses decide which class to instantiate.
+    - Abstract Factory Pattern: 
 ```csharp
 # simple factory
 
@@ -388,8 +389,78 @@ Console.WriteLine($"Ordered a {pizza2.Name}\n");
 ```
 
 
-9. page 126
-10. page 155
+9. The Dependency Inversion Principle: Depend upon abstractions, Do not depend upon concrete classes. Our high-level components(PizzaStore) should not depend on our low-level components(pizza), rather, they should both depend on abstractions.
+```csharp
+// bad example, AppService depends on the Logger class, if you want to
+// log to a file or a db, you'll need to modify the 'AppService class'
+// violates the Open-Closed Principle
+public class Logger
+{
+    public void Log(string message)
+    {
+        Console.WriteLine(message);
+    }
+}
+
+public class AppService
+{
+    private Logger _logger = new Logger();
+
+    public void DoSomething()
+    {
+        // Some business logic...
+        _logger.Log("Operation completed.");
+    }
+}
+
+//good example, AppService no longer depends on a specific logger.
+//
+public interface ILogger
+{
+    void Log(string message);
+}
+
+public class ConsoleLogger : ILogger
+{
+    public void Log(string message)
+    {
+        Console.WriteLine(message);
+    }
+}
+
+public class FileLogger : ILogger
+{
+    private string _filePath = "log.txt";
+
+    public void Log(string message)
+    {
+        File.AppendAllText(_filePath, message + Environment.NewLine);
+    }
+}
+
+public class AppService
+{
+    private ILogger _logger;
+
+    public AppService(ILogger logger)
+    {
+        _logger = logger;
+    }
+
+    public void DoSomething()
+    {
+        // Some business logic...
+        _logger.Log("Operation completed.");
+    }
+}
+
+var serviceWithConsoleLogger = new AppService(new ConsoleLogger());
+var serviceWithFileLogger = new AppService(new FileLogger());
+
+```
+10. 
+11. page 126
+12. page 212
 
 
 
