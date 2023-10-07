@@ -7,7 +7,9 @@
     - Program to interfaces, not implementation
     - Strive for loosely coupled designs between objects that interact
     - Class should be closed for modification but open for extension.
-    - 
+    - If you use new keyword, you'll be holding a reference to a concrete class. Use a factory to get around that!
+    - If you derive from a concrete class, you're depending on a concrete class. Derive from an abstraction, like an interface or an abstract class.
+    - No method should override an implemented method of any of its base classes. (shape -> draw(), circle -> override draw())
 3. Strategy Pattern: Defining an interface, abstract class (Strategy) that represents a family of behaviors or methods(Algorithms). Concrete implementations of this interface represent specific behaviors, functions, or methods. By programming to the interface rather than to a specific implementation, you can switch out one behavior for another at runtime without changing the calling code.
 ```java
 // Define the Strategy(interface)
@@ -458,9 +460,156 @@ var serviceWithConsoleLogger = new AppService(new ConsoleLogger());
 var serviceWithFileLogger = new AppService(new FileLogger());
 
 ```
-10. 
-11. page 174
-12. page 212
+10. Abstract Factory
+```csharp
+# interfaces for pizza ingredients: 
+public interface IDough
+{
+    string GetDough();
+}
+
+public interface ISauce
+{
+    string GetSauce();
+}
+
+public interface ICheese
+{
+    string GetCheese();
+}
+
+# concrete implementations for these ingredients:
+public class ThickDough : IDough
+{
+    public string GetDough()
+    {
+        return "Thick dough";
+    }
+}
+
+public class ThinDough : IDough
+{
+    public string GetDough()
+    {
+        return "Thin dough";
+    }
+}
+
+public class TomatoSauce : ISauce
+{
+    public string GetSauce()
+    {
+        return "Tomato sauce";
+    }
+}
+
+public class CheeseSauce : ISauce
+{
+    public string GetSauce()
+    {
+        return "Cheese sauce";
+    }
+}
+
+public class Mozzarella : ICheese
+{
+    public string GetCheese()
+    {
+        return "Mozzarella cheese";
+    }
+}
+
+public class Cheddar : ICheese
+{
+    public string GetCheese()
+    {
+        return "Cheddar cheese";
+    }
+}
+
+# define an abstract factory interface for creating pizzas:
+public interface IPizzaIngredientFactory
+{
+    IDough CreateDough();
+    ISauce CreateSauce();
+    ICheese CreateCheese();
+}
+
+# create concrete factories that implement this interface:
+public class ItalianPizzaIngredientFactory : IPizzaIngredientFactory
+{
+    public IDough CreateDough()
+    {
+        return new ThinDough();
+    }
+
+    public ISauce CreateSauce()
+    {
+        return new TomatoSauce();
+    }
+
+    public ICheese CreateCheese()
+    {
+        return new Mozzarella();
+    }
+}
+
+public class AmericanPizzaIngredientFactory : IPizzaIngredientFactory
+{
+    public IDough CreateDough()
+    {
+        return new ThickDough();
+    }
+
+    public ISauce CreateSauce()
+    {
+        return new CheeseSauce();
+    }
+
+    public ICheese CreateCheese()
+    {
+        return new Cheddar();
+    }
+}
+
+# Pizza class that uses the abstract factory to get ingredients:
+public class Pizza
+{
+    private IDough dough;
+    private ISauce sauce;
+    private ICheese cheese;
+
+    public Pizza(IPizzaIngredientFactory factory)
+    {
+        dough = factory.CreateDough();
+        sauce = factory.CreateSauce();
+        cheese = factory.CreateCheese();
+    }
+
+    public void Prepare()
+    {
+        Console.WriteLine($"Preparing pizza with {dough.GetDough()}, {sauce.GetSauce()}, and {cheese.GetCheese()}");
+    }
+}
+
+# create pizza using different factories:
+class Program
+{
+    static void Main(string[] args)
+    {
+        IPizzaIngredientFactory italianFactory = new ItalianPizzaIngredientFactory();
+        Pizza italianPizza = new Pizza(italianFactory);
+        italianPizza.Prepare();  // Output: Preparing pizza with Thin dough, Tomato sauce, and Mozzarella cheese
+
+        IPizzaIngredientFactory americanFactory = new AmericanPizzaIngredientFactory();
+        Pizza americanPizza = new Pizza(americanFactory);
+        americanPizza.Prepare();  // Output: Preparing pizza with Thick dough, Cheese sauce, and Cheddar cheese
+    }
+}
+```
+11. 
+12. page 174
+13. page 212
 
 
 
