@@ -607,9 +607,61 @@ class Program
     }
 }
 ```
-11. 
-12. page 191
-13. page 212
+11. Singleton Pattern: ensures that a class has only one instance and provides a global point to access it. This pattern is useful in scenarios like a database connection, logging, driver object, caching, thread pools, or configuration manager.
+```csharp
+public sealed class Singleton
+{
+    private static Singleton _instance = null;
+    private static readonly object _lock = new object();
+    
+    private Singleton()
+    {
+        // Constructor is 'private' so that
+        // it is not instantiated more than once.
+    }
+
+    public static Singleton Instance
+    {
+        get
+        {
+            lock (_lock)
+            {
+                if (_instance == null)
+                {
+                    _instance = new Singleton();
+                }
+                return _instance;
+            }
+        }
+    }
+
+    public void DoSomething()
+    {
+        Console.WriteLine("Singleton instance method called.");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Singleton instance1 = Singleton.Instance;
+        instance1.DoSomething();  // Output: Singleton instance method called.
+
+        Singleton instance2 = Singleton.Instance;
+        instance2.DoSomething();  // Output: Singleton instance method called.
+
+        if (instance1 == instance2)
+        {
+            Console.WriteLine("Both instances are the same.");  // Output: Both instances are the same.
+        }
+    }
+}
+
+```
+12. 
+13. page 
+14. page 220
 
 
 
