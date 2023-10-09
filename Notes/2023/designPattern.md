@@ -659,9 +659,80 @@ class Program
 }
 
 ```
-12. 
-13. page 
-14. page 220
+12. Command Pattern: Encapsulates a request as an object, thereby parameterizing clients with queues, requests, and operations. It also allows for the support of undoable operations. Separates the object that issues a command from the object that actually performs the command, providing additional functionalities like queuing commands, logging, or even supporting undoable operations.
+```csharp
+using System;
+
+// Command Interface
+public interface ICommand
+{
+    void Execute();
+}
+
+// ConcreteCommand
+public class LightOnCommand : ICommand
+{
+    private Light light;
+
+    public LightOnCommand(Light light)
+    {
+        this.light = light;
+    }
+
+    public void Execute()
+    {
+        light.TurnOn();
+    }
+}
+
+// Receiver
+public class Light
+{
+    public void TurnOn()
+    {
+        Console.WriteLine("Light is on");
+    }
+
+    public void TurnOff()
+    {
+        Console.WriteLine("Light is off");
+    }
+}
+
+// Invoker
+public class RemoteControl
+{
+    private ICommand command;
+
+    public void SetCommand(ICommand command)
+    {
+        this.command = command;
+    }
+
+    public void PressButton()
+    {
+        command.Execute();
+    }
+}
+
+// Client Code
+public class Program
+{
+    static void Main(string[] args)
+    {
+        Light light = new Light();
+        LightOnCommand lightOn = new LightOnCommand(light);
+        RemoteControl remote = new RemoteControl();
+
+        remote.SetCommand(lightOn);
+        remote.PressButton();  // Output: "Light is on"
+    }
+}
+
+```
+13. 
+14. page 
+15. page 220
 
 
 
