@@ -667,9 +667,15 @@ using System;
 public interface ICommand
 {
     void Execute();
+    void Undo();
 }
 
 // ConcreteCommand
+public class NoCommand : ICommand
+{
+    public void Execute() {}
+}
+
 public class LightOnCommand : ICommand
 {
     private Light light;
@@ -682,6 +688,32 @@ public class LightOnCommand : ICommand
     public void Execute()
     {
         light.TurnOn();
+    }
+}
+
+public class CeilingFanHighCommand : ICommand
+{
+    private CeilingFan ceilingFan;
+    private int prevSpeed;
+
+    public CeilingFanHighCommand(CeilingFan ceilingFan)
+    {
+        this.ceilingFan = ceilingFan;
+    }
+
+    public void Execute()
+    {
+        prevSpeed = ceilingFan.getSpeed();
+        ceilingFan.high();
+    }
+
+    public void Undo()
+    {
+        if(prevSpeed == CeilingFan.HIGH) {
+            ceilingFan.high();
+        } else if (prevSpeed == CeilingFan.MEDIUM) {
+            ceilingFan.medium()
+        }....
     }
 }
 
@@ -699,19 +731,87 @@ public class Light
     }
 }
 
+public class CeilingFan
+{
+    public const int HIGH = 3;
+    public const int MEDIUM = 2;
+    public const int LOW = 1;
+    public const int OFF = 0;
+    String location;
+    int speed;
+
+    public CeilingFan(String location)
+    {
+        this.location = location;
+        speed = OFF;
+    }
+
+    public void high()
+    {
+        speed = HIGH;
+        // code to set fan to high        
+    }
+
+    public void medium()
+    {
+        speed = MEDIUM;
+        // code to set fan to medium        
+    }
+
+    public void off()
+    {
+        speed = OFF;
+        // code to set fan to off        
+    }
+
+    public int getSpeed()
+    {
+        return speed;
+    }
+}
+
+
 // Invoker
 public class RemoteControl
 {
-    private ICommand command;
+    private ICommand[] onCommands;
+    private ICommand[] offCommands;
+    private ICommand undoCommand;
 
-    public void SetCommand(ICommand command)
+    public RemoteControl()
     {
-        this.command = command;
+        onCommands = new ICommand[7];
+        offCommands = new ICommand[7];
+        ICommand noCommand = new NoCommand();
+
+        for(int i = 0; i < 7; i++) {
+            onCommands[i] = noCommand;
+            offCommands[i] = noCommand;
+        }
+        undoCommand = noCommand;
     }
 
-    public void PressButton()
+    public void SetCommand(int slot, ICommand onCommand, ICommand offCommand)
     {
-        command.Execute();
+        this.onCommands[slot] = onCommand;
+        this.offCommands[slot] = offCommand;
+    }
+
+    public void PressOnButton(int slot)
+    {
+        onCommands[slot].Execute();
+        undoCommand = onCommands[slot];
+    }
+
+    public void PressOffButton(int slot)
+    {
+        offCommands[slot].Execute();
+        undoCommand = offCommands[slot];
+    }
+
+    public void PressUndoButton()
+    {
+        undoCommand.Undo();
     }
 }
 
@@ -722,12 +822,20 @@ public class Program
     {
         Light light = new Light();
         LightOnCommand lightOn = new LightOnCommand(light);
+
+        CeilingFan ceilingFan = new CeilingFan("Living Room");
+        CeilingFanHighCommand = ceilingFanHigh = new CeilingFanHighCommand(ceilingFan);
+
         RemoteControl remote = new RemoteControl();
 
         remote.SetCommand(lightOn);
         remote.PressButton();  // Output: "Light is on"
+
+
     }
 }
+
+
 
 ```
 13. 
