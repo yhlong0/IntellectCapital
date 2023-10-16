@@ -834,14 +834,75 @@ public class Program
 
     }
 }
+```
+13. How can I implement a history of undo operations, able to press the undo button multiple times: keep a stack of previous commands, whenever undo is pressed, pop the first item off the stack.
+14. When implementing party mode, instead of hardcoding the part mode into party command, with MacroCommand, you can decide dynamically which commands you want to go into party command, so you have more flexibility using MacroCommands.
+15. Adapter Pattern: Allow objects with incompatible interfaces to collaborate. 
+```csharp
+public interface IDuck
+{
+    void Quack();
+    void Fly();
+}
 
+public class MallardDuck : IDuck
+{
+    public void Quack()
+    {
+        Console.WriteLine("Quack");
+    }
 
+    public void Fly()
+    {
+        Console.WriteLine("I am flying");
+    }
+}
+
+public interface ITurkey
+{
+    void Gobble();
+    void FlyShort();
+}
+
+public class TurkeyAdapter : ITurkey
+{
+    private readonly IDuck _duck;
+
+    public TurkeyAdapter(IDuck duck)
+    {
+        _duck = duck;
+    }
+
+    public void Gobble()
+    {
+        _duck.Quack();
+    }
+
+    public void FlyShort()
+    {
+        _duck.Fly();
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        IDuck mallardDuck = new MallardDuck();
+
+        // Adapting MallardDuck to be a Turkey
+        ITurkey turkeyAdapter = new TurkeyAdapter(mallardDuck);
+
+        // Using the turkey interface
+        turkeyAdapter.Gobble();
+        turkeyAdapter.FlyShort();
+    }
+}
 
 ```
-13. 
-14. page 
-15. page 220
-16. page 301+
+16. Decorator Patterns add new functionalities to an object without altering its structure. Adapter Pattern is used to allow two incompatible interfaces to work together. It doesn't add any new behavior. 
+17. page 220
+18. page 301+
 
 
 
