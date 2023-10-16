@@ -901,7 +901,7 @@ class Program
 
 ```
 16. Decorator Patterns add new functionalities to an object without altering its structure. Adapter Pattern is used to allow two incompatible interfaces to work together. It doesn't add any new behavior. 
-17. page 220
+17. page 260 - Facade Pattern
 18. page 301+
 
 
