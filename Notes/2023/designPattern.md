@@ -10,6 +10,7 @@
     - If you use new keyword, you'll be holding a reference to a concrete class. Use a factory to get around that!
     - If you derive from a concrete class, you're depending on a concrete class. Derive from an abstraction, like an interface or an abstract class.
     - No method should override an implemented method of any of its base classes. (shape -> draw(), circle -> override draw())
+    - The Principle of least knowledge, reduces the interactions between objects to just a few close "friends". When you build a lot of dependencies between many classes, you are building a fragile system that will be costly to maintain and complex for others to understand. 
 3. Strategy Pattern: Defining an interface, abstract class (Strategy) that represents a family of behaviors or methods(Algorithms). Concrete implementations of this interface represent specific behaviors, functions, or methods. By programming to the interface rather than to a specific implementation, you can switch out one behavior for another at runtime without changing the calling code. When you have a group of behaviors would change depending on context(all ducks make sounds, but different sounds). Instead of putting methods in superclass and child inherited then overriding them one by one, some of the overrides would be the same(wood duck and steel duck both not making sounds). Strategy Pattern is good for solving this.
 ```java
 // Define the Strategy(interface)
@@ -900,9 +901,146 @@ class Program
 }
 
 ```
-16. Decorator Patterns add new functionalities to an object without altering its structure. Adapter Pattern is used to allow two incompatible interfaces to work together. It doesn't add any new behavior. 
-17. page 260 - Facade Pattern
-18. page 301+
+16. Decorator Patterns add new functionalities to an object without altering its structure. Adapter Pattern is used to allow two incompatible interfaces to work together. It doesn't add any new behavior.
+17. Facade Pattern(外观模式) provides a simplified interface to a library, framework, or set of classes. This is useful in abstracting complex subsystems into a more straightforward interface.
+```csharp
+// Complex classes with complicated interfaces
+class Subsystem1
+{
+    public string Operation1() => "Subsystem1: Ready!";
+    public string OperationN() => "Subsystem1: Go!";
+}
+
+class Subsystem2
+{
+    public string Operation1() => "Subsystem2: Get ready!";
+    public string OperationZ() => "Subsystem2: Fire!";
+}
+
+// Facade class that simplifies the interface
+class Facade
+{
+    protected Subsystem1 _subsystem1;
+    protected Subsystem2 _subsystem2;
+
+    public Facade(Subsystem1 subsystem1, Subsystem2 subsystem2)
+    {
+        _subsystem1 = subsystem1;
+        _subsystem2 = subsystem2;
+    }
+
+    public string Execute()
+    {
+        string result = "Facade initializes subsystems:\n";
+        result += _subsystem1.Operation1();
+        result += "\n";
+        result += _subsystem2.Operation1();
+        result += "\n";
+        result += "Facade orders subsystems to perform the action:\n";
+        result += _subsystem1.OperationN();
+        result += "\n";
+        result += _subsystem2.OperationZ();
+        return result;
+    }
+}
+
+// Client code
+class Program
+{
+    static void Main(string[] args)
+    {
+        Subsystem1 subsystem1 = new Subsystem1();
+        Subsystem2 subsystem2 = new Subsystem2();
+        Facade facade = new Facade(subsystem1, subsystem2);
+        Console.WriteLine(facade.Execute());
+    }
+}
+
+```
+18. The intent of the Adapter Pattern is to alter an interface so that it matches one a client is expecting. The intent of the Facade Pattern is to provide a simplified interface to a subsystem.
+19. Template Method: defines the steps of an algorithm and allows subclasses to provide the implementation for one or more steps without changing the algorithm's structure.
+```csharp
+using System;
+
+public abstract class CoffeeTemplate
+{
+    // Template Method
+    public void PrepareCoffee()
+    {
+        BoilWater();
+        BrewCoffee();
+        PourInCup();
+        // Hook
+        if(customerWantsCondiments()) {
+            AddCondiments();
+        }
+    }
+
+    public void BoilWater()
+    {
+        Console.WriteLine("Boiling water.");
+    }
+
+    public void PourInCup()
+    {
+        Console.WriteLine("Pouring coffee into the cup.");
+    }
+
+    // Abstract methods to be implemented by subclasses
+    public abstract void BrewCoffee();
+    public abstract void AddCondiments();
+
+    // This is a hook, subclass can override or use the default implementation.
+    boolean custerWantsCondiments()
+    {
+        return true
+    }
+}
+
+public class CoffeeWithMilk : CoffeeTemplate
+{
+    public override void BrewCoffee()
+    {
+        Console.WriteLine("Brewing coffee grounds with milk.");
+    }
+
+    public override void AddCondiments()
+    {
+        Console.WriteLine("Adding sugar.");
+    }
+}
+
+public class BlackCoffee : CoffeeTemplate
+{
+    public override void BrewCoffee()
+    {
+        Console.WriteLine("Brewing coffee grounds.");
+    }
+
+    public override void AddCondiments()
+    {
+        Console.WriteLine("No additional condiments.");
+    }
+}
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        CoffeeTemplate coffeeWithMilk = new CoffeeWithMilk();
+        Console.WriteLine("Making Coffee With Milk:");
+        coffeeWithMilk.PrepareCoffee();
+        Console.WriteLine();
+
+        CoffeeTemplate blackCoffee = new BlackCoffee();
+        Console.WriteLine("Making Black Coffee:");
+        blackCoffee.PrepareCoffee();
+    }
+}
+```
+20. 
+21. page 260 - 
+22. page 301+
 
 
 
