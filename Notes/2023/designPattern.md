@@ -1039,8 +1039,9 @@ public class Program
 }
 ```
 20. THe Hollywood Principle: when we design with the template method pattern, we're telling subclasses, don't call us, we'll call you.
-21. page 260 - 
-22. page 301+
+21. 
+22. page 260 - 
+23. page 301+
 
 
 
