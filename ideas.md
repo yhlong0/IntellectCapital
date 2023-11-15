@@ -42,3 +42,20 @@ the current mailbox for US house is so boring, we should come up more beautify d
 Idea Knowledge sharing website
 
 Language hub(change text style, translate, chat..)
+
+Upload, digital human
+
+You can upload a conversation, voice and video, give this AI a role(mom, grandfather, spouse, boss, friend and etc), then can chat with him/her.
+Solve human emotional needs. 
+
+- Prompt engineer, make text conversation possible. Fine-tune with text input + prompt engineer, make it more human and role we set.
+- Find a tool to convert LLM output text to voice and the tool can adjust tone based on your example voice.
+- Allow to give a profile photo for this AI, add more details about this AI using these details for prompt(age, sex, work, history and etc), support voice input.
+- Support video output with deepfake or create digital human?
+- Support live video interactive. 
+
+
+
+
+
+
