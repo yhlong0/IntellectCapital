@@ -55,6 +55,7 @@ Solve human emotional needs.
 - Support live video interactive. 
 
 
+Create a value investor assistant. Find all warren buffett, charlie munger videos and their text, feed to chatgpt. 
 
 
 
