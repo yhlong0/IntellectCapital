@@ -12,4 +12,4 @@
 7. Whenever possible, you should choose in-process tests over those that destroy the product. Test earlier instead of the last minute on the final product.
 8. Build on forecast, based on forecasted demand, developed in response to an anticipated market need, rather than to a specific customer order. It would be foolish to recruit only when a need develops.
 9. You will need 3-5 key indicators, you want to know your sales forecast(demand), your current capacity, the difference between your plan and actual delivery, raw material inventory(human resource), condition of your equipment, and quality indicator.
-10. 
+10. hi
