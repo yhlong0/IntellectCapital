@@ -19,4 +19,11 @@
 14. The output of a manager is a result achieved by a group either under her supervision or under her influence.
 15. As a manager, much of your day is spent acquiring information, when things aren't working as smoothly as they should, you apply a bit of oil. Your decision-making depends finally on how well you comprehend the facts and issues facing your business.
 16. Presentation and reports are more a medium of self-discipline than a way to communicate information. Writing the report is important, but reading it often is not.
-17. Manager is a role model for people in our organization, no single managerial activity can be said to constitute leadership, values and behavioral norms are simply not transmitted easily by talk or memo, but are conveyed very effectively by doing and doing visibly. 
+17. Manager is a role model for people in our organization, no single managerial activity can be said to constitute leadership, values and behavioral norms are simply not transmitted easily by talk or memo, but are conveyed very effectively by doing and doing visibly.
+18. Two kinds of meetings
+     - process-oriented, knowledge is shared and information is exchanged on a regularly scheduled basis. (one-on-one, staff meeting)
+     - mission-oriented, solve a specific problem, produce a decision, ad hoc. Know what you want before calling a meeting.
+19. For a staff meeting, talk about things that affect more than two of the people present. If the meeting degenerates into a conversation between two people, the supervisor should break it off and move on.
+20. Meeting is expensive, an estimate of the dollar cost of a couple of managers + engineers, can easily be over $1000 per hour for the company. You usually need approval in advance to buy stuff this expensive, but how come you can set up meetings without any caution? It is criminal to allow people to be late and waste everyone's time. Just as you would not permit a fellow employee to steal a piece of office equipment worth $2000. 
+21. Have an agenda, details to 15-30 mins what you will do and who is responsible for talking. At the end, summarize the discussion that occurred, the decision made and the actions to be taken.
+22. You have to mix knowledge-power people with position-power people daily, and together they make decisions that could affect us for years to come. 
