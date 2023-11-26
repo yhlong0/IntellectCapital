@@ -26,4 +26,17 @@
 19. For a staff meeting, talk about things that affect more than two of the people present. If the meeting degenerates into a conversation between two people, the supervisor should break it off and move on.
 20. Meeting is expensive, an estimate of the dollar cost of a couple of managers + engineers, can easily be over $1000 per hour for the company. You usually need approval in advance to buy stuff this expensive, but how come you can set up meetings without any caution? It is criminal to allow people to be late and waste everyone's time. Just as you would not permit a fellow employee to steal a piece of office equipment worth $2000. 
 21. Have an agenda, details to 15-30 mins what you will do and who is responsible for talking. At the end, summarize the discussion that occurred, the decision made and the actions to be taken.
-22. You have to mix knowledge-power people with position-power people daily, and together they make decisions that could affect us for years to come. 
+22. You have to mix knowledge-power people with position-power people daily, and together they make decisions that could affect us for years to come.
+23. Planning: Today's actions for tomorrow's output.
+     - Environment, what your customers' expectations now and future, other groups performance(dependency). Do a difference analysis and how you react to this difference is the key outcome of the planning process.
+     - Present status
+     - What to do to close the gap
+24. Good management rests on a reconciliation of centralization and decentralization. It might make sense to have a central marketing/finance department across the whole company and a Region division for factory management.
+25. Our behavior in a work environment can be controlled by three means:
+     - free-market forces, selfish, I want to get the best deal for myself
+     - contractual obligations, when value is not easily defined, a group of people needs to accomplish a certain task.
+     - cultural values, when the environment changes more rapidly than one can change rules. Shared a common set of values, objectives and methods.
+26. You don't need management to supervise the workings of free-market forces. For contractual obligation, manager has a role in setting and modifying the rules, monitoring adherence to them, and evaluating and improving performance. For cultural values, management has to develop and nurture the common set of values, objectives and methods essential for the existence of trust.
+27. The most important task of a manager is to improve the performance of his subordinates by training and motivating them, and giving performance reviews.
+28. You can try to add competition to improve the performance.
+29. 
