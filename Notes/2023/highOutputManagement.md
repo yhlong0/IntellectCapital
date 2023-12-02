@@ -48,3 +48,4 @@
 35. Why you should put yourself out to keep an employee whom you are going to lose. Because you owe it to your employer to save an employee for the company.
 36. Employee might say he forced you to give him what he wants and if he stay, BOSS'll think he as the blackmailer forever. You have to make him feel comfortable with new arrangement. You didn't blackmail us into doing anything we shouldn't have done. When you almost quit, you shook us up and made us aware of the error of our ways. We are just doing what we should have done without any of this happening.
 37. Peter Principle: when someone is good at his job, he is promoted; he keeps getting promoted until he reaches his level of incompetence and then stays there.
+38. Sometimes management made errors and promoted people to where he couldn't handle it. Instead of let him go, we should admit our mistake and deliberate steps to place the person into a job he can do.
