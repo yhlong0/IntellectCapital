@@ -10,4 +10,8 @@
 8. The great companies made a habit of putting their best people on their best opportunities, not their biggest problems.
 9. You must retain faith that you will prevail in the end and you must also confront the most brutal facts of your current reality. Life is unfair, sometimes to our advantage, sometimes to our disadvantage. We will experience disappointments and crushing events, what separates people is not the presence or absence of difficulty, but how they deal with the inevitable difficulties of life.
 10. Leaders operated with a Socratic style(苏格拉底), they used questions to gain understanding, They didn't use questions as a form manipulation("Don't you agree with me on that?) or as a way to blame others("Why did you mess this up?"). They spent much of the time just trying to understand.
-11. Both companies had virtually identical access to good information. The key, then lies not in better information, but in turning information into information that cannot be ignored. 
+11. Both companies had virtually identical access to good information. The key, then lies not in better information, but in turning information into information that cannot be ignored.
+12. The Hedgehog Concept is a simple, crystalline concept that flows from deep understanding about the intersection of the following:
+    - What you can be the best in the world and What you cannot be the best in the world(doing work for which you have a genetic talent).
+    - What drives your economic engine? You are well paid for what you do.
+    - What you are deeply passionate about. You are doing work you are passionate about and absolutely love to do.
