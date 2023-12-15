@@ -15,3 +15,5 @@
     - What you can be the best in the world and What you cannot be the best in the world(doing work for which you have a genetic talent).
     - What drives your economic engine? You are well paid for what you do.
     - What you are deeply passionate about. You are doing work you are passionate about and absolutely love to do.
+13. A hedgehog Concept is not a goal/strategy/intention/plan to be the best, It is an understanding of what you can be the best at.
+14. 
