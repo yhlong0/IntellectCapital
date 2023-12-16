@@ -7,5 +7,5 @@
 5. Fatalism(宿命论) is the belief that whatever happens is predestined.
 6. Knowing what you don't know is also a kind of knowledge. The stupidest thing she knew was for people to act like they knew all about things they knew absolutely nothing about.
 7. Most schoolmasters are satisfied with what little they know or boast of knowing a whole lot about subjects they haven't the faintest notion of. A philosopher knows that in reality, he knows very little. That is why he constantly strives to achieve true insight.
-8. lost the game
+8. 
 9. 
