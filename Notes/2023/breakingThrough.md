@@ -6,5 +6,5 @@
 4. A lot of things you have to do anyway, why not get something from it? Have a bit of fun, learning something new.
 5. Sometimes those with the least share the most.
 6. When she joins the new work, her supervisor is not there, she doesn't know the solution, she doesn't know how to make that solution, and she doesn't have ingredients. But you find an excuse only if you don't want to accomplish something. If you genuinely want to do it, you find a way.
-7. 
+7. Conducting research on RNA presents a series of sophisticated challenges due to its inherently unstable nature and susceptibility to numerous degradative factors. Despite these obstacles, which may dissuade some in the scientific community from engaging with RNA-based studies, it is incumbent upon researchers to devise innovative methodologies and protocols to navigate these complexities. By doing so, scientists reinforce the foundation of molecular biology and expand our understanding of biological mechanisms, thereby advancing the frontiers of biomedical research.
    
