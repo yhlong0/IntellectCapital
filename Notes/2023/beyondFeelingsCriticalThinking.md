@@ -14,4 +14,5 @@
 8. To avoid "Mine is Better", be alert when you feel very pleasant, favorable sensations, the desire to embrace a statement or argument immediately, without appraising it further. Or very unpleasant, negative sensations, the desire to attack and denounce a statement or argument.
 9. A woman cut off roast into small slices before cooking it, when asked why she did this, she said she did it because her mother, tracing to her grandmother, the final reason is that's the only way it would fit in my pot. Three generations of "mindlessness". We prefer patterns of behavior that we know, ideas we're comfortable with, and resistance to change.
 10. Sterotypers never escape the crippling effects of their fixation(Jews as responsible for periods of economic instability, Italians as responsible for organized crime). Indeed, they are often its most pathetic victims. Stereotyping cuts them off from reality and cripples their thinking. When they believe that entire groups of people fit into neat categories, they believe a lie that will in time invade and infect their thinking on all related subjects.
-11. page 93
+11. Hasty Conclusions: Some people's major concern in thinking is convenience. They are afraid of arduous analysis and rattled by complexity. 
+12. page 93
