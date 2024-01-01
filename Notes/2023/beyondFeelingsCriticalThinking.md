@@ -17,4 +17,6 @@
 11. Hasty Conclusions: Some people's major concern in thinking is convenience. They are afraid of arduous analysis and rattled by complexity. People habitually escalate every statement to a higher level of generalization. "A teenager was behaving boisterously in the supermarket yesterday" becomes "Today's teenagers are very boisterous." In a thousand different ways, "one" becomes "many" or "all" and "once" becomes "often" or "always"
 12. How one's preferences can influence one's judgment. Two people notice an acquaintance dining with a woman at a late dinner and that woman is not the man's wife. The first person had several affairs himself and assumed other people behave similarly. The second likes to think well of people. But neither conclusion is reasonable in the absence of additional evidence, both are hasty conclusions. In this case, the only reasonable reaction is not to draw any conclusion at this time.
 13. Once we form any conclusion, our curiosity in the matter is diminished. We make up our minds and before we can even entertain a different conclusion. Resistance to change and face-saving make that difficult. 
-14. page 119
+14. Avoid Absolutism, the situations we must deal with are often ambiguous and messy. The best that can be achieved is probability rather than certainty.
+15. Avoid Either-Or thinking, keep the present welfare system vs eliminate the system entirely. People hold extreme views, total affirmation or total rejection. This perspective denies us the opportunity even to consider more moderate views.
+16. page 119
