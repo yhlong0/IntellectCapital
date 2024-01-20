@@ -7,4 +7,5 @@
 4. Most of the time, when someone's caught unprepared, it's not because they didn't plan. Sometimes it's the smartest planners in the world, mapping every scenario they can imagine, who end up failing. They planned for everything that made sense before getting hit by something they'd never imagined.
 5. Today's economy is good at generating three things: wealth, the ability to show off wealth, and great envy for other people's wealth.
 6. One day, I realized with all these people I was jealous of, I couldn't just choose little aspects of their life. You have to be that person, with all of their reactions, their desires, their family. If you're not willing to do a wholesale, 24/7, 100 percent swap with who that person is, then there is no point in being jealous.
-7. 
+7. When an economy is stable, people get optimistic -> When people get optimistic, they go into debt -> When they go into debt, the economy becomes unstable.
+8. Most great things in life--from love to careers to investing--gain their value from patience and scarcity. Patience to let something grow, and scarcity to admire what it grows into. But the most common tactics when people pursue something great is trying to make it faster and bigger.
