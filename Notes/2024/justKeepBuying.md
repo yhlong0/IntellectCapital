@@ -1,0 +1,5 @@
+# Just Keep Buying
+
+1. What should I invest in? Am I saving enough? Should I buy it now or wait it out? Shortly thereafter, I saw a YouTube video that changed everything. 3 words that got me to 3M subs discussed how to grow the channel using three words of advice -- **Just Keep Uploading**
+2. For young investors with only $1,000 in their investment account, the specifics of their investment strategy and the amount of time spent on research may not significantly impact their financial growth. Even with a 10% annual return, the earnings could be quickly offset by everyday expenses, especially in high-cost areas like New York City. For instance, a single night out for dinner and a ride home with Uber might consume an entire year's worth of investment gains. In such scenarios, focusing on saving more or increasing earnings can be far more effective. Conversely, for someone with a $10 million portfolio, a 10% market decline could mean a $1 million loss, a sum that's virtually impossible to recoup through savings alone. Saving is for the poor and investing is for the rich.
+3. 
