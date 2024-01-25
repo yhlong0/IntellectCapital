@@ -6,4 +6,5 @@
 4. When you get a raise, how much should you spend? 50%. For high savers, spending more of your raise will delay your retirement, because you increase your lifestyle and you need to save more. but for lower savers, this is the reverse.
 5. The crossover point rule: When can you retire, find the point when your monthly investment income exceeds your monthly expense.
 6. We buy stocks so we can eat well, but we buy bonds so we can sleep well.
-7. 
+7. If you are worried about investing a large sum of money right now, the problem may be that you're considering a portfolio that is too risky for your liking. Buying now is "better" than the dollar cost average based on historical data. Another way you could improve this is select a conservative portfolio to buy a large sum of money now, then every year switch to a bit more aggressive portfolio set up.
+8. 
