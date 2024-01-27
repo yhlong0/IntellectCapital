@@ -8,4 +8,6 @@
 6. We buy stocks so we can eat well, but we buy bonds so we can sleep well.
 7. If you are worried about investing a large sum of money right now, the problem may be that you're considering a portfolio that is too risky for your liking. Buying now is "better" than the dollar cost average based on historical data. Another way you could improve this is select a conservative portfolio to buy a large sum of money now, then every year switch to a bit more aggressive portfolio set up.
 8. Depending on which decade you were investing in, you could receive annual returns of positive 16.6% or negative 3.1%. If you look over 20 years, you could have 13.3% at best or 1.9% annual returns at worst. Due to this variation in returns over time, even investors with legitimate skills can still underperform those who just got lucky. The only good news is that, over 30-year periods, the differences in annualized returns are far less pronounced. 5-7%.
-9. 
+9. Buy quickly, but sell slowly. Set a rule or plan for sale. Don't let emotion control you. Since the market tends to go up over time, the optimal thing to do is to sell as late as possible. Therefore, selling over time is usually better than selling right away.
+10. What percentage of cash should you have that is ready for spending? Fund the life you need before you risk it for the life you want.
+11. 
