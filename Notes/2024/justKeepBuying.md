@@ -10,4 +10,6 @@
 8. Depending on which decade you were investing in, you could receive annual returns of positive 16.6% or negative 3.1%. If you look over 20 years, you could have 13.3% at best or 1.9% annual returns at worst. Due to this variation in returns over time, even investors with legitimate skills can still underperform those who just got lucky. The only good news is that, over 30-year periods, the differences in annualized returns are far less pronounced. 5-7%.
 9. Buy quickly, but sell slowly. Set a rule or plan for sale. Don't let emotion control you. Since the market tends to go up over time, the optimal thing to do is to sell as late as possible. Therefore, selling over time is usually better than selling right away.
 10. What percentage of cash should you have that is ready for spending? Fund the life you need before you risk it for the life you want.
-11. 
+11. As else equal, if you think your income taxes will be higher now, then contribute to a traditional 401k, otherwise contribute to Roth 401k. 3 * 2 * 1 = 1 * 2 * 3, It probably doesn't make sense to contribute to a Roth 401 while living in a high tax area like New York City, unless you know you are going to retire in an area with similarly high taxes. For high savers, Roth 401k is probably better, because you actually put more money into savings.
+12. Max out 401k might cause you to lose the opportunity to do something else.
+13. Also if you have stocks in your 401k, it is very hard to balance your portfolio, you can't add money when they cut in half.
