@@ -13,3 +13,7 @@
 11. As else equal, if you think your income taxes will be higher now, then contribute to a traditional 401k, otherwise contribute to Roth 401k. 3 * 2 * 1 = 1 * 2 * 3, It probably doesn't make sense to contribute to a Roth 401 while living in a high tax area like New York City, unless you know you are going to retire in an area with similarly high taxes. For high savers, Roth 401k is probably better, because you actually put more money into savings.
 12. Max out 401k might cause you to lose the opportunity to do something else.
 13. Also if you have stocks in your 401k, it is very hard to balance your portfolio, you can't add money when they cut in half.
+14. The Author has many friends who work in big tech company and earn a lot of money, however, he spent most time on his investment portfolio rather than thinking about his career until he was 27 years old. This mistake is that he incorrectly believed that money was a more important asset than time. Though you can always earn more money, nothing can buy you more time.
+15. I would be willing to bet that not one of you, if you were offered every dollar of Warren Buffett's fortune, would trade places with him right now..And I would also bet, by the way, that Buffett would be willing to be 20 years old again if he was broke.
+16. We begin our lives as growth stocks and end our lives as value stocks
+17. 
