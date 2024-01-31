@@ -7,4 +7,5 @@
 5. Life isn't fair. But if you use the unfairness of life as an excuse to have a victim mindset, to stop yourself from striving to achieve your goals, to make your dreams a reality, then you're only shooting yourself in the foot.
 6. An entrepreneur is someone who will jump off a cliff and assemble an airplane on the way down.
 7. Can you change your luck? Your thoughts create the luck in your life. If you think you are a lucky person, then you are more likely to experience good fortune. If you think you are an unlucky person, chances are you will experience more ill fortune.
-8. There is no wealth like knowledge, no poverty like ignorance. 
+8. There is no wealth like knowledge, no poverty like ignorance.
+9. 
