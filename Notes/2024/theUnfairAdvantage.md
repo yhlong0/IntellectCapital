@@ -14,4 +14,10 @@
     - Make your criteria for success process-based rather than outcome-based. You can't control the outcome, because luck always plays a role. but you can control your own actions and processes to do the right thing.
     - Beware of confusing society's symbols of success (fast cars, private jest) and actual success(happiness, fulfillment, growth, learning, adding value to others, positive impact, freedom to spend quality time with the people you love)
 11. Startup ideas: Keep your attention highly attuned to whenever somebody mentions something they find annoying, a problem they can't solve, or a situation they're struggling with. Stay attuned to whatever pain or inconvenience you're experiencing yourself and how you can solve that.
-12. 
+12. Three role for a startup:
+    - The creator, visinoary, focused on making a ding in the universe
+    - The communicator, sell and market, communicate with customers and feed this back to the team.
+    - The technician. make sure it works.
+13. When looking for a mentor, find who could be a good mentor, get their attention, and seek to add value for them, not just buy them a coffee or a meal, there are tons of people who want to do that and pick their brains. And apply what your mentor advises you to do as quickly as possible.
+14. You have to build something that's crappy but that works. especially the ones where you're solving a strong problem. It doesn't matter if it looks good(unless looking good is the need it is meeting). It doesn't matter if it sometimes crashes and restarts, has ypos and mistakes, what matters is whether it solves the problem or not. LinkedIn co-founder Reid Hoffman says, if you're not embarrassed by the first version of your product, you've launched too late.
+15. Before growth hacking, you've got to do growth scrapping. Before you think about marketing campaigns using google and facebook ads, you need to manually find each of your early customers/users. Preferably you do this face to face, directly messages, ready for a lot of rejections and develop a thick skin. Do things that don't scale, don't try to use technology to make your job easier, but instead do it in a more time-consuming, person-to-person kind of way.
