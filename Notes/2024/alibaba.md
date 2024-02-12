@@ -15,5 +15,6 @@
         - lack of knowledge sharing: The Taiwan team had a valuable experience that wasn't shared with the Shanghai team during the migration to a global site.
         - poor executive communication: Despite top management's belief in the importance of the Chinese market, poor communication led to a lack of awareness and timely problem-solving.
         - misalignment with local needs: Decisions made by US-based VPs and directors failed to consider the unique aspects of the Chinese market, highlighting a disconnect from local requirements.
-
+7. Some say that the power of capital is enormous. Capital does have its power. But the real power is the power of people controlling the capital. People's power is enormous. Businessmen's power is inexhaustible.
+8. 
 
