@@ -16,5 +16,4 @@
         - poor executive communication: Despite top management's belief in the importance of the Chinese market, poor communication led to a lack of awareness and timely problem-solving.
         - misalignment with local needs: Decisions made by US-based VPs and directors failed to consider the unique aspects of the Chinese market, highlighting a disconnect from local requirements.
 7. Some say that the power of capital is enormous. Capital does have its power. But the real power is the power of people controlling the capital. People's power is enormous. Businessmen's power is inexhaustible.
-8. 
-
+8. Yahoo's directory-centric approach was fundamentally challenged by Google's introduction of a page-ranking algorithm. Initially, Yahoo underestimated the disruptive potential of Google's search technology. This oversight was compounded in 1997 when Yahoo missed a pivotal opportunity to acquire Google. By June 2000, Yahoo had chosen to partner with Google, even featuring Google's logo on its homepage. This decision inadvertently directed millions of its users to Google's superior search service, significantly diminishing Yahoo's relevance in the search engine market.
