@@ -43,4 +43,10 @@
 000933, cap 34B, income 7B, equity 22B, 2 years
 600096, cap 30B, income 4.5B, equity 19B, 3 years,
 600873, cap 27B, income 3-4B, equity 14B, 3.7 years
+
+02/18/2024
+301371, cap 120B, equity 56B, income 7B, 9 years 
+688717, cap 122B, equity 23B, income 11B, 9 years
+001358, cap 24B, equity 7B, income 1.5B, 11 years
+688581, cap 46B, equity 21B, income 1.5B, 16 years
 ```
