@@ -1,0 +1,3 @@
+# Leading So People Will Follow
+
+1. In meeting after CEO said something, everyone looking at CFO, apparently, CFO is more of a leader even CEO has the official position. In ancient time, the leader is so critical, it means the life and death for the tribe, the stake are so high. to against enemies and the challenges of nature. the job of the leader was to help the people stay alive.  Once that was assured, it was also hoped that leader would make decisions that allowed life to be reasonably pleasant, free enough from the fear, creation of some sort of family and spiritual life.  The tribe only put its fate in the hands of a chieftain who had proven his worth and fitness to lead. 
