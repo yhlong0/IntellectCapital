@@ -4,4 +4,4 @@
 2. If you save $40, there is no question on that, If you earn an extra $40, you'd actually have had to earn $80, half for you, half for the taxmen. A penny saved is two pennies earned.
 3. Simple insulation may be the best investment you can make, returning as much as 35% or more, tax-free. Why put $1000 into the stock of utility and earn $40 in annual taxable dividends if you can put the same money into insulation and save $350 on your utility bill tax-free?
 4. Because TIPS yield sits on top of inflation, it's unlikely Uncle Sam would ever have to pay dramatically higher rates to sell them. With inflation raging, the demand for inflation-protected securities would soar, allowing Uncle Sam to sell them successfully at lower yields(less attractive)
-5. 
+5. Roth and Trad would be the same if you have the same tax rate. Assumes you'd put $6000 in a traditional IRA vs just $3000 in the Roth. But why not put the full $6000 in the Roth, if you can afford to? A person who saves more virtually always ends up with more.
