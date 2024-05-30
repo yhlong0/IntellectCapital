@@ -1,0 +1,4 @@
+# The Hard Thing About Hard Things
+
+1. When I was a child, another boy named Roger tried to force me to do something harmful to a kid named Joel. I was terrified—if I refused, Roger might beat me, but if I complied, I would hurt Joel and face the consequences. In the end, I approached Joel and asked if I could ride in his wagon, and we became best friends. Being scared doesn't mean you're gutless; what matters is your actions, which determine whether you become a hero or a coward. Had I followed Roger's orders, I would have never met my best friend. This experience also taught me not to judge things by their surface. Until you make an effort to get to know someone or something, you know nothing. There are no shortcuts to knowledge, especially that gained from personal experience. Following conventional wisdom and relying on shortcuts can be worse than knowing nothing at all.
+
