@@ -6,6 +6,7 @@
 4. Given enough eyeballs, all bugs are shallow.
 5. Training is one of the highest-leverage activities a manager can perform. Consider you put 3 hours of preparation for each hour of course time, twelve hours of work in total. Assume you have ten students in your class. Each employee works about twenty thousand hours for your organization. If your training efforts result in a 1 percent improvement in your subordinates' performance, your company will gain the equivalent of two hundred hours of work as the result of the expenditure of your twelve hours.
 6. When people interview managers, they often like to ask, Have you fired anyone? Or how many people have you fired? Or how would you go about firing someone? These are all fine questions, but often the right question is the one that isn’t asked: When you fired the person, how did you know with certainty that the employee both understood the expectations of the job and was still missing them? The best answer is that the manager clearly set expectations when she trained the employee for the job. If you don’t train your people, you establish no basis for performance management. As a result, performance management in your company will be sloppy and inconsistent.
-7. 
+7. A good QA cannot build a high-quality product, but it can tell you when the development team builds a low-quality product. Similarly, a high-quality HR cannot make you a well-managed company with a great culture, but it can tell you when you and your managers are not getting the job done.
+8. 
 
 
