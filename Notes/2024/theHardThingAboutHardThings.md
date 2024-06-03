@@ -7,6 +7,16 @@
 5. Training is one of the highest-leverage activities a manager can perform. Consider you put 3 hours of preparation for each hour of course time, twelve hours of work in total. Assume you have ten students in your class. Each employee works about twenty thousand hours for your organization. If your training efforts result in a 1 percent improvement in your subordinates' performance, your company will gain the equivalent of two hundred hours of work as the result of the expenditure of your twelve hours.
 6. When people interview managers, they often like to ask, Have you fired anyone? Or how many people have you fired? Or how would you go about firing someone? These are all fine questions, but often the right question is the one that isn’t asked: When you fired the person, how did you know with certainty that the employee both understood the expectations of the job and was still missing them? The best answer is that the manager clearly set expectations when she trained the employee for the job. If you don’t train your people, you establish no basis for performance management. As a result, performance management in your company will be sloppy and inconsistent.
 7. A good QA cannot build a high-quality product, but it can tell you when the development team builds a low-quality product. Similarly, a high-quality HR cannot make you a well-managed company with a great culture, but it can tell you when you and your managers are not getting the job done.
-8. 
-
+8. The proper reason to hire a senior person is to acquire knowledge and experience in a specific area. For example, as a technical founder, you probably do not have terrific knowledge of how to build a worldwide sales channel, how to create an invincible brand, etc. Acquiring a world-class senior person can dramatically accelerate your company's ability to succeed in these areas.
+9. One-on-One is for employees, the employee should set the agenda and send it to you in advance and it will take as much or as little time as the employee needs. Managers should do 10 percent of the talking and 90 percent of listening. The manager should try to draw the key issues out of the employee, especially for the introverted employee.
+    - if we could improve in any way, how would we do it?
+    - what is the number one problem with our organization? why?
+    - what's not fun about working here?
+    - who is really kicking ass in the company? whom do you admire?
+    - if you were me, what changes would you make?
+    - what don't you like about the product?
+    - what's the biggest opportunity that we're missing out on?
+    - what are we not doing that we should be doing?
+    - are you happy working here?
+10. The primary thing that any technology startup must do is build a product that’s at least ten times better at doing something than the current prevailing way of doing that thing. Two or three times better will not be good enough to get people to switch to the new thing fast enough or in large enough volume to matter. 
 
