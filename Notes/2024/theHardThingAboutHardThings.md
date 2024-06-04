@@ -18,5 +18,7 @@
     - what's the biggest opportunity that we're missing out on?
     - what are we not doing that we should be doing?
     - are you happy working here?
-10. The primary thing that any technology startup must do is build a product that’s at least ten times better at doing something than the current prevailing way of doing that thing. Two or three times better will not be good enough to get people to switch to the new thing fast enough or in large enough volume to matter. 
+10. The primary thing that any technology startup must do is build a product that’s at least ten times better at doing something than the current prevailing way of doing that thing. Two or three times better will not be good enough to get people to switch to the new thing fast enough or in large enough volume to matter.
+11. At Facebook, a shocking motto: Move fast and break things. CEO didn't really want us to break things. However, he realized that if you move fast and innovate, you will break things. If you ask yourself, "Should I attempt this breakthrough? It will be awesome, but it may cause problems in the short term". If you'd rather be right than innovative, you won't fit in at Facebook.
+12. 
 
