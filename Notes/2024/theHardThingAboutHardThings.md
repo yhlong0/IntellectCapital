@@ -20,5 +20,8 @@
     - are you happy working here?
 10. The primary thing that any technology startup must do is build a product that’s at least ten times better at doing something than the current prevailing way of doing that thing. Two or three times better will not be good enough to get people to switch to the new thing fast enough or in large enough volume to matter.
 11. At Facebook, a shocking motto: Move fast and break things. CEO didn't really want us to break things. However, he realized that if you move fast and innovate, you will break things. If you ask yourself, "Should I attempt this breakthrough? It will be awesome, but it may cause problems in the short term". If you'd rather be right than innovative, you won't fit in at Facebook.
-12. 
+12. The most difficult and important decisions are difficult because they will be deeply unpopular with the CEO's most important constituencies(employees, investors, and customers). The best decision that I made in my carrer--to sell the loud cloud business to EDS and become Opsware--would have been lost by a landslide had I put it to a vote with my employees, investors, or my customers.
+13. In peacetime, leaders must maximize and broaden the current opportunity, and employ techniques to encourage broad-based creativity and contribution across a diverse set of possible objectives. In wartime, by contrast, the company typically has a single bullet in the chamber and must, at all costs, hit the target.
+14. Being CEO requires lots of unnatural motion. From an evolutionary standpoint, it is natural to do things that make people like you. It enhances your chances for survival. Yet to be a good CEO, in order to be liked in the long run, you must do many things that will upset people in the short run.
+15. 
 
