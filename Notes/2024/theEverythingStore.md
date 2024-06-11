@@ -7,4 +7,7 @@
 5. Methodology for how to select the category: a SWAT team to research categories of products that had high SKUs were underrepresented in physical stores, and could easily be sent through the mail.
 6. Bezos was looking for versatile managers who could move fast and get big things done.
 7. Toys were different than books, music, or movies. There is no third-party distributors to provide any item and take back unsold inventory. The retailers had to predict nearly a year in advance what the next holiday season's most popular items would be, as a majority of their sales occurred within a six-week frenzy of parental indulgence. If the retailers' forecasts were wrong, they were in deep trouble, because after the holidays, unsold toys were nonreturnable and about as desirable as rotten fruit. Toys are so fad driven, it's a little like betting on Oscar winners only by looking at movie trailers.
-8. 
+8. The biggest challenge was selecting and acquiring just the right selection of toys—precisely the kind of thing Toys “R” Us did well. It was dawning on us how brutal it was to pick Barbies and Digimon, and how expensive it would be to build a world-class e-commerce infrastructure.
+9. You don't feel thirty percent smarter when the stock goes up by thirty percent, so when the stock goes down you shouldn't feel thirty percent dumber.
+10. The membership fee is a one-time pain, but it's reinforced every time customers walk in and see forty-seven-inch televisions that are two hundred dollars less than anyplace else. It reinforces the value of the concept. Customers know they will find really cheap stuff at Costco. 
+11. 
