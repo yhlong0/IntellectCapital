@@ -10,5 +10,7 @@
 8. The biggest challenge was selecting and acquiring just the right selection of toys—precisely the kind of thing Toys “R” Us did well. It was dawning on us how brutal it was to pick Barbies and Digimon, and how expensive it would be to build a world-class e-commerce infrastructure.
 9. You don't feel thirty percent smarter when the stock goes up by thirty percent, so when the stock goes down you shouldn't feel thirty percent dumber.
 10. The membership fee is a one-time pain, but it's reinforced every time customers walk in and see forty-seven-inch televisions that are two hundred dollars less than anyplace else. It reinforces the value of the concept. Customers know they will find really cheap stuff at Costco. 
-11. There are two kinds of retailers: there are those folks who work to figure how to charge more, and there are companies that work to figure how to charge less, and we are going to be the second, full-stop。
-12. 
+11. There are two kinds of retailers: there are those folks who work to figure out how to charge more, and there are companies that work to figure out how to charge less, and we are going to be the second, full-stop。
+12. Slow steady progress can erode any challenge over time.
+13. To solve distribution challenge, Wilke set about filling the ranks of Amazon's logistics division with scientists and engineers rather than retail distribution veterans. It is essentially assembling and fulfilling customer orders. The factory physics were a lot of closer to manufacturing and assembly than they were to retail. The first move is to rename Amazon's shipping facilities(Warehouse, distribution center) to fulfillment centers, or FCs
+14. 
