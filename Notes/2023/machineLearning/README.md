@@ -45,10 +45,23 @@
 14. Basis Expansion: liner regression -> second-degree polynomial -> third-degree... this produces a more complex model and may overfit the data.
 15. Model weight: f(x) = w0 * x^4 + w1 * x^3 + w2 * x^2 + w3 * x + w4 => sum(w) = |w0| + |w1| + |w2| + |w3| + |w4| , As we can see, the sum of coefficients increase with the increase in model complexity. The higher-degree polynomial would have more weight terms added that the lower-degree.
 16. Regularization: technique to decrease the complexity of a model. Puts a constraint on the sum of weights in order to keep the weights small, constructs a penalized loss function. 
-    1. Ridge Regression(L2 regularized regression): cost function = min(SSR) + J * (w0^2 + w1^2 + w2^2 + ...) -> L2 penalty term, keep weights small
+    1. Ridge Regression(L2 regularized regression): cost function = min(SSR) + J * (w0^2 + w1^2 + w2^2 + ...) -> L2 penalty term, keep weights small:
+	    - When you have many features but suspect that only a few are significant.
+		- When you need to perform feature selection.
+		- When interpretability with fewer features is important.
+		- Can eliminate irrelevant features (automatic feature selection).
+		- Produces simpler and more interpretable models.
+	    - Might struggle when features are highly correlated (it tends to arbitrarily select one of them).
     2. Lasso Regression(L1 regularized regression): cost function = min(SSR) + J * (|w0| + |w1| + |w2| + ...)
+        - When you have many features and expect most of them to have some impact on the outcome.
+	    - When multicollinearity is a concern.
+	    - When you need a model that generalizes well without the need for feature selection.
+        - Handles multicollinearity well by distributing the impact among correlated features.
+	    - More stable than Lasso in the presence of noise.
+        - Does not perform feature selection, hence less interpretable.
+	    - Retains all features, which can lead to more complex models.
     ![regularization1](regularization1.jpg)  
-    3. Difference between L1 and L2, L1 shrinks many coefficients to be exactly 0 and produces a sparse model.
+    4. Difference between L1 and L2, L1 shrinks many coefficients to be exactly 0 and produces a sparse model.
     ![regularization2](regularization2.jpg)  
 17. In machine learning, a sparse model is a model that has a small number of non-zero coefficients or parameters. In other words, a sparse model is one where only a subset of the input features or variables are used to make predictions, while the rest are effectively ignored.A sparse model is desirable in many situations because it can be simpler, more interpretable, and more computationally efficient than a dense model, which uses all input features. Sparse models can also help to prevent overfitting, where a model fits too closely to the training data and does not generalize well to new data. Sparse models are commonly used in applications such as feature selection, where the goal is to identify the most important input features or variables for a particular task, and compressive sensing, where the goal is to reconstruct a signal from a small number of measurements. L1 regularization (also known as Lasso regularization) is a commonly used technique for producing sparse models in machine learning. By adding an L1 penalty term to the model's cost function, L1 regularization encourages many of the model's coefficients to be exactly zero, effectively selecting a small subset of the input features or variables.
 18. Model selection challenge is to select a model that is complex enough to capture the details of the training data but not too complex that is (nearly) memorizes the data.
