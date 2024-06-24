@@ -9,12 +9,12 @@
 4. An example of marketing for the new Porsche Turbo Cabriolet product line:
 	- A stamped “raw” metal plate was delivered to existing Turbo Cabriolet owners.
 	- Recipients were provided with a personal login and encouraged to visit the website with the message: “The raw Porsche awaits your color selection.”
-  - On the website, customers could choose their favorite color and order a personalized Turbo Cabriolet poster.
-  - The campaign tracked key metrics, including:
-      - Number of users who logged in
-  	  - Average session duration
-  	  - Number of posters ordered
-  	  - Word-of-mouth impact
-  	  - Number of “send to a friend” invitations
-  	  - Response rate
-  	  - Percentage of Turbo Cabriolet buyers during this period who received the mailer.
+	- On the website, customers could choose their favorite color and order a personalized Turbo Cabriolet poster.
+	- The campaign tracked key metrics, including:
+		- Number of users who logged in
+		- Average session duration
+		- Number of posters ordered
+		- Word-of-mouth impact
+		- Number of “send to a friend” invitations
+		- Response rate
+		- Percentage of Turbo Cabriolet buyers during this period who received the mailer.
