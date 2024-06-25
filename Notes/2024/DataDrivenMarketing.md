@@ -18,3 +18,5 @@
 		- Number of “send to a friend” invitations
 		- Response rate
 		- Percentage of Turbo Cabriolet buyers during this period who received the mailer.
+5. If you ask CMOs how they spend their budget, you often hear the percentage spent on TV, print, Internet and so on. However this breakdown is not useful, it does not tell what is the intended outcome of the marketing. We defined buckets for demand generation(drive revenues in a short time), branding and awareness(sports sponsorship, not to promote an upcoming sale), customer relationships(creating a personal link that drives loyalty and engagement), shaping markets(make the market receptive to your products or services through independent third-party recommendations) and infrastructure and capabilities.
+6. Financial metrics can be used to quantify approximately 50 percent of marketing activities. 
